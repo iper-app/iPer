@@ -1,0 +1,254 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>PER - Video</title>
+        <meta name="HandheldFriendly" content="true"/>
+        <meta name="viewport" content="width = device-width, initial-scale=1, maximum-scale=1"/>
+        <link rel="stylesheet" href="css/reset+clearfix.css" type="text/css"/>
+        <link rel="stylesheet" href="fonts/fonts.css" type="text/css"/>
+        <link rel="stylesheet" href="css/estilos.css" type="text/css"/>
+        <link rel="stylesheet" href="css/responsive.css" type="text/css"/>
+        <!--[if gte IE 9]>
+          <style type="text/css">
+            .gradient {
+               filter: none;
+            }
+          </style>
+        <![endif]-->
+        <!--<script src="js/cordova-2.4.0.js"></script>-->
+        <script src="cordova-2.7.0.js"></script>
+        <script src="js/iscroll.js"></script>
+        <script src="js/jquery.js"></script>
+        <script src="js/funciones.js"></script>
+        <script src="phonegap.js"></script>
+        <script src="js/contenidos/config.js"></script>
+        <script src="js/contenidos/videos.js"></script>
+        <script>
+
+            document.addEventListener("deviceready", function() {
+
+                function resolucion() {
+
+                    var ancho = $(window).width();
+                    var video = $('.video');
+
+                    var rutaVideo = 'http://boldtech.es/per/temas/'; // ruta general del servidor
+                    var rutaTema = '01tecnologia/'; // nombre de la carpeta de ese tema
+                    var nombreVideo = 'a12_1dimensi'; // nombre archivo sin extension
+
+                    var resolucion_1 = [600, 450];
+                    var rutaRes_1 = resolucion_1[0] + "x" + resolucion_1[1] + "/";
+                    var resolucion_2 = [800, 600];
+                    var rutaRes_2 = resolucion_2[0] + "x" + resolucion_2[1] + "/";
+                    var anchoCambio = 600; //ancho a partir del cual cambia a mejor calidad 
+
+                    if (ancho > anchoCambio) {
+
+                        var ruta = rutaVideo + rutaTema + rutaRes_2 + nombreVideo + '.mp4';
+
+                        if (device.platform.match(/Android/)) {
+                            window.plugins.videoPlayer.play(ruta);
+                        }
+                        else {
+                            video.attr('width', resolucion_2[0]);
+                            video.attr('height', resolucion_2[1]);
+                            $('.video source').remove();
+                            video.html("<source src=\"\" type='video/mp4' />");
+                            $('.video source').attr('src', ruta);
+                            $('.video source').load();
+                        }
+
+                    }
+
+                    else {
+
+                        var ruta = rutaVideo + rutaTema + rutaRes_1 + nombreVideo + '.mp4';
+
+                        if (device.platform.match(/Android/)) {
+                            window.plugins.videoPlayer.play(ruta);
+                        }
+                        else {
+                            video.attr('width', resolucion_1[0]);
+                            video.attr('height', resolucion_1[1]);
+                            $('.video source').remove();
+                            video.html("<source src=\"\" type='video/mp4' />");
+                            $('.video source').attr('src', ruta);
+                            $('.video source').load();
+                        }
+
+                    }
+
+                }
+
+                resolucion();
+
+            }, false); //fin phonegap
+        </script>
+        <script>
+            $(function() {
+                $('#loading').show();
+            });
+
+            $(window).load(function() {
+                $('#loading').fadeOut(2000);
+                iscroll_ini();
+                myScroll.refresh();
+            });
+        </script>
+    </head>
+
+    <body>
+        <div id="loading" class="hider" title="Confirmación" style="display:none;text-align: center;"><div class="popup_box"><img src="img/loading.gif" alt="" /><br>Enviando!</div></div>
+        <nav id="superior"  >
+            <div id="title" data-role="listview" data-filter="true">
+                <span class="title"></span>
+            </div>
+            <img id="cola" src="img/cola_menu_superior.png" alt="Colomer"/>
+            <img id="topFix" src="img/logo_iper.png" alt="Colomer"/>
+        </nav>
+
+        <div id="wrapper">
+            <div id="scrollable">
+                <div id="videoList" data-filter="true" data-role="listview">
+                    <div class="item">
+                        <a id="39" href="videos_template.html?id=39">1.1 Mal tiempo</a>
+                    </div>
+                    <div class="item">
+                        <a id="40" href="videos_template.html?id=40">1.2 Estabilidad</a>
+                    </div>
+                    <div class="item">
+                        <a id="41" href="videos_template.html?id=41">1.3 Sincronismo</a>
+                    </div>
+                    <div class="item">
+                        <a id="42" href="videos_template.html?id=42">1.4 Deflectores</a>
+                    </div>
+                    <div class="item">
+                        <a id="43" href="videos_template.html?id=43">2.1 Medidas con mal tiempo</a>
+                    </div>
+                    <div class="item">
+                        <a id="44" href="videos_template.html?id=44">2.2 Ancla de capa</a>
+                    </div>
+                    <div class="item">
+                        <a id="45" href="videos_template.html?id=45">2.3 Chubascos</a>
+                    </div>
+                    <div class="item">
+                        <a id="46" href="videos_template.html?id=46">3.1 Tormenta eléctrica</a>
+                    </div>
+                    <div class="item">
+                        <a id="47" href="videos_template.html?id=47">4.1 Baja visibilidad</a>
+                    </div>
+                    <div class="item">
+                        <a id="48" href="videos_template.html?id=48">5.1 Aguas someras</a>
+                    </div>
+                    <div class="item">
+                        <a id="49" href="videos_template.html?id=49">6.1 Material de seguridad I</a>
+                    </div>
+                    <div class="item">
+                        <a id="50" href="videos_template.html?id=50">6.2 Material de seguridad II</a>
+                    </div>
+                    <div class="item">
+                        <a id="51" href="videos_template.html?id=51">6.3 Material de seguridad III</a>
+                    </div>
+                    <div class="item">
+                        <a id="52" href="videos_template.html?id=52">6.4 Material de seguridad IV</a>
+                    </div>
+                    <div class="item">
+                        <a id="53" href="videos_template.html?id=53">7.1 Accidentes en el mar y tratamientos</a>
+                    </div>
+                    <div class="item">
+                        <a id="54" href="videos_template.html?id=54">7.2 Parada cardo-respiratoria</a>
+                    </div>
+                    <div class="item">
+                        <a id="55" href="videos_template.html?id=55">7.3 Consulta radio médica</a>
+                    </div>
+                    <div class="item">
+                        <a id="56" href="videos_template.html?id=56">7.4 Botiquín para la zona 4</a>
+                    </div>
+                    <div class="item">
+                        <a id="57" href="videos_template.html?id=57">8.1 Hombre al agua</a>
+                    </div>
+                    <div class="item">
+                        <a id="58" href="videos_template.html?id=58">8.2 Hombre al agua II</a>
+                    </div>
+                    <div class="item">
+                        <a id="59" href="videos_template.html?id=59">8.3 Maniobras de rescate</a>
+                    </div>
+                    <div class="item">
+                        <a id="60" href="videos_template.html?id=60">8.4 Hipotermia</a>
+                    </div>
+                    <div class="item">
+                        <a id="61" href="videos_template.html?id=61">9.1 Fallo de gobierno y timón de fortuna</a>
+                    </div>
+                    <div class="item">
+                        <a id="62" href="videos_template.html?id=62">10.1 Remolque</a>
+                    </div>
+                    <div class="item">
+                        <a id="63" href="videos_template.html?id=63">11.1 Abordaje</a>
+                    </div>
+                    <div class="item">
+                        <a id="64" href="videos_template.html?id=64">12.1 Varada</a>
+                    </div>
+                    <div class="item">
+                        <a id="65" href="videos_template.html?id=65">13.1 Vía de agua</a>
+                    </div>
+                    <div class="item">
+                        <a id="66" href="videos_template.html?id=66">14.1 Incendios</a>
+                    </div>
+                    <div class="item">
+                        <a id="67" href="videos_template.html?id=67">15.1 Abandono del buque</a>
+                    </div>
+                    <div class="item">
+                        <a id="68" href="videos_template.html?id=68">16.1 SASEMAR</a>
+                    </div>
+                    <div class="item">
+                        <a id="69" href="videos_template.html?id=69">17.1 Remolque y seguro de responsabilidad civil</a>
+                    </div>
+                    <div class="item">
+                        <a id="70" href="videos_template.html?id=70">18.1 Ecología marina</a>
+                    </div>
+                    <div class="item">
+                        <a id="71" href="videos_template.html?id=71">19.1 Aparejo</a>
+                    </div>
+                    <div class="item">
+                        <a id="72" href="videos_template.html?id=72">19.2 Velas</a>
+                    </div>
+                    <div class="item">
+                        <a id="73" href="videos_template.html?id=73">19.3 Centro vélico y centro de deriva</a>
+                    </div>
+                    <div class="item">
+                        <a id="74" href="videos_template.html?id=74">19.4 Descomposición de la fuerza del viento</a>
+                    </div>
+                    <div class="item">
+                        <a id="75" href="videos_template.html?id=75">19.5 Terminología de la vela</a>
+                    </div>
+                    <div class="item">
+                        <a id="76" href="videos_template.html?id=76">19.6 Rumbos a vela</a>
+                    </div>
+                    <div class="item">
+                        <a id="77" href="videos_template.html?id=77">19.7 Virar por avante</a>
+                    </div>
+                    <div class="item">
+                        <a id="78" href="videos_template.html?id=78">19.8 Virar en redondo o trasluchar</a>
+                    </div>
+                    <div class="item">
+                        <a id="79" href="videos_template.html?id=79">19.9 Parar un velero</a>
+                    </div>
+                    <div class="item">
+                        <a id="80" href="videos_template.html?id=80">19.1 Reducir superficie vélica</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <nav id="inferior"  >
+            <div class="boton" id="atras"><a href="#"><img id="cola" src="img/atras.png" alt="atras"/>atras</a></div>
+            <div class="boton" id="menu"><a href="menu_principal.html"><img id="cola" src="img/menu_2.png" alt="menu"/>menu</a></div>
+            <div id="central"></div>
+        </nav>
+
+    </body>
+
+    <script src="js/iscroll_ini.js"></script>
+
+</html>

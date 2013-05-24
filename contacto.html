@@ -1,0 +1,160 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>PER - Contacto</title>
+        <meta name="HandheldFriendly" content="true"/>
+        <meta name="viewport" content="width = device-width, initial-scale=1, maximum-scale=1"/>
+        <link rel="stylesheet" href="css/reset+clearfix.css" type="text/css"/>
+        <link rel="stylesheet" href="fonts/fonts.css" type="text/css"/>
+        <link rel="stylesheet" href="css/estilos.css" type="text/css"/>
+        <link rel="stylesheet" href="css/responsive.css" type="text/css"/>
+        <!--[if gte IE 9]>
+          <style type="text/css">
+            .gradient {
+               filter: none;
+            }
+          </style>
+        <![endif]-->
+        <!--<script src="js/cordova-2.4.0.js"></script>-->
+        <script src="cordova-2.7.0.js"></script>
+        <script src="js/iscroll.js"></script>
+        <!--<script src="js/jquery.js"></script>-->
+        <script src="js/jquery.mobile-1.3.1.js"></script>
+        <script src="js/funciones.js"></script>
+        <script src="phonegap.js"></script>
+        <script src="js/contenidos/config.js"></script>
+        <script src="js/contenidos/contact.js"></script>
+        <script>
+            $(function() {
+                $('.ui-btn-inner').hide();
+            });
+        </script>
+
+        <script>
+            $(function() {
+                $('#loading').show();
+            });
+
+            $(window).load(function() {
+                $('#loading').fadeOut(2000);
+                iscroll_ini();
+                myScroll.refresh();
+            });
+
+        </script>
+    </head>
+
+    <body>
+        <div id="loading" class="hider" title="Confirmación" style="display:none;text-align: center;"><div class="popup_box"><img src="img/loading.gif" alt="" /><br>Enviando!</div></div>
+        <nav id="superior"  >
+            <span class="title">contacto</span>
+            <img id="cola" src="img/cola_menu_superior.png" alt="Colomer"/>
+            <img id="topFix" src="img/logo_iper.png" alt="Colomer"/>            
+        </nav>
+
+        <div id="wrapper">
+
+
+            <div id="scrollable">
+                <div id="form" style="margin:auto;width:95%;"align="center">
+                    <table style="border: 1px solid #CCCCCC;margin: auto;width: 95%;" >
+                        <tbody>
+                            <tr>
+                                <td width="50%" align="right">
+                                    <img src="img/telefon.png" alt="" style="text-align:center;"/>
+                                </td>
+                                <td style="vertical-align: middle;">
+                                    <div align="left">
+                                        <a href="tel:968500406"><span class="numTel">968 500 406</span></a>
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <br>
+                    <table style="border: 1px solid #CCCCCC;width: 95%;" cellspacing="0">
+                        <tr>
+                            <td>
+                                <form id="contact_form">
+                                    <table width="100%" border="0" bgcolor="#E6EBF0" align="center">
+                                        <tr>
+                                            <td valign="top" class="T1">&nbsp;</td>
+                                            <td valign="middle" class="T2">&nbsp;</td>
+                                        </tr>
+                                        <tr>
+                                            <td valign="top" class="T1">
+                                                <label for="Nombre">
+                                                    <div align="right">Nombre:</div>
+                                                </label>
+                                            </td>
+                                            <td valign="middle" class="T2">
+                                                <div align="left">
+                                                    <input type="text" name="nombre" id="nombre" placeholder="Nombre" value="" autofocus/>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td valign="top" class="T1">
+                                                <label for="Tlf">
+                                                    <div align="right">Teléfono:</div>
+                                                </label>                                                
+                                            </td>
+                                            <td valign="middle" class="T2"><div align="left">
+                                                    <input type="text" name="Tlf" id="Tlf" placeholder="Teléfono" value=""/>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td valign="top" nowrap="nowrap" class="T1">
+                                                <label for="email">
+                                                    <div align="right">E-mail:*</div>
+                                                </label>
+
+                                            </td>
+                                            <td valign="middle" class="T2">
+                                                <div align="left">
+                                                    <input type="email" name="email" id="email" placeholder="e-mail" value="" />
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td valign="middle" class="T1"  style="vertical-align: top;"><div align="right">Comentarios:</div></td>
+                                            <td class="T2"><div align="left">
+                                                    <textarea name="Comentario" id="Comentario" cols="25" rows="4">Deseo información sobre el iPer, pónganse en contacto conmigo, gracias.</textarea>
+                                                </div>
+                                            </td>
+                                        </tr>                                                                                    
+                                        <tr>
+                                            <td valign="top" class="T1"><div align="left"></div></td>
+                                            <td>
+                                                <fieldset id="actions">
+                                                    <button type="submit" id="submit" style="font-size: 15px;" onclick="$('#loading').show();">Enviar</button>
+                                                </fieldset>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td valign="top" class="T1">&nbsp;</td>
+                                            <td valign="middle" class="T2">&nbsp;</td>
+                                        </tr>                                        
+                                    </table>                                           
+                                </form>                                
+                            </td>
+                        </tr>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+
+        <nav id="inferior"  >
+            <div class="boton" id="atras"><a href="menu_varios.html"><img id="cola" src="img/atras.png" alt="atras"/>atras</a></div>
+            <div class="boton" id="menu"><a href="menu_principal.html"><img id="cola" src="img/menu_2.png" alt="menu"/>menu</a></div>
+            <div id="central"></div>
+        </nav>
+
+    </body>
+
+    <script src="js/iscroll_ini.js"></script>
+
+</html>

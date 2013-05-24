@@ -1,0 +1,223 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>PER -Test y Examenes</title>
+        <meta name="HandheldFriendly" content="true"/>
+        <meta name="viewport" content="width = device-width, initial-scale=1, maximum-scale=1"/>
+        <link rel="stylesheet" href="css/reset+clearfix.css" type="text/css"/>
+        <link rel="stylesheet" href="fonts/fonts.css" type="text/css"/>
+        <link rel="stylesheet" href="css/estilos.css" type="text/css"/>
+        <link rel="stylesheet" href="css/responsive.css" type="text/css"/>
+        <!--[if gte IE 9]>
+          <style type="text/css">
+            .gradient {
+               filter: none;
+            }
+          </style>
+        <![endif]-->
+        <!--<script src="js/cordova-2.4.0.js"></script>-->
+        <script src="cordova-2.7.0.js"></script>
+        <script src="js/iscroll.js"></script>
+        <script src="js/jquery.js"></script>
+        <script src="js/funciones.js"></script>
+        <script src="phonegap.js"></script>
+        <script src="cdv-plugin-fb-connect.js"></script>
+        <script src="facebook-js-sdk.js"></script>
+        <script src ="js/contenidos/config.js"></script>
+        <script src ="js/contenidos/register.js"></script>
+        <script>
+            $(function() {
+                $('#loading').show();
+            });
+
+            $(window).load(function() {
+                $('#loading').fadeOut(2000);
+                iscroll_ini();
+                myScroll.refresh();
+            });
+
+            window.fbAsyncInit = function() {
+                FB.init({
+                    appId: '567389559951071', // App ID
+                    channelUrl: serviceURL + 'channel.php', // Channel File
+
+                    status: true, // check login status
+                    cookie: true, // enable cookies to allow the server to access the session
+                    xfbml: true  // parse XFBML
+                });
+
+                // Here we subscribe to the auth.authResponseChange JavaScript event. This event is fired
+                // for any authentication related change, such as login, logout or session refresh. This means that
+                // whenever someone who was previously logged out tries to log in again, the correct case below 
+                // will be handled. 
+                FB.Event.subscribe('auth.authResponseChange', function(response) {
+                    // Here we specify what we do with the response anytime this event occurs. 
+                    if (response.status === 'connected') {
+                        // The response object is returned with a status field that lets the app know the current
+                        // login status of the person. In this case, we're handling the situation where they 
+                        // have logged in to the app.
+                        testAPI();
+                    } else if (response.status === 'not_authorized') {
+                        // In this case, the person is logged into Facebook, but not into the app, so we call
+                        // FB.login() to prompt them to do so. 
+                        // In real-life usage, you wouldn't want to immediately prompt someone to login 
+                        // like this, for two reasons:
+                        // (1) JavaScript created popup windows are blocked by most browsers unless they 
+                        // result from direct interaction from people using the app (such as a mouse click)
+                        // (2) it is a bad experience to be continually prompted to login upon page load.
+                        FB.login();
+                    } else {
+                        // In this case, the person is not logged into Facebook, so we call the login() 
+                        // function to prompt them to do so. Note that at this stage there is no indication
+                        // of whether they are logged into the app. If they aren't then they'll see the Login
+                        // dialog right after they log in to Facebook. 
+                        // The same caveats as above apply to the FB.login() call here.
+                        FB.login();
+                    }
+                });
+            };
+
+            // Load the SDK asynchronously
+            (function(d) {
+                var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+                if (d.getElementById(id)) {
+                    return;
+                }
+                js = d.createElement('script');
+                js.id = id;
+                js.async = true;
+                js.src = "//connect.facebook.net/es_ES/all.js";
+                ref.parentNode.insertBefore(js, ref);
+            }(document));
+
+            // Here we run a very simple test of the Graph API after login is successful. 
+            // This testAPI() function is only called in those cases. 
+            function testAPI() {
+                //console.log('Welcome!  Fetching your information.... ');
+                FB.api('/me', function(response) {
+                    //window.sessionStorage.setItem("id", response.id);
+
+                    $.ajax({
+                        type: "POST",
+                        url: serviceURL + 'user_handle.php',
+                        data: "user=fb&nombre=" + response.name + "&email=" + response.id,
+                        complete: function() {
+                            $('#loading').fadeOut(2000);
+                        },
+                        success: function(result) {
+                            $('#loginDiv').empty();
+
+                            // keyname is now equal to "key"
+
+                            //idUsuario = window.localStorage.getItem("idUsuario");
+                            //console.log(result);
+
+                            var userData = eval(result);
+
+                            for (var i in userData) {
+                                window.sessionStorage.setItem("id", userData[i].idUsuario);
+                                window.sessionStorage.setItem("name", userData[i].nombre);
+                                idUsuario = window.sessionStorage.getItem("id");
+                                window.sessionStorage.setItem("email", userData[i].email);
+                                email = window.sessionStorage.getItem("email");
+
+                                //window.location.reload();
+                            }
+                        },
+                    });
+                    //console.log('Good to see you, ' + response.id + '.');
+                });
+            }
+        </script>
+
+    </head>
+
+    <body>
+        <div id="loading" class="hider" title="Confirmación" style="display:none;text-align: center;"><div class="popup_box"><img src="img/loading.gif" alt="" /><br>Enviando!</div></div>
+        <div id="fb-root"></div>
+        <nav id="superior"  >
+            <span class="title">test y examenes</span>
+            <img id="cola" src="img/cola_menu_superior.png" alt="Colomer"/>
+            <img id="topFix" src="img/logo_iper.png" alt="Colomer"/>
+        </nav>
+
+        <div id="wrapper">
+            <div id="scrollable">                
+                <div class="item"><a href="temasdeltest.html">TEST POR MATERIAS</a></div>
+                <div class="item"><a href="examenescompletos.html">EXAMENES COMPLETOS</a></div>
+                <div class="item"><a href="ranking.html">RANKING</a></div>                
+                <div id="fb-root"></div>
+                <div id="loginDiv" class="login">
+
+                    <div id="header">
+                        <div id="right-block">
+                            <div class="show_when_not_connected">
+                                <a onclick="promptLogin();$('#loading').show();" class="login-button">
+                                    <span>Login</span>                                    
+                                </a>
+                                <br><span>Puedes entrar con tu cuenta de facebook o registrar con un correo para hacer el test.</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="action">
+                        <div id="loading-icon"></div>
+
+                        <div id="msg"></div>
+                    </div>
+                    <form id="login">
+                        <fieldset id="inputs">
+                            <label for="email">Correo electrónico</label><br>
+                            <input class="txtBox" id="email" name="email" type="email" placeholder="Correo electrónico" autofocus required>   
+                            <br>
+                            <label for="password">Contraseña</label>
+                            <br>
+                            <input class="txtBox" id="password" name="password" type="password" placeholder="Contraseña" required>
+                        </fieldset>
+                        <fieldset id="actions">                                                
+                            <div class="itemBtn" id="submit"><a href="#" onclick="$('#loading').show();">ENTRAR</a></div>
+                            <div class="itemBtn" id="register"><a href="registrar.html">REGISTRAR</a></div>
+                        </fieldset>
+                    </form>
+                </div>
+                <div id="userinfo" class="userinfo login"></div>                
+            </div>
+
+        </div>
+    </div>
+
+
+
+    <nav id="inferior"  >
+
+        <div class="boton" id="atras"><a href="#"><img id="cola" src="img/atras.png" alt="atras"/>atras</a></div>
+        <div class="boton" id="menu"><a href="menu_principal.html"><img id="cola" src="img/menu_2.png" alt="menu"/>menu</a></div>
+        <div id="central"></div>
+    </nav>
+    <script>$('#loading').hide();</script>
+</body>
+<!--<script src="js/_config.js"></script>-->
+<!--<script src="js/ui.js"></script>-->
+<script src="js/fbAuth.js"></script>
+<!--<script src="js/feed.js"></script>
+<script src="js/graph_api.js"></script>
+<script src="js/requests.js"></script>-->
+<!--<script src="js/credits.js"></script>-->
+<script>
+        // Initialize the Facebook SDK
+        document.addEventListener('deviceready', function() {
+            FB.init({
+                appId: '567389559951071',
+                nativeInterface: CDV.FB,
+                useCachedDialogs: false
+            });
+
+            FB.getLoginStatus(handleStatusChange);
+
+            authUser();
+            updateAuthElements();
+        });
+</script>
+<script src="js/iscroll_ini.js"></script>  
+
+</html>

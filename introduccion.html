@@ -1,0 +1,99 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>PER - Introducción</title>
+        <meta name="HandheldFriendly" content="true"/>
+        <meta name="viewport" content="width = device-width, initial-scale=1, maximum-scale=1"/>
+        <link rel="stylesheet" href="css/reset+clearfix.css" type="text/css"/>
+        <link rel="stylesheet" href="fonts/fonts.css" type="text/css"/>
+        <link rel="stylesheet" href="css/estilos.css" type="text/css"/>
+        <link rel="stylesheet" href="css/responsive.css" type="text/css"/>
+        <!--[if gte IE 9]>
+          <style type="text/css">
+            .gradient {
+               filter: none;
+            }
+          </style>
+        <![endif]-->
+        <!--<script src="js/cordova-2.4.0.js"></script>-->
+        <script src="cordova-2.7.0.js"></script>
+        <script src="js/iscroll.js"></script>
+        <script src="js/jquery.js"></script>
+        <script src="js/funciones.js"></script>
+        <script src="phonegap.js"></script>
+        <script src="js/contenidos/externalLink.js"></script>
+        <script>
+            $(function() {
+                $('#loading').show();
+            });
+
+            $(window).load(function() {
+                $('#loading').fadeOut(2000);
+                iscroll_ini();
+                myScroll.refresh();
+            });
+        </script>
+    </head>
+
+    <body>
+        <div id="loading" class="hider" title="Confirmación" style="display:none;text-align: center;"><div class="popup_box"><img src="img/loading.gif" alt="" /><br>Enviando!</div></div>
+        <nav id="superior"  >
+            <span class="title">introducción</span>
+            <img id="cola" src="img/cola_menu_superior.png" alt="Colomer"/>
+            <img id="topFix" src="img/logo_iper.png" alt="Colomer"/>
+        </nav>
+
+        <div id="wrapper">
+            <div id="scrollable">
+                <div id="bodyNormal">
+                    <div class="clearfix"  style="text-align: center;"><img style="text-align: center;" src="img/santiago.jpg" alt=""/></div>
+
+                    <ul style="font-size: 0.8em;width:88%">
+                        <li>
+                            Hola, me llamo <em>Santiago Sánchez Colomer</em> y estudié Patrón Mayor de Cabotaje de la Marina Mercante en Cádiz.
+                        </li>
+                        <li>
+                            Navegué en barcos pesqueros, remolcadores y barcos de apoyo a barcos atuneros, por el Mediterráneo y Gran Sol (Irlanda).
+                        </li>
+                        <li>
+                            Actualmente navego como patrón en la Corporación de Prácticos del Puerto de Cartagena.
+                        </li>
+                        <li>
+                            En el año 2007, creé Colomer Escuela Náutica, compaginándola con los prácticos de Cartagena.
+                        </li>
+                        <li>
+                            Después de años formando a patrones de forma tradicional, he creado el iPer, adaptándome a las nuevas tecnologías y facilitando al máximo el aprendizaje del mismo.
+                        </li>
+                        <li>
+                            Este curso es el fruto de toda la experiencia adquirida tras años de navegación y enseñanza en el mundo de la náutica.
+                        </li>
+                        <li>
+                            Comprendiendo este curso y aprobando los test, estarás 100 % preparado para aprobar el teórico del PER.
+                        </li>
+                        <li>
+                            A través de este curso, empezarás un camino, el ser patrón de un barco, como se que lo lograrás, permíteme un consejo, actua con seguridad y firmeza, aunque te equivoques, la mar nos enseña cada segundo que estamos junto a ella.
+                        </li>
+                    </ul>
+
+                    <p class="right"><em>Santiago Sánchez Colomer <br />
+                            Patrón Mayor de Cabotaje de la Marina Mercante	</em><br />
+                        <br />
+                        <a href="http://cursodelper.es/">iPer</a>
+                    </p>                    
+                    <div id="contenedor_1"><img src="img/logo.png" alt="logo"/></div>
+                </div>
+            </div>
+        </div>
+
+        <nav id="inferior"  >
+            <div class="boton" id="atras"><a href="#"><img id="cola" src="img/atras.png" alt="atras"/>atras</a></div>
+            <div class="boton" id="menu"><a href="menu_principal.html"><img id="cola" src="img/menu_2.png" alt="menu"/>menu</a></div>
+            <div id="central"></div>
+        </nav>
+
+    </body>
+
+    <script src="js/iscroll_ini.js"></script>
+
+</html>

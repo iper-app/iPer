@@ -1,0 +1,1373 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>PER - Diccionario</title>
+        <meta name="HandheldFriendly" content="true"/>
+        <meta name="viewport" content="width = device-width, initial-scale=1, maximum-scale=1"/>
+        <link rel="stylesheet" href="css/reset+clearfix.css" type="text/css"/>
+        <link rel="stylesheet" href="fonts/fonts.css" type="text/css"/>
+        <link rel="stylesheet" href="css/estilos.css" type="text/css"/>
+        <link rel="stylesheet" href="css/responsive.css" type="text/css"/>
+        <!--[if gte IE 9]>
+          <style type="text/css">
+            .gradient {
+               filter: none;
+            }
+          </style>
+        <![endif]-->
+        <script src="js/iscroll.js"></script>
+        <script src="js/jquery.js"></script>
+        <script src="js/funciones.js"></script>
+
+        <script src="js/jquery.easing.1.3.js"></script>
+        <script src="js/jquery.scrollTo-1.4.3.1-min.js"></script>
+        <script>
+            $(document).ready(function() {
+                $('.letra').click(function() {
+                    $('.letra').removeClass('seleccionada');
+                    $(this).addClass('seleccionada');
+                    var letraActual = $(this).text();
+                    var destination = $('div#' + letraActual);
+                    $('#wrapper').scrollTo(destination, 1000, {easing: 'easeOutExpo'});
+                });
+            });
+        </script>
+        <script>
+            $(function() {
+                $('#loading').show();
+            });
+
+            $(window).load(function() {
+                $('#loading').fadeOut(2000);
+                iscroll_ini();
+                myScroll.refresh();
+            });
+        </script>
+    </head>
+
+    <body>
+        <div id="loading" class="hider" title="Confirmación" style="display:none;text-align: center;"><div class="popup_box"><img src="img/loading.gif" alt="" /><br>Enviando!</div></div>
+        <nav id="superior"  >
+            <span class="title">diccionario</span>
+            <img id="cola" src="img/cola_menu_superior.png" alt="Colomer"/>
+            <img id="topFix" src="img/logo_iper.png" alt="Colomer"/>
+        </nav>
+        <div id="letras">
+            <div class="letra seleccionada">a</div>	
+            <div class="letra">b</div>	
+            <div class="letra">c</div>	
+            <div class="letra">d</div>	
+            <div class="letra">e</div>	
+            <div class="letra">f</div>	
+            <div class="letra">g</div>	
+            <div class="letra">h</div>	
+            <div class="letra">i</div>	
+            <div class="letra">j</div>	
+            <div class="letra">k</div>	
+            <div class="letra">l</div>	
+            <div class="letra">m</div>	
+            <div class="letra">n</div>	
+            <div class="letra">o</div>	
+            <div class="letra">p</div>	
+            <div class="letra">q</div>	
+            <div class="letra">r</div>	
+            <div class="letra">s</div>	
+            <div class="letra">t</div>	
+            <div class="letra">u</div>	
+            <div class="letra">v</div>	
+            <div class="letra">w</div>	
+            <div class="letra">x</div>	
+            <div class="letra">y</div>	
+            <div class="letra">z</div>	
+        </div>
+        <div id="wrapper">
+            <div id="scrollable">
+                <div id="a">
+                    <div class="diccionario encabezado">A</div>
+                    <div class="diccionario">A bordo<span>En la embarcación.</span></div>	
+                    <div class="diccionario">A la capa<span>Capear.</span></div>
+                    <div class="diccionario">Aballestar<span>Tirar de un cabo ya tenso, tal como se hace con la cuerda de una ballesta, y cobrar lo que preste de sí, a fin de que quede más rígido; repicar.</span></div>
+                    <div class="diccionario">Abarloar<span>Situar un buque al lado de otro o de un muelle, etc., de modo que esté en contacto con su costado. Si hay varios, uno al lado del otro, se dice amarrado en primer andana, segunda andana, etc.</span></div>
+                    <div class="diccionario">Abatir<span>Desviarse un buque de su rumbo, por efecto del viento.</span></div>
+                    <div class="diccionario">Abitadura<span>Amarre realizado en una bita.</span></div>
+                    <div class="diccionario">Abitar<span>Amarrar un cabo a la bita.</span></div>
+                    <div class="diccionario">Abonanzar<span>Serenarse el tiempo.</span></div>
+                    <div class="diccionario">Abordaje<span>Acción y efecto de abordar.</span></div>
+                    <div class="diccionario">Abordar<span>Chocar una embarcación a otra.</span></div>
+                    <div class="diccionario">Aborrascarse<span>Ponerse borrascoso, tormenta en el mar.</span></div>
+                    <div class="diccionario">Aborregarse<span>Cubrirse el cielo de cirrus-cúmulus, que semejan vellones de lana.</span></div>
+                    <div class="diccionario">Aboyar<span>Boyar</span></div>
+                    <div class="diccionario">Abra<span>Todo claro en la costa para abrigo de las embarcaciones, como la desembocadura de un río, etc. * Distancia entre los palos de la arboladura.</span></div>
+                    <div class="diccionario">Abrigo<span>Lugar defendido de los embates del mar, vientos o corrientes.</span></div>
+                    <div class="diccionario">Abromarse<span>Llenarse de broma los fondos del barco.</span></div>
+                    <div class="diccionario">Acantilado<span>El fondo del mar formado por escalones o cantiles. * La costa cortada a pique o verticalmente.</span></div>
+                    <div class="diccionario">Achicador<span>Recipiente en forma de pala que sirve para sacar el agua de una embarcación pequeña, o para desagotar la sentina, volcando el agua en un recipiente mayor.</span></div>
+                    <div class="diccionario">Achicar<span>Extraer el agua que hubiese embarcado. * Achicar vela: Reducir el paño; disminuir la superficie vélica.</span></div>
+                    <div class="diccionario">Aclarar<span>Poner en orden los cabos y cables de las diferentes maniobras. * Refiriéndose al tiempo, cuando despejan las nubes o neblina.</span></div>
+                    <div class="diccionario">Acoderar<span>Dar una codera, cuando el barco está fondeado, para presentar un costado.</span></div>
+                    <div class="diccionario">Acolchar<span>Colchar.</span></div>
+                    <div class="diccionario">Acollador<span>Cabo, generalmente de cáñamo que pasa por los ojos de las vigotas de los obenques, estays, etc., y que sirve para tesarlos.</span></div>
+                    <div class="diccionario">Acollar<span>Cazar los acolladores.</span></div>
+                    <div class="diccionario">Acompañante<span>Reloj que sirve para comparar con el cronómetro y tomar el tiempo al que hace una observación astronómica.</span></div>
+                    <div class="diccionario">Aconchar<span>Arrastrar el viento o la corriente un objeto hacia un paraje peligroso. * Acostarse completamente sobre una banda el buque varado. * Abordarse sin violencia dos embarcaciones.</span></div>
+                    <div class="diccionario">Acopar<span>Curvar las tablas del forro de un barco en sentido transversal, de modo que se adapten a la forma de la cuaderna correspondiente.</span></div>
+                    <div class="diccionario">Acuartelar<span>Presentar más al viento la superficie de una vela, cazándola por barlovento para facilitar la virada por avante. En los yachts, esta maniobra se efectúa para virar el barco sin estrepada.</span></div>
+                    <div class="diccionario">Adrizar<span>Enderezar una embarcación que iba escorada.</span></div>
+                    <div class="diccionario">Adujar<span>Recoger un cabo o cable en adujas.</span></div>
+                    <div class="diccionario">Adujas<span>Cada una de las vueltas de un cabo, cable o cadena que se enrolla sobre si mismo, o sobre un cuerpo cilíndrico.</span></div>
+                    <div class="diccionario">Aferrar<span>Recoger en pequeños pliegues una vela y unirla a su verga, percha, o estay, por medio de tomadores para que no reciba el viento. Hacer lo propio con toldos, banderas, etc.</span></div>
+                    <div class="diccionario">Aforrar<span>Cubrir un objeto para darle más resistencia, o para su mejor conservación.</span></div>
+                    <div class="diccionario">Aforro<span>Cabo delgado con que se cubre parte de otro más grueso. * Parte de un cabo así forrado.</span></div>
+                    <div class="diccionario">Agalerar<span>Dar a los toldos inclinación adecuada para que despidan el agua de lluvia.</span></div>
+                    <div class="diccionario">Agua<span>Exclamación de petición de prioridad de paso de un timonel a otro.</span></div>
+                    <div class="diccionario">Aguada<span>Provisión de agua dulce. * Sitio en tierra donde se toma el agua dulce.</span></div>
+                    <div class="diccionario">Aguaje<span>Gran creciente del mar. * Agua que entra y sale en los puertos con las mareas. * Corrientes del mar. * Estela. * Impropiamente se usa este término para designar un canal navegable entre bancos.</span></div>
+                    <div class="diccionario">Aguantar<span>Resistir, mantener firme, sean personas o cosas.</span></div>
+                    <div class="diccionario">Aguja<span>Pieza imanada de la brújula o compás.</span></div>
+                    <div class="diccionario">Ahogado<span>Dícese del barco que va muy tumbado o escorado.</span></div>
+                    <div class="diccionario">Ahorcaperro<span>Nudo corredizo.</span></div>
+                    <div class="diccionario">Ala<span>Vela pequeña que se agrega a la principal en tiempos bonancibles.</span></div>
+                    <div class="diccionario">Alargador<span>Prolongador.</span></div>
+                    <div class="diccionario">Alcázar<span>Espacio en la cubierta superior de los buques, comprendido entre el palo mayor y la popa o la toldilla. También se denomina plaza de armas.</span></div>
+                    <div class="diccionario">Aleta<span>Parte del barco comprendida entre el través y la popa. * Viento por la aleta: Se llama al que se recibe por el ángulo comprendido entre el viento de popa y el largo. * Skeg.</span></div>
+                    <div class="diccionario">Alijar<span>Aligerar la carga de una embarcación.</span></div>
+                    <div class="diccionario">Alimentador<span>Esnón del foil.</span></div>
+                    <div class="diccionario">Alíscafo<span>Buque deslizador.</span></div>
+                    <div class="diccionario">Alma<span>Porción de filásticas que forman el centro de un cabo o cable y alrededor del cual se colchan los cordones.</span></div>
+                    <div class="diccionario">Almadía<span>Balsa de salvamento.</span></div>
+                    <div class="diccionario">Almanaque náutico<span>Recopilación de todos los elementos necesarios para las observaciones y cálculos astronómicos, para todos los días del año.</span></div>
+                    <div class="diccionario">Alta mar<span>Situación en el mar, lejos de las costas.</span></div>
+                    <div class="diccionario">Alteroso/a<span>Dícese del barco con elevada obra muerta.</span></div>
+                    <div class="diccionario">Altura<span>Elevación. * Tratándose de la situación geográfica, se dice de la latitud. * Elevación de un astro. * Estar a la altura de: Dejar un punto notable por el través de la embarcación.</span></div>
+                    <div class="diccionario">Alunado<span>Que presenta alunamiento.</span></div>
+                    <div class="diccionario">Alunamiento<span>Corte curvo que se da a algunas velas en la baluma, para aumentar su superficie.</span></div>
+                    <div class="diccionario">Amadrinar<span>Unir dos cosas para que se refuercen.</span></div>
+                    <div class="diccionario">Amainar<span>Calmar el viento o la mar.</span></div>
+                    <div class="diccionario">Amante<span>Cabo o cable que permite fijar el puño de escota de la vela mayor a la botavara. * Cabo asegurado por uno de sus extremos en la cabeza de un palo o percha, y por el otro provisto de un aparejo.</span></div>
+                    <div class="diccionario">Amantillar<span>Cazar los amantillos.</span></div>
+                    <div class="diccionario">Amantillo<span>Cabo que sirve para mantener horizontal una percha cruzada y evitar que ésta se caiga.</span></div>
+                    <div class="diccionario">Amarinar<span>Dar vela en cantidad proporcional a la fuerza del viento.</span></div>
+                    <div class="diccionario">Amarra<span>Todo cabo, cable o cadena que sujeta el barco.</span></div>
+                    <div class="diccionario">Amarradero<span>Lugar donde se amarra.</span></div>
+                    <div class="diccionario">Amarrar<span>Hacer firme una embarcación mediante cabos o cables a un muelle o boyarín. * Asegurar un cable o cabo. * Amarrar al borneo: Amarrar tomando al barco sólo por la proa, de un único muerto o ancla. * Amarrar en barbas de gato: Sistema de amarre utilizado en lugares con correntada, formado por dos amarras que salen de proa con un ángulo aproximado de 40º.</span></div>
+                    <div class="diccionario">Amollar<span>Aflojar la escota u otro cabo. * Amollar en popa: Derivar hasta ponerse viento en popa.</span></div>
+                    <div class="diccionario">Amordazar<span>Sujetar con mordazas.</span></div>
+                    <div class="diccionario">Amura<span>Puño de amura. * Banda de la embarcación por donde se recibe el viento; por extensión, en la navegación en popa es el lado contrario a donde cae la botavara. * Parte de los costados del buque donde éste empieza a estrecharse para formar la proa.</span></div>
+                    <div class="diccionario">Amurada<span>Costado del buque por la parte interior.</span></div>
+                    <div class="diccionario">Amurado a babor/estribor<span>Cuando el barco navega recibiendo el viento de esa amura.</span></div>
+                    <div class="diccionario">Amurar<span>Sujetar las velas por el puño de amura.</span></div>
+                    <div class="diccionario">Ancla<span>Instrumento de hierro o acero, de formas variadas, que sirve para sujetar la embarcación al fondo por medio de un cable, cabo o cadena. Las hay de varios tipos: del almirantazgo, de cepo, hongo, rezón, Danforth, Benson, etc. Están construídas de manera que al llegar al fondo se agarren, impidiendo ser arrastradas. * Ancla de respeto: Se utiliza para los fondeos en condiciones adversas (tormentas, grandes corrientes, etc.), y debe tener 1,5 veces el peso del ancla normal. * Ancla de mar: Cono de tela u otro subterfugio semejante, que arrojado al mar ofrece resistencia a ser arrastrado y que se utiliza en los barcos, con tiempos borrascosos cuando no es posible capear.</span></div>
+                    <div class="diccionario">Anclar<span>Echar el ancla, fondear.</span></div>
+                    <div class="diccionario">Anclote<span>Ancla pequeña.</span></div>
+                    <div class="diccionario">Ancón<span>Ensenada pequeña en donde pueden fondear los barcos.</span></div>
+                    <div class="diccionario">Andana<span>Cuando varios barcos se encuentran abarloados, dícese del orden en que se encuentran ubicados con respecto al muelle. Así, el barco amarrado al muelle estará amarrado en primer andana, el que se encuentre amarrado a éste, en segunda andana, etc.</span></div>
+                    <div class="diccionario">Andar<span>Marcha que lleva el barco.</span></div>
+                    <div class="diccionario">Andarivel<span>Cabo colocado a manera de pasamanos.</span></div>
+                    <div class="diccionario">Anegar<span>Inundar.</span></div>
+                    <div class="diccionario">Angra<span>Ensenada o bahía que sirve de abrigo a embarcaciones de poco calado.</span></div>
+                    <div class="diccionario">Antagalla<span>Faja de rizos de las velas de cuchillo.</span></div>
+                    <div class="diccionario">Antagallar<span>Tomar las antagallas para apagar la vela.</span></div>
+                    <div class="diccionario">Antepecho<span>Toda la parte de obra muerta del casco que sube de la cubierta para resguardo de la gente.</span></div>
+                    <div class="diccionario">Apagapenol<span>Cabo hecho firme en cada una de las relingas de caída de las velas cuadras, que sirve para cargarla quitándole el viento.</span></div>
+                    <div class="diccionario">Apagar<span>Aferrar una vela.</span></div>
+                    <div class="diccionario">Aparadura<span>La primera y más inferior de las tracas.</span></div>
+                    <div class="diccionario">Aparejar<span>Guarnecer a un velero de todos sus palos, perchas, jarcias y velamen poniéndolo en condiciones de navegar.</span></div>
+                    <div class="diccionario">Aparejo<span>Sistema de poleas y cabos para facilitar un trabajo. * El conjunto de palos, perchas y jarcias de un velero. * Las distintas combinaciones de velas que pueden llevar los veleros; así decimos aparejo de sloop, de cúter, yawl, etc. * Aparejo al tope: Aparejo en el cual el estay proel está encapillado en el tope del mástil. * Aparejo fraccional: Aparejo en el cual el estay proel está encapillado debajo del tope del mástil, a una distancia de éste que depende del diseño del barco.</span></div>
+                    <div class="diccionario">Apear<span>Poner a la pendura.</span></div>
+                    <div class="diccionario">Apenolado<span>Dícese del objeto más ancho en el centro que en los extremos.</span></div>
+                    <div class="diccionario">Aplacerado<span>Se dice del fondo del mar llano y de poca profundidad.</span></div>
+                    <div class="diccionario">Apopado<span>Dícese del mástil cuando presenta inclinación a popa. * Dícese del barco que está muy hundido de popa.</span></div>
+                    <div class="diccionario">Apopar<span>Llevar pesos hacia popa. * Poner el barco de popa al viento, corriente o lugar determinado estando al ancla. * Calar demasiado de popa.</span></div>
+                    <div class="diccionario">Apostadero<span>Puerto o bahía utilizado como fondeadero ordinario de buques de guerra.</span></div>
+                    <div class="diccionario">Aproado<span>Dícese del mástil cuando presenta inclinación a proa. * Dícese del barco que está muy hundido de proa.</span></div>
+                    <div class="diccionario">Aproar<span>Llevar pesos hacia proa. * Poner el barco de proa al viento, corriente o lugar determinado estando al ancla. * Calar demasiado de proa.</span></div>
+                    <div class="diccionario">Arbol<span>Palo.</span></div>
+                    <div class="diccionario">Arbolada<span>La mar cuando está agitada.</span></div>
+                    <div class="diccionario">Arboladura<span>Conjunto de palos y vergas de un buque.</span></div>
+                    <div class="diccionario">Arbolar<span>Colocar en un buque los palos.</span></div>
+                    <div class="diccionario">Ardiente<span>Dícese del barco muy propenso a orzar, poniéndose al viento.</span></div>
+                    <div class="diccionario">Arganeo<span>Argolla de hierro que va en el extremo superior de la caña del ancla, por la que ésta se entalinga.</span></div>
+                    <div class="diccionario">Armamento<span>Conjunto de los elementos necesarios para equipar los buques.</span></div>
+                    <div class="diccionario">Armar<span>Acción de colocar los elementos del barco.</span></div>
+                    <div class="diccionario">Arnés<span>Elemento de la indumentaria de los tripulantes, formado por correas que se ciñen al cuerpo y unido firmemente a la embarcación, con el objeto de evitar que la persona caiga de la misma.</span></div>
+                    <div class="diccionario">Arrancada<span>Aumento de la velocidad de la embarcación.</span></div>
+                    <div class="diccionario">Arranchar<span>Ordenar los efectos de a bordo.</span></div>
+                    <div class="diccionario">Arrastradera<span>Ala. * Vela auxiliar izada bajo la botavara.</span></div>
+                    <div class="diccionario">Arrecife<span>Banco o bajo formado por piedras en el mar.</span></div>
+                    <div class="diccionario">Arriar<span>Bajar una bandera o vela que esté izada. * Aflojar o soltar un cabo.</span></div>
+                    <div class="diccionario">Arribada<span>Acción y efecto de arribar. * Arribada forzosa: Llegada de una embarcación a un punto distinto del de su destino, por cualquier circunstancia que impida continuar el viaje. * De arribada: Modo adverbial de arribada forzosa.</span></div>
+                    <div class="diccionario">Arribaje<span>Arribada.</span></div>
+                    <div class="diccionario">Arribar<span>Derivar. * Llegar la nave a un puerto.</span></div>
+                    <div class="diccionario">Arrizar<span>Tomar mano de rizos.</span></div>
+                    <div class="diccionario">Arrufadura<span>Arrufo.</span></div>
+                    <div class="diccionario">Arrufo<span>Curvatura que se da habitualmente a un barco, en el sentido longitudinal, elevando sus extremos. Puede ser normal, recto o invertido.</span></div>
+                    <div class="diccionario">Arrumaje<span>Buena distribución de la carga o lastre.</span></div>
+                    <div class="diccionario">Arrumbación<span>Acción de arrumbar.</span></div>
+                    <div class="diccionario">Arrumbamiento<span>La dirección que sigue una costa o la que tienen dos objetos entre sí.</span></div>
+                    <div class="diccionario">Arrumbar<span>Fijar el rumbo a que se navega. * Determinar la dirección que sigue la costa.</span></div>
+                    <div class="diccionario">As de guía<span>Nudo marinero que permite realizar una gaza no corrediza.</span></div>
+                    <div class="diccionario">Astillero<span>Lugar donde se construyen y reparan las embarcaciones.</span></div>
+                    <div class="diccionario">Atalaya<span>Nombre que daban al marinero que estaba de vigía.</span></div>
+                    <div class="diccionario">Aterrada<span>La aproximación a tierra. * Navegar aterrado: Hacerlo muy próximo a tierra.</span></div>
+                    <div class="diccionario">Aterrar<span>Acercarse a tierra los buques en su derrota.</span></div>
+                    <div class="diccionario">Atolón<span>Isla de coral en forma de anillo con una laguna en el centro.</span></div>
+                    <div class="diccionario">Atracadero<span>Lugar donde puede atracarse sin peligro.</span></div>
+                    <div class="diccionario">Atracar<span>Arrimarse a un muelle, buque o embarcadero para quedar a su lado.</span></div>
+                    <div class="diccionario">Atravesarse<span>Cruzarse un barco a la mar, recibiendo las olas por el través.</span></div>
+                    <div class="diccionario">Avante<span>Adelante. * Virar por avante: Orzar hasta ponerse al viento y caer luego a la otra banda.</span></div>
+                    <div class="diccionario">Avería<span>Daño que recibe la embarcación en cualquiera de sus partes.</span></div>
+                    <div class="diccionario">Azimut<span>Angulo comprendido entre el norte verdadero y la vertical de un astro o punto notable.</span></div>
+                    <div class="diccionario">Azocar<span>Apretar, ajustar bien un nudo.</span></div>
+
+                    <div class="diccionario"><span></span></div>
+
+
+
+
+
+                </div>
+                <div id="b">
+                    <div class="diccionario encabezado">B</div>
+                    <div class="diccionario">Babor<span>La banda o costado izquierdo del barco mirando de popa a proa.</span></div>
+                    <div class="diccionario">Baderna<span>Cabo que se emplea para trincar la caña del timón.</span></div>
+                    <div class="diccionario">Bahia<span>Entrada grande del mar en la costa, poco profunda y de gran amplitud. Puede servir de abrigo a las embarcaciones.</span></div>
+                    <div class="diccionario">Bailer<span>Aparato de succión, que funciona cuando el velero tiene cierta velocidad, utilizado para achicar.</span></div>
+                    <div class="diccionario">Bajamar<span>El estado de la marea en su mayor descenso.</span></div>
+                    <div class="diccionario">Bajel<span>Denominación general de toda embarcación de porte en la navegación antigua.</span></div>
+                    <div class="diccionario">Bajio<span>Bajo de arena o piedra en forma de banco, donde se corre el riesgo de varar.</span></div>
+                    <div class="diccionario">Balancear<span>Establecer en el velamen el equilibrio entre las velas a proa y a popa del centro vélico de un buque.</span></div>
+                    <div class="diccionario">Balanceo<span>Equilibrio del barco que le permite navegar en línea recta a pesar de estar escorado.</span></div>
+                    <div class="diccionario">Balandra/o<span>Sloop.</span></div>
+                    <div class="diccionario">Balcon<span>Estructura tubular de acero que va en la popa y forma parte del guardamancebo. Es análoga al púlpito.</span></div>
+                    <div class="diccionario">Baliza<span>Señal afirmada al lecho marino mediante una estructura.</span></div>
+                    <div class="diccionario">Balizar<span>Colocar balizas. * Señalar un paso, entrada o río con boyas o señales.</span></div>
+                    <div class="diccionario">Ballenera<span>Embarcación ligera de dos proas.</span></div>
+                    <div class="diccionario">Ballestilla<span>Instrumento usado antiguamente para obtener la altura de los astros.</span></div>
+                    <div class="diccionario">Ballestrinque<span>Vuelta de amarre que se hace con los cabos, muy usada a bordo.</span></div>
+                    <div class="diccionario">Balon<span>Vela de estay de forma redondeada, para navegar con vientos francos.</span></div>
+                    <div class="diccionario">Balsa<span>Conjuntos de maderos fuertemente unidos formando una plancha, que se emplea para navegar en ríos y lagunas.</span></div>
+                    <div class="diccionario">Baluma<span>Caída de popa de las velas.</span></div>
+                    <div class="diccionario">Balumero<span>Artificio que se usa para tesar la baluma.</span></div>
+                    <div class="diccionario">Bancadas<span>Tablones que van colocados en la embarcación y convenientemente repartidos para que se sienten los tripulantes.</span></div>
+                    <div class="diccionario">Banco<span>Bajo de gran extensión. * Asiento de los remeros, también llamada bancada.</span></div>
+                    <div class="diccionario">Bandas<span>Son las partes que quedan a uno y otro lado del plano de crujía. * Estar en banda: Se dice del cabo o cable que está enteramente flojo. * Largar en banda: Soltar un cabo u otro objeto de golpe.</span></div>
+                    <div class="diccionario">Bandazo<span>Tumbo o escorada repentina del barco.</span></div>
+                    <div class="diccionario">Baera<span>Cockpit.</span></div>
+                    <div class="diccionario">Bao<span>Cada uno de los miembros puestos transversalmente de trecho en trecho que apoyan en las cabezas de las cuadernas, y sirven para consolidación y sostén de las cubiertas. * Cada uno de los dos barrotes que, empernados en las cacholas en el sentido de la quilla, sirven para sostener las cofas.</span></div>
+                    <div class="diccionario">Barajar<span>Hablando de la costa, es navegar con un rumbo paralelo e inmediato a ella.</span></div>
+                    <div class="diccionario">Barandilla<span>Pasamanos.</span></div>
+                    <div class="diccionario">Barbas<span>Hilazas de verdín mezcladas de lapa y basura, que se forma en el fondo de los cascos cuando pasa mucho tiempo sin limpiarlos. * Barbas de gato: Ver amarrar.</span></div>
+                    <div class="diccionario">Barbiquejo<span>Cada uno de los cabos o cadenas que sujetan el bauprés al tajamar.</span></div>
+                    <div class="diccionario">Barca<span>Aparejo de cuatro o más palos.</span></div>
+                    <div class="diccionario">Barco<span>Buque.</span></div>
+                    <div class="diccionario">Barloa<span>Cable o calabrote con que se sujetan los buques abarloados.</span></div>
+                    <div class="diccionario">Barloar<span>Abarloar.</span></div>
+                    <div class="diccionario">Barloventear<span>Ganar distancia contra el viento navegando de bolina.</span></div>
+                    <div class="diccionario">Barlovento<span>La parte de donde viene el viento, con respecto a un punto o lugar determinado.</span></div>
+                    <div class="diccionario">Barógrafo<span>Barómetro con un mecanismo que inscribe en una cinta la tendencia barométrica.</span></div>
+                    <div class="diccionario">Barómetro<span>Instrumento para medir la presión atmosférica.</span></div>
+                    <div class="diccionario">Barra<span>Banco de arena que se forma en la boca de los ríos, puentes y brazos de mar.</span></div>
+                    <div class="diccionario">Barraganete<span>Ultima pieza alta de la cuaderna. * Pieza de madera que se introduce entre las ligazones del costado de una embarcación para reforzarlo.</span></div>
+                    <div class="diccionario">Barrena<span>El rumbo que a propósito se abre en el casco para que se vaya a pique.</span></div>
+                    <div class="diccionario">Barrenar<span>Navegar sobre una ola, como lo hace una tabla de surf.</span></div>
+                    <div class="diccionario">Bastarda<span>Vela mayor latina.</span></div>
+                    <div class="diccionario">Baticulo<span>Vela mesana pequeña. * Cabo grueso que se da en ayuda de los viradores de los masteleros.</span></div>
+                    <div class="diccionario">Batten<span>Sable.</span></div>
+                    <div class="diccionario">Bauprés<span>Percha lanzada por la proa de la embarcación que permite llevar hacia adelante el arraigo de los estays, con el objeto de envergar mayor cantidad de velas de proa.</span></div>
+                    <div class="diccionario">Bengala<span>Fuego artificial que despide claridad muy viva de diversos colores, utilizada para pedir auxilio.</span></div>
+                    <div class="diccionario">Bergantín<span>Buque de vela de dos palos, mayor y trinquete, con bauprés y velas cuadras. En la mayor usa una cangreja grande.</span></div>
+                    <div class="diccionario">Bermuda<span>Vela triangular, utilizada hoy en día en la mayoría de los yates. También denominada vela Marconi.</span></div>
+                    <div class="diccionario">Beta<span>Cualquiera de los cabos empleados en los aparejos que no tienen nombre propio.</span></div>
+                    <div class="diccionario">Bichero<span>Asta larga con punta y gancho metálico en uno de sus extremos, que sirve para atracar y desatracar la embarcación, tomar objetos del agua, etc.</span></div>
+                    <div class="diccionario">Big boy<span>Drifter muy bolsudo, que se usa con vientos de popa.</span></div>
+                    <div class="diccionario">Bita<span>Cada uno de los postes de madera o hierro que situados cerca de la proa, servían en los antiguos navíos para amarrar los cables del ancla cuando se fondeaba. * Por extensión, los postes que hay en el muelle para amarrar las bozas y cadenas.</span></div>
+                    <div class="diccionario">Bitácora<span>Caja y soporte que contienen el compás.</span></div>
+                    <div class="diccionario">Bitadura<span>Porción de cable o cadena del ancla que se va a fondear, que se prepara en adujas sobre cubierta.</span></div>
+                    <div class="diccionario">Bitar<span>Abitar.</span></div>
+                    <div class="diccionario">Blando<span>Barco desequilibrado con tendencia a derivar.</span></div>
+                    <div class="diccionario">Blanqueteo<span>Recalmón producido por el cono de turbulencia de un velero o un obstáculo a barlovento.</span></div>
+                    <div class="diccionario">Blooper<span>Big boy.</span></div>
+                    <div class="diccionario">Boca<span>Puño de boca: Puño alto de proa de las velas tarquina, cangreja y guaira. * Boca de lobo: Abertura por la que se accede al carajo. * Boca de cangrejo: Forma semicircular que adopta el penol de algunas perchas, para poder tomar el palo con facilidad. * Boca de pico: Tintero donde se afirma el pico.</span></div>
+                    <div class="diccionario">Bocina<span>Cono de metal para hablar a la distancia. * Pieza o chapa gruesa que recubre el escobén por donde pasa la cadena de un ancla.</span></div>
+                    <div class="diccionario">Bodega<span>Espacio interior de los buques desde la cubierta inferior hasta la quilla.</span></div>
+                    <div class="diccionario">Bogar<span>Acción de introducir y extraer alternativamente los remos del agua, haciendo punto de apoyo en ésta con las palas y jalando del otro extremo en el sentido de popa a proa, para hacer caminar la embarcación hacia adelante.</span></div>
+                    <div class="diccionario">Boleo<span>Curvatura convexa de la cubierta para facilitar el drenaje de agua al exterior.</span></div>
+                    <div class="diccionario">Boliche<span>Bolina de las velas menudas.</span></div>
+                    <div class="diccionario">Bolina<span>Cabo con que se jala hacia proa la relinga de barlovento de una vela. * Cada una de las cuerdas que sujetan los coyes. * Castigo de azotes que se daba a los marineros de a bordo. * Navegar de bolina: Ceñir.</span></div>
+                    <div class="diccionario">Bolinear<span>Navegar de bolina.</span></div>
+                    <div class="diccionario">Bolinero<span>Dícese del buque que navega bien de bolina.</span></div>
+                    <div class="diccionario">Bombilla<span>Farol de mano con cristal esférico.</span></div>
+                    <div class="diccionario">Bonancible<span>Aplícase al tiempo, a la mar y al viento cuando están tranquilos, serenos.</span></div>
+                    <div class="diccionario">Bonanza<span>Serenidad, tranquilidad del tiempo, mar y viento.</span></div>
+                    <div class="diccionario">Boneta<span>Vela que se agrega por debajo de otra para aumentar su superficie.</span></div>
+                    <div class="diccionario">Borda<span>Línea de unión del casco con la cubierta. * Vela mayor en las galeras.</span></div>
+                    <div class="diccionario">Bordada<span>Derrota que hace entre dos viradas una embarcación.</span></div>
+                    <div class="diccionario">Bordear<span>Bordejear.</span></div>
+                    <div class="diccionario">Bordejear<span>Dar bordadas, o sea navegar de bolina alternativamente de una y otra banda.</span></div>
+                    <div class="diccionario">Bornear<span>Cambiar rápida y sorpresivamente la dirección del viento. * Girar el barco sobre sus amarras, estando fondeado.</span></div>
+                    <div class="diccionario">Borneo<span>Acción de bornear.</span></div>
+                    <div class="diccionario">Borrasca<span>Tempestad, tormenta del mar.</span></div>
+                    <div class="diccionario">Botador<span>Palo largo con que se hace fuerza en la arena para mover el barco.</span></div>
+                    <div class="diccionario">Botalón<span>Palo largo, herrado y aparejado, el cual se saca hacia la parte exterior del buque para varios usos.</span></div>
+                    <div class="diccionario">Botar<span>Echar al agua un buque.</span></div>
+                    <div class="diccionario">Botavara<span>Percha horizontal que se articula en la parte inferior del mástil y sirve para tesar el pujamen de la vela. * Botavara principal: La del palo mayor.</span></div>
+                    <div class="diccionario">Botazo<span>Todo agregado a la manga del barco como defensa.</span></div>
+                    <div class="diccionario">Bovedilla<span>La parte inferior y más inclinada de la popa.</span></div>
+                    <div class="diccionario">Boya<span>Cuerpo flotante amarrado al fondo para señalar algo. Pueden ser luminosas o ciegas.</span></div>
+                    <div class="diccionario">Boyante<span>Dícese del barco que no está calado hasta la línea de agua que le corresponde.</span></div>
+                    <div class="diccionario">Boyar<span>Poner boyas.</span></div>
+                    <div class="diccionario">Boyarín<span>Boya pequeña.</span></div>
+                    <div class="diccionario">Boza<span>Cabo hecho firme en la proa de un buque, que sirve para amarrarlo a un muelle, embarcadero, muerto, etc.</span></div>
+                    <div class="diccionario">Bracear<span>Jalar de las brazas para hacer girar las vergas.</span></div>
+                    <div class="diccionario">Brandal<span>Cabo grueso que se da en ayuda a los obenques de juanete. * Cada uno de los dos ramales de cabo sobre los que se forman las escalas de vientos.</span></div>
+                    <div class="diccionario">Braza<span>Cabo que laborea por el penol de las vergas y sirve para mantenerlas fijas y hacerlas girar en un plano horizontal. * Unidad de longitud, equivalente a seis pies o sea 1,8288 m.</span></div>
+                    <div class="diccionario">Brazal<span>Cada uno de los maderos fijados por sus extremos en una y otra banda desde la serviola al tajamar.</span></div>
+                    <div class="diccionario">Brazola<span>Suplemento de madera que no permite la entrada de agua de la cubierta a las aberturas.</span></div>
+                    <div class="diccionario">Brazos<span>Ramificaciones que en cada uno de sus extremos tiene la caña del ancla.</span></div>
+                    <div class="diccionario">Brea<span>Betún artificial compuesto de pez, sebo, resina y otros ingredientes, que se da a la madera de los barcos para protegerlas contra la intemperie.</span></div>
+                    <div class="diccionario">Brick<span>Bergantín grande, que además de los dos palos ordinarios lleva otro menor a popa para la cangreja.</span></div>
+                    <div class="diccionario">Briol<span>Cabos con que se cargan las velas cuadras, para aferrarlas con más facilidad. * Motón de briol: Es el que tiene dos cajeras, una encima de otra.</span></div>
+                    <div class="diccionario">Brisa<span>Viento suave. * Brisa de mar: Virazón. * Brisa de tierra: Terral.</span></div>
+                    <div class="diccionario">Broma<span>Se da este nombre al teredo, molusco que penetra la madera de los cascos deteriorándolos.</span></div>
+                    <div class="diccionario">Brújula<span>Aguja imanada que, puesta en equilibrio en un soporte, se coloca paralela al meridiano magnético del lugar.</span></div>
+                    <div class="diccionario">Bruma<span>Niebla que se levanta en el mar.</span></div>
+                    <div class="diccionario">Brusca<span>Boleo.</span></div>
+                    <div class="diccionario">Bujarrón<span>El barco escaso de arboladura, mal guindado.</span></div>
+                    <div class="diccionario">Bulárcama<span>Cuadernas de gran fortaleza, generalmente ubicadas a la altura del mástil.</span></div>
+                    <div class="diccionario">Buque<span>Todo objeto que pueda utilizarse como medio de transporte sobre el agua, y que bajo condiciones normales pueda ser comandado a voluntad por su tripulación.</span></div>
+                    <div class="diccionario">Buraco<span>Agujero. * Buraco de registro: Abertura que se practica en los buques para examinar sus ligazones y piezas de trabazón del casco.</span></div>
+                    <div class="diccionario">Burda<span>Sinónimo de brandal en los aparejos antiguos. * Cable que viene de lo alto de la arboladura y se tesa firme en cubierta y hacia popa. Puede ser fija o de labor, y en este caso lleva en el firme de cubierta un aparejo o palanca. * Burda volante: Obenque suplementario que se cambia de amura en las viradas.</span></div>
+                    <div class="diccionario">Burro<span>Puntal que se inserta en un alojamiento en la cubierta, vertical, en cuya parte superior en forma de horqueta apoya la botavara.</span></div>
+
+
+                </div>
+                <div id="c">
+                    <div class="diccionario encabezado">C</div>
+                    <div class="diccionario">Cabecear<span>Moverse el buque levantando y bajando alternativamente la proa.</span></div>
+                    <div class="diccionario">Cabeceo<span>Movimiento que se da al cabecear.</span></div>
+                    <div class="diccionario">Cabestrante<span>Cabrestante.</span></div>
+                    <div class="diccionario">Cabeza<span>Extremo superior de la caña del ancla donde va el arganeo. * Extremo superior del timón en las embarcaciones pequeñas, donde es desmontable. * Hacer cabeza: Hincar.</span></div>
+                    <div class="diccionario">Cabilla<span>Cada una de las barritas radiales de la rueda del timón. * Cada una de las barras encastradas en los cabilleros de las embarcaciones antiguas que sirven para amarrar los cabos de labor.</span></div>
+                    <div class="diccionario">Cabillero<span>Pieza con agujeros, por los que se atraviesan las cabillas que sirven para amarrar los cabos.</span></div>
+                    <div class="diccionario">Cabina<span>Nombre que se da al lugar habitable de los yates.</span></div>
+                    <div class="diccionario">Cable<span>Unidad de longitud, equivalente a la décima parte de una milla náutica, o sea a 185,2 m. * Cuerda metálica, generalmente de acero, conformada por un número determinado de alambres.</span></div>
+                    <div class="diccionario">Cabo<span>Cualquiera de las cuerdas que se usan a bordo. * Punto de tierra que se interna en el mar.</span></div>
+                    <div class="diccionario">Cabotaje<span>La navegación o tráfico que se hace de puerto a puerto, por las inmediaciones de las costas tomando como guías los puntos salientes de éstas.</span></div>
+                    <div class="diccionario">Cabrestante<span>Máquina destinada a mover grandes pesos. Es un torno de eje vertical. Se utiliza para levar anclas.</span></div>
+                    <div class="diccionario">Cabria<span>Máquina destinada a elevar cargas pesadas. Consta de tres o cuatro vigas dispuestas en forma piramidal, con un aparejo en el vértice superior.</span></div>
+                    <div class="diccionario">Cabrillear<span>Formarse pequeñas olas blancas.</span></div>
+                    <div class="diccionario">Cabuya<span>Cabuyería.</span></div>
+                    <div class="diccionario">Cabuyería<span>Conjunto de cabos, y por consiguiente todos los del barco.</span></div>
+                    <div class="diccionario">Cachas<span>Cada una de las quijadas de la cabeza del timón.</span></div>
+                    <div class="diccionario">Cachola<span>Piezas que se aplican a un palo, afirmándolas con pernos pasantes, para sujetar las jarcias.</span></div>
+                    <div class="diccionario">Cadena<span>Serie de eslabones enlazados entre sí.</span></div>
+                    <div class="diccionario">Cadenote<span>Barras de hierro que van de las mesas de guarnición a los costados del casco, donde se empernan y sirven de sostén a los obenques, burdas y brandales.</span></div>
+                    <div class="diccionario">Caer<span>Modificar el rumbo, desviándolo a una determinada banda. * Tratándose del tiempo o de la mar, calmarse. * Pasar de pronto de un punto de menor fondo a otro más profundo.</span></div>
+                    <div class="diccionario">Caída<span>Inclinación de un palo hacia popa o hacia proa. * Los lados de las velas que van de arriba hacia abajo.</span></div>
+                    <div class="diccionario">Cabilla<span>Cada una de las barritas radiales de la rueda del timón. * Cada una de las barras encastradas en los cabilleros de las embarcaciones antiguas que sirven para amarrar los cabos de labor.</span></div>
+                    <div class="diccionario">Cabillero<span>Pieza con agujeros, por los que se atraviesan las cabillas que sirven para amarrar los cabos.</span></div>
+                    <div class="diccionario">Cabina<span>Nombre que se da al lugar habitable de los yates.</span></div>
+                    <div class="diccionario">Cable<span>Unidad de longitud, equivalente a la décima parte de una milla náutica, o sea a 185,2 m. * Cuerda metálica, generalmente de acero, conformada por un número determinado de alambres.</span></div>
+                    <div class="diccionario">Cabo<span>Cualquiera de las cuerdas que se usan a bordo. * Punto de tierra que se interna en el mar.</span></div>
+                    <div class="diccionario">Cabotaje<span>La navegación o tráfico que se hace de puerto a puerto, por las inmediaciones de las costas tomando como guías los puntos salientes de éstas.</span></div>
+                    <div class="diccionario">Cabrestante<span>Máquina destinada a mover grandes pesos. Es un torno de eje vertical. Se utiliza para levar anclas.</span></div>
+                    <div class="diccionario">Cabria<span>Máquina destinada a elevar cargas pesadas. Consta de tres o cuatro vigas dispuestas en forma piramidal, con un aparejo en el vértice superior.</span></div>
+                    <div class="diccionario">Cabrillear<span>Formarse pequeñas olas blancas.</span></div>
+                    <div class="diccionario">Cabuya<span>Cabuyería.</span></div>
+                    <div class="diccionario">Cabuyería<span>Conjunto de cabos, y por consiguiente todos los del barco.</span></div>
+                    <div class="diccionario">Cachas<span>Cada una de las quijadas de la cabeza del timón.</span></div>
+                    <div class="diccionario">Cachola<span>Piezas que se aplican a un palo, afirmándolas con pernos pasantes, para sujetar las jarcias.</span></div>
+                    <div class="diccionario">Cadena<span>Serie de eslabones enlazados entre sí.</span></div>
+                    <div class="diccionario">Cadenote<span>Barras de hierro que van de las mesas de guarnición a los costados del casco, donde se empernan y sirven de sostén a los obenques, burdas y brandales.</span></div>
+                    <div class="diccionario">Caer<span>Modificar el rumbo, desviándolo a una determinada banda. * Tratándose del tiempo o de la mar, calmarse. * Pasar de pronto de un punto de menor fondo a otro más profundo.</span></div>
+                    <div class="diccionario">Caída<span>Inclinación de un palo hacia popa o hacia proa. * Los lados de las velas que van de arriba hacia abajo.</span></div>
+                    <div class="diccionario">Caja<span>Caja de cadenas: Receptáculo donde se estiba la cadena del ancla cuando se leva esta última. Generalmente se ubica entre la roda y la mampara de colisión. * Caja de orza: Receptáculo colocado en el casco destinado a recibir la orza cuando ésta se rebate.</span></div>
+                    <div class="diccionario">Cajera<span>Abertura de motones y cuadernales donde se colocan las roldanas, y cualquier otra semejante practicada en palos, perchas, etc.</span></div>
+                    <div class="diccionario">Cajonada<span>Maletero; encasillado a una y otra banda del sollado para colocar las maletas de la marinería.</span></div>
+                    <div class="diccionario">Cala<span>Ensenada estrecha. * La parte más honda del interior de un barco.</span></div>
+                    <div class="diccionario">Calabrote<span>Cabo grueso compuesto de nueve cordones.</span></div>
+                    <div class="diccionario">Calado<span>Distancia entre la línea de flotación y la parte inferior del quillote u orza.</span></div>
+                    <div class="diccionario">Calafate<span>Herramienta para calafatear.</span></div>
+                    <div class="diccionario">Calafatear<span>Rellenar con estopa las juntas de las tablas del casco y cubierta, y cubrirlas luego con brea o masilla.</span></div>
+                    <div class="diccionario">Calar<span>Hacer sumergir a un barco o cualquier otro objeto en el agua. * Alcanzar el barco una profundidad determinada por la parte más baja de su casco. * Deslizar un objeto a través de un agujero hasta que encaje en su posición.</span></div>
+                    <div class="diccionario">Caleta<span>Cala de poca extensión para fondeo de embarcaciones chicas.</span></div>
+                    <div class="diccionario">Caletear<span>Ir tocando un barco todos los puertos de la costa, y no sólo los mayores.</span></div>
+                    <div class="diccionario">Calima<span>Calina. * Conjunto de corchos enfilados a modo de rosario y que en algunas partes sirven de boya.</span></div>
+                    <div class="diccionario">Calimoso<span>Calinoso.</span></div>
+                    <div class="diccionario">Calina<span>Atmósfera cargada de vapores, como humo blanquecino originados por la calma, cuando el tiempo es bochornoso.</span></div>
+                    <div class="diccionario">Calinoso<span>Cargado de calina.</span></div>
+                    <div class="diccionario">Calma<span>Falta de viento, sosiego y tranquilidad del mar. * Calma chicha: Tranquilidad absoluta del viento y de la mar.</span></div>
+                    <div class="diccionario">Cámara<span>Las dependencias habitadas en los barcos por jefes, oficiales y pasajeros.</span></div>
+                    <div class="diccionario">Camareta<span>Cabina.</span></div>
+                    <div class="diccionario">Camino<span>Velocidad del buque.</span></div>
+                    <div class="diccionario">Campana, vuelta de<span>Vuelta de campana.</span></div>
+                    <div class="diccionario">Canal<span>Sitio angosto por donde sigue el hilo de la corriente. * La porción de mar entre dos tierras.</span></div>
+                    <div class="diccionario">Canalete<span>Remo corto de pala ancha, con que se boga a mano sin ayuda de chumacera o tolete.</span></div>
+                    <div class="diccionario">Cáncamo<span>Cabilla de hierro que por un extremo tiene ojo, gancho o argolla y por el otro rosca para hacerse firme en cualquier sitio del barco y tomar un motón, cabo, aparejo, tangón, etc.</span></div>
+                    <div class="diccionario">Candaliza<span>Cada uno de los cabos que hacen oficio de brioles en las vergas cangrejas.</span></div>
+                    <div class="diccionario">Candela<span>Dícese del palo que está vertical, sin caída.</span></div>
+                    <div class="diccionario">Candelero<span>Puntal vertical, generalmente de metal, que se coloca en lugares diversos para asegurar algún elemento, por ejemplo el guardamancebo. * Candelero ciego: El que no tiene anillo. * Candelero de ojo: El que tiene anillo.</span></div>
+                    <div class="diccionario">Cangreja<span>Vela trapezoidal, que va envergada por dos relingas en el pico y palo correspondiente.</span></div>
+                    <div class="diccionario">Cantil<span>Roca en la costa o en el fondo del mar, cortada a pique o en forma de escalón.</span></div>
+                    <div class="diccionario">Cantonera<span>Serreta de arista.</span></div>
+                    <div class="diccionario">Caña<span>Palanca que encastra en la cabeza del timón y con la cual se lo maneja. * Parte comprendida entre la cruz y el arganeo del ancla. * El trozo de escotas y amuras que están hechas firmes a los puños de las velas.</span></div>
+                    <div class="diccionario">Cáñamo<span>Planta anual de la familia cannabáceas (cannabis sativa). * Fibra de esta planta, que se utilizaba principalmente para cabos y cables fuertes.</span></div>
+                    <div class="diccionario">Capa<span>Ancla de capa: Cono de tela que se arroja al agua al correr un temporal. * Ponerse a la capa: Posición del barco, bajo velamen adecuado, en que frente a un mal tiempo se recibe el viento a un descuartelar. * Vela de capa: Vela de tamaño pequeño y paño muy fuerte.</span></div>
+                    <div class="diccionario">Capear<span>Maniobra realizada con las velas y el timón de la embarcación, de manera tal que el buque, a pesar de la acción del viento y el mar, se mantiene en el mismo lugar defendiéndose bien del embate de las olas.</span></div>
+                    <div class="diccionario">Caperol<span>Herraje de proa del yate, en el extremo superior de la roda.</span></div>
+                    <div class="diccionario">Capitán<span>El que manda un barco.</span></div>
+                    <div class="diccionario">Car<span>Extremo inferior y más grueso de la entena.</span></div>
+                    <div class="diccionario">Carabela<span>Antigua embarcación muy ligera, larga y angosta, con sólo una cubierta y tres palos, y cofa sólo en el mayor, entenas en los tres para velas latinas y algunas vergas en cruz en el mayor y en el de proa. * Forrado a carabela: Sistema de construcción de buques de madera utilizado antiguamente.</span></div>
+                    <div class="diccionario">Carajo<span>Cofa.</span></div>
+                    <div class="diccionario">Carel<span>Borde superior de una embarcación pequeña, donde se fijan los remos que la mueven.</span></div>
+                    <div class="diccionario">Carena<span>Obra viva. * Reparación que se hace en el casco de la nave.</span></div>
+                    <div class="diccionario">Carenar<span>Componer, recorrer, y calafatear un barco.</span></div>
+                    <div class="diccionario">Carenote<span>Cada uno de los tablones que se aplican a los lados de la quilla de un buque, para que se mantenga derecho cuando se vara en la playa.</span></div>
+                    <div class="diccionario">Cargadera<span>Cabos que sirven para cargar las velas.</span></div>
+                    <div class="diccionario">Cargar<span>Acción de apagar las velas. * Tratándose del viento, es aumentar éste su fuerza.</span></div>
+                    <div class="diccionario">Carlinga<span>Madero o armazón de hierro, sobre el que se apoya la mecha de un palo.</span></div>
+                    <div class="diccionario">Carraca<span>Mote despectivo que se aplica a todo barco pesado.</span></div>
+                    <div class="diccionario">Carroza<span>Armazón que sobresale en cubierta, para dar más espacio a la cabina.</span></div>
+                    <div class="diccionario">Carta náutica<span>Mapa destinado a la navegación, que representa la cuenca de un mar o un océano, con indicación de todos los detalles útiles al navegante.</span></div>
+                    <div class="diccionario">Cartografía<span>Ciencia que se ocupa de la preparación y construcción de los mapas y cartas náuticas, reproduciendo en una superficie plana la superficie terrestre. A partir del conocimiento de la forma esférica de la tierra por parte de los filósofos pitagóricos y la medición del arco del meridiano por Eratóstenes (220 A.C.), se pudo establecer una red de paralelos y meridianos que permitiría a Tolomeo la construcción de un mapa del mundo conocido con una apreciable exactitud en latitud y longitud de las tierras representadas (150 D.C.). El primer problema planteado por esta representación fue el traspaso de la superficie esférica al plano. Matemáticamente, el problema se plantea así: Sean þ y Ú las coordenadas de un punto del espacio en un sistema coordenado esférico (basta con dos coordenadas, pues el radio es cte.), y sean X e Y las coordenadas del plano. Se busca una transformación (X,Y) = T(þ,Ú). Las transformaciones T utilizadas en cartografía son de diversos tipos, y se denominan proyecciones (perspectiva, cónica, cilíndrica). La más utilizada para la navegación, por satisfacer la condición de conformidad (dos curvas que se cortan formando un ángulo Ó en el dominio de la transformada, tienen por imagen dos curvas que se cortan con el mismo ángulo Ó) es la Mercátor, proyección cilíndrica isógona perfeccionada por el holandés Gerhardus Mercator en el año 1569.</span></div>
+                    <div class="diccionario">Cascajo<span>Fondo compuesto de piedra muy menuda mezclada con arena.</span></div>
+                    <div class="diccionario">Casco<span>Cuerpo propiamente dicho de la embarcación.</span></div>
+                    <div class="diccionario">Castillo<span>Parte de la cubierta principal, desde el palo trinquete hasta la proa. * Castillo de popa: Toldilla.</span></div>
+                    <div class="diccionario">Cat<span>Aparejo de una sola vela.</span></div>
+                    <div class="diccionario">Catalina<span>Motón metálico.</span></div>
+                    <div class="diccionario">Catamarán<span>Embarcación de dos cascos, unidos entre sí por travesaños.</span></div>
+                    <div class="diccionario">Cataviento<span>Hilo colocado en los obenques que cumple la misma función que la grímpola.</span></div>
+                    <div class="diccionario">Catenaria<span>Curva descrita por un cabo, cable o cadena que se suspende por los extremos. Si el peso del mismo se distribuyera uniformemente a lo largo de la recta que une los extremos, la curva sería una parábola. La catenaria se produce en el cabo de fondeo, logrando que el ancla sea traccionada en forma horizontal, optimizando el rendimiento de la misma.</span></div>
+                    <div class="diccionario">Cayo<span>Isleta estéril y que emerge apenas de la superficie del mar.</span></div>
+                    <div class="diccionario">Caza-escota<span>Percha saliente a popa por donde se caza una mesana.</span></div>
+                    <div class="diccionario">Cazar<span>Cobrar de las escotas de las velas para orientarlas. * Atraer hacia sí un cabo cualquiera.</span></div>
+                    <div class="diccionario">Cegar<span>Quedar inutilizado un puerto o fondeadero por arrastre de tierra o arena.</span></div>
+                    <div class="diccionario">Celoso<span>Barco que tumba con facilidad, que no aguanta vela.</span></div>
+                    <div class="diccionario">Cenefa<span>Lona que se cuelga de las relingas de los toldos para evitar el sol. * Madero grueso que rodea una cofa, o en que termina y apoya su armazón.</span></div>
+                    <div class="diccionario">Cenit<span>Punto en que la vertical del lugar corta la esfera celeste.</span></div>
+                    <div class="diccionario">Centro de carena<span>Punto donde se aplica la resultante de las fuerzas de flotación que actúan sobre la carena.</span></div>
+                    <div class="diccionario">Centro Vélico<span>Punto imaginario donde se aplica la resultante de la acción del viento aparente sobre las velas.</span></div>
+                    <div class="diccionario">Ceñida<span>Navegar ciñendo.</span></div>
+                    <div class="diccionario">Ceñir<span>Navegar contra el viento en el menor ángulo posible; navegar de bolina.</span></div>
+                    <div class="diccionario">Cepo<span>Pieza de hierro, que se adapta a la caña del ancla, cerca del arganeo, para que alguna de las uñas penetre y se agarre en el fondo.</span></div>
+                    <div class="diccionario">Cerrazón<span>Oscuridad del cielo, cubierto de nubes densas que presagia tormenta.</span></div>
+                    <div class="diccionario">Chafaldete<span>Cabo que sirve para cargar los puños de gavias y juanetes, llevándolos al centro de sus respectivas vergas.</span></div>
+                    <div class="diccionario">Chalana<span>Embarcación pequeña de servicio, de fondo plano.</span></div>
+                    <div class="diccionario">Chalupa<span>Embarcación pequeña de dos palos.</span></div>
+                    <div class="diccionario">Chicha<span>Nombre que se da a la calma absoluta.</span></div>
+                    <div class="diccionario">Chicote<span>Extremo o punta de un cabo o cadena. Al resto del mismo se lo denomina firme.</span></div>
+                    <div class="diccionario">Chinchorro<span>Bote pequeño a remos.</span></div>
+                    <div class="diccionario">Chubasco<span>Conjunto de nubes oscuras que se levantan del horizonte y corren en dirección del viento que las empuja, el que suele ser nuevo y violento. A veces puede traer lluvias y otras no.</span></div>
+                    <div class="diccionario">Chubasquera<span>Capota confeccionada en dacron o lona sobre un armazón de aluminio o acero inoxidable con forma de tinglado que se coloca sobre la escotilla para impedir el ingreso de agua a la cabina cuando llueve.</span></div>
+                    <div class="diccionario">Chumacera<span>Tabla que se fija en la regala y en sitio de cada tolete, punto de apoyo de cada remo y que se forra de metal o cuero para suavizar el roce de aquél.</span></div>
+                    <div class="diccionario">Chusma<span>El conjunto de forzados o galeotes de una galera.</span></div>
+                    <div class="diccionario">Ciar<span>Bogar al revés. * Navegar marcha atrás.</span></div>
+                    <div class="diccionario">Ciclón<span>Tormenta giratoria de extraordinaria fuerza cuyo centro se desplaza y va acompañado comunmente por lluvias torrenciales. Se los llaman huracanes en las islas orientales, tifones en los mares de China, y tornados en la costa occidental de Africa.</span></div>
+                    <div class="diccionario">Cimarrón<span>Calificativo despectivo aplicado a un marinero indolente y poco amigo del trabajo.</span></div>
+                    <div class="diccionario">Cincha<span>Tira de lona que sirve para enganchar los pies y poder sacar el cuerpo fuera de borda.</span></div>
+                    <div class="diccionario">Cinglar<span>Hacer avanzar un bote con sólo mover a una y otra banda un remo colocado en el centro de la popa.</span></div>
+                    <div class="diccionario">Cintón<span>Listón de madera que va por la parte exterior del buque en toda su longitud y sirve para defender el costado. En embarcaciones pequeñas se denomina verduguillo.</span></div>
+                    <div class="diccionario">Civadera<span>Cruceta del botalón.</span></div>
+                    <div class="diccionario">Clara<span>Distancia entre centros de varetas y/o cuadernas, tomada en sentido longitudinal.</span></div>
+                    <div class="diccionario">Clase<span>Grupo o categoría en que se encuentran comprendidos los diferentes tipos de barcos.</span></div>
+                    <div class="diccionario">Clipper<span>Velero de líneas afinadas construído para obtener gran velocidad.</span></div>
+                    <div class="diccionario">Cobrar<span>Tirar de un cabo o cable de modo que se lo atrae.</span></div>
+                    <div class="diccionario">Coca<span>Vuelta que forma un cabo o cadena por vicio de torsión.</span></div>
+                    <div class="diccionario">Cockpit<span>Cajón abierto en cubierta para resguardo y comodidad del timonel y los tripulantes.</span></div>
+                    <div class="diccionario">Codaste<span>Pieza puesta verticalmente sobre la quilla en su extremo más próximo a popa, que sirve de sostén a toda ésta.</span></div>
+                    <div class="diccionario">Codera<span>Cabo hecho firme en la popa de la embarcación y que sirve para amarrarla a un muelle, muerto, etc.</span></div>
+                    <div class="diccionario">Codillo<span>Vuelta o rosca que toma el cabo al desdoblarlo por efecto de su torcido y que sólo se deshace torciendo el cabo en sentido contrario de su colcha. * Cada uno de los puntos extremos de la quilla.</span></div>
+                    <div class="diccionario">Cofa<span>Meseta colocada horizontalmente en el cuello de un palo para afirmar la obencadura de gavia, y facilitar la maniobra de las velas altas.</span></div>
+                    <div class="diccionario">Colcha<span>El torcido de los cabos y cada una de las vueltas del torcido.</span></div>
+                    <div class="diccionario">Colchar<span>Unir los cordones torciéndolos para formar un cabo.</span></div>
+                    <div class="diccionario">Colisión<span>Choque o abordaje de dos barcos.</span></div>
+                    <div class="diccionario">Collera<span>La gaza de los motones ciegos que se usaban en los estays.</span></div>
+                    <div class="diccionario">Compás<span>Brújula. * Compás de marcar: Pínula. * Compás de puntas secas: Instrumento que sirve para medir distancias en las cartas y para trazar círculos.</span></div>
+                    <div class="diccionario">Compensado<span>Dícese del timón cuyo eje de giro está por detrás de su borde de ataque, haciéndolo más fácil de gobernar.</span></div>
+                    <div class="diccionario">Conjunción<span>Situación relativa de dos o más astros, cuando tienen la misma longitud.</span></div>
+                    <div class="diccionario">Conserva<span>Compañía que se hacen mutuamente dos o más barcos en navegación.</span></div>
+                    <div class="diccionario">Contra<span>Prefijo que significa segundo.</span></div>
+                    <div class="diccionario">Contraamantillo<span>Cabo que sirve para mantener horizontal una percha cruzada y evitar que ésta se levante.</span></div>
+                    <div class="diccionario">Contraamura<span>Cabo grueso que se da en ayuda a la amura de las velas mayores en malos tiempos.</span></div>
+                    <div class="diccionario">Contrabolina<span>Segunda bolina que se da en ayuda a la primera.</span></div>
+                    <div class="diccionario">Contrabranque<span>Contrarroda.</span></div>
+                    <div class="diccionario">Contrabraza<span>Braza que se da habitualmente en una botavara hacia proa cuando se navega en popa para evitar la trasluchada.</span></div>
+                    <div class="diccionario">Contracodaste<span>Pieza de igual figura que el codaste y empernada a él por su parte interior.</span></div>
+                    <div class="diccionario">Contradriza<span>Segunda driza que se da en ayuda a la principal.</span></div>
+                    <div class="diccionario">Contraescota<span>Cabo que se da en ayuda de la escota.</span></div>
+                    <div class="diccionario">Contraescotín<span>Cabo que se da en ayuda del escotín.</span></div>
+                    <div class="diccionario">Contraestay<span>Cabo que refuerza el estay y ayuda a sostener el palo, llevándolo hacia proa.</span></div>
+                    <div class="diccionario">Contramaestre<span>Oficial de mar que manda las maniobras y faenas del barco, y cuida de la marinería, bajo las órdenes de los oficiales.</span></div>
+                    <div class="diccionario">Contramesana<span>Arbol pequeño que en algunos buques está entre la popa y el palo mesana.</span></div>
+                    <div class="diccionario">Contrapalanquín<span>Segundo palanquín que se da en ayuda del principal.</span></div>
+                    <div class="diccionario">Contraquilla<span>Pieza que cubre toda la quilla por la parte interior de la nave.</span></div>
+                    <div class="diccionario">Contrarroda<span>Pieza de igual figura que la roda y empernada a ella en su parte interior.</span></div>
+                    <div class="diccionario">Contrete<span>Hierro que va soldado transversalmente en el interior de cada eslabón de una cadena para permitirle soportar mayor tensión y evitar la formación de cocas.</span></div>
+                    <div class="diccionario">Convoy<span>Conjunto de buques mercantes que navegan escoltados por buques de guerra.</span></div>
+                    <div class="diccionario">Corbeta<span>Fragata ligera, con el mayor y trinquete como un bergantín redondo y el mesana con cangreja y escandalosa, sin vergas.</span></div>
+                    <div class="diccionario">Corchar<span>Colchar.</span></div>
+                    <div class="diccionario">Cordel<span>Cabo de la corredera y sondaleza.</span></div>
+                    <div class="diccionario">Cordón<span>Unión de filásticas torcidas, que colchados de tres o más forman los diferentes cabos.</span></div>
+                    <div class="diccionario">Cornamusa<span>Herraje con forma de muleta, utilizado para amarrar cabos.</span></div>
+                    <div class="diccionario">Coronamiento<span>La borda en la parte de popa del barco. * Terminación de un cabo con nudo o piña.</span></div>
+                    <div class="diccionario">Corredera<span>Instrumento para medir distancias y velocidades en navegación, con respecto al agua. * Corredera de Barquilla: La formada por un triángulo de madera y un cabo marcado a distancias preestablecidas. * Corredera Patente: Aquella que está constituida por una hélice remolcada bien lejos a popa, un instrumento con cuadrante en el yate, y un cabo que los une, llamado guindaleza. * Corredera Electrónica: Utiliza un transductor en la carena del barco, que funciona por el efecto Doppler.</span></div>
+                    <div class="diccionario">Corredor<span>El espacio de cubierta entre la borda y la carroza de la embarcación.</span></div>
+                    <div class="diccionario">Correr<span>Navegar en popa o al largo con poca o ninguna vela, a causa de la fuerza del temporal; en el caso de no llevar velas, se dice correr a palo seco.</span></div>
+                    <div class="diccionario">Corriente<span>Movimiento de las aguas del mar en una dirección determinada.</span></div>
+                    <div class="diccionario">Corrosión<span>Desgaste lento de un objeto, por la acción química del agua de mar.</span></div>
+                    <div class="diccionario">Corsario<span>El que manda una embarcación armada en corso con patente otorgada por autoridad competente.</span></div>
+                    <div class="diccionario">Corso<span>Navegación que se hace en busca y persecución de piratas o embarcaciones enemigas. Es actividad lícita dentro del derecho internacional amparada en el otorgamiento de una patente.</span></div>
+                    <div class="diccionario">Cortar la proa<span>Al cruzarse dos buques, pasar uno por delante de la proa del otro.</span></div>
+                    <div class="diccionario">Costa<span>Orilla y límite del mar y la parte inmediata de tierra que está junto a él.</span></div>
+                    <div class="diccionario">Costado<span>Cada uno de los lados que forman el casco de la embarcación de proa a popa y desde la línea de flotación hasta la borda.</span></div>
+                    <div class="diccionario">Costear<span>Navegar a lo largo de la costa sin perderla de vista.</span></div>
+                    <div class="diccionario">Costero<span>El barco destinado a navegar costeando.</span></div>
+                    <div class="diccionario">Costilla<span>Vulgarismo que se refiere a cada una de las cuadernas del barco.</span></div>
+                    <div class="diccionario">Costura<span>Unión de dos piezas de tela. * Unión de las tablas del fondo o de las de cubierta; espacio que hay entre ellas, el cual se llena con estopa.</span></div>
+                    <div class="diccionario">Cote<span>Nudo sencillo.</span></div>
+                    <div class="diccionario">Coy<span>Paño de lona cuadrilongo que sirve de cama a los marineros colgándola del techo.</span></div>
+                    <div class="diccionario">Coz<span>Extremo inferior de los masteleros.</span></div>
+                    <div class="diccionario">Creciente<span>Aumento de nivel del agua de un mar o río, llamada también flujo o entrante.</span></div>
+                    <div class="diccionario">Cresta<span>La parte culminante de una ola.</span></div>
+                    <div class="diccionario">Crucero<span>Navegación de varios días de duración. * El barco preparado para este tipo de navegación.</span></div>
+                    <div class="diccionario">Cruceta<span>Barras de madera o metal más o menos perpendiculares a los mástiles en el sentido de babor a estribor, que sirve para reforzarlos descomponiendo el esfuerzo de los obenques con el objeto de lograr que los palos mantengan su rigidez, evitando el pandeo.</span></div>
+                    <div class="diccionario">Cruisingchute<span>Vela más chica que un spinnaker y más grande que un genoa I, que se establece volante, conformando un genoa en ceñida y un spinnaker en popa. Se lo usa para cruceros.</span></div>
+                    <div class="diccionario">Crujía, eje de<span>Impropiamente denominado eje, es el plano que divide de proa a popa la embarcación en dos mitades simétricas (bandas de babor y estribor).</span></div>
+                    <div class="diccionario">Cruz<span>Unión de la caña del ancla con los brazos. * Punto medio de la verga horizontal de figura simétrica. * Vela de forma rectangular, muy utilizada antiguamente.</span></div>
+                    <div class="diccionario">Cruzamen<span>La longitud de las vergas de un barco de cruz.</span></div>
+                    <div class="diccionario">Cuaderna<span>Cada una de las piezas curvas cuya base encaja en la quilla del buque, y desde allí arranca a ambos lados, formando las costillas del mismo. * Cuaderna maestra: La que se coloca en el punto de manga máxima.</span></div>
+                    <div class="diccionario">Cuadernal<span>Conjunto de dos o tres poleas colocadas paralelamente dentro de la misma armadura.</span></div>
+                    <div class="diccionario">Cuaderno de bitácora<span>Libro rayado y encasillado convenientemente en el cual se anotan todos los elementos que sirven para llevar la estima, las situaciones astronómicas, las observaciones meteorológicas y los acontecimientos notables de la navegación, cuyas anotaciones las hace cada oficial al rendir su guardia.</span></div>
+                    <div class="diccionario">Cuadra<span>Anchura del buque en la cuarta parte de su eslora, contada desde proa o desde popa. * Vela cuadra: Vela de cruz. * A la cuadra: De través. * Dirección perpendicular a la quilla o al rumbo, equivalente al través.</span></div>
+                    <div class="diccionario">Cuadrante<span>Cuarta parte de círculo. * Cada una de las cuatro partes en que se divide la rosa de los vientos que toman el nombre del 1º, 2º, 3º y 4º a contar desde el norte por el este.</span></div>
+                    <div class="diccionario">Cuarta<span>Nombre de cualquiera de los 32 rumbos o vientos en que está dividida la rosa náutica.</span></div>
+                    <div class="diccionario">Cuartel<span>Entablado de madera con que se cierra la boca de una escotilla. * La posición de una vela cazada a barlovento.</span></div>
+                    <div class="diccionario">Cuarterón<span>Carta náutica de una zona reducida, muy detallada, y donde puede utilizarse una escala fija para medir distancias.</span></div>
+                    <div class="diccionario">Cuarto de guardia<span>Espacio de tiempo que dura este servicio a bordo para cada individuo o brigada, que acostumbra ser de cuatro horas.</span></div>
+                    <div class="diccionario">Cubichete<span>Todo lo que tapa a otra cosa para su resguardo, sirviéndole de techumbre.</span></div>
+                    <div class="diccionario">Cubierta<span>Cada uno de los pisos de un navío situados a diferente altura. * Cubierta alta o principal: La superior, que por antonomasia se llama solamente cubierta.</span></div>
+                    <div class="diccionario">Cuchillo<span>Nombre que se da a toda vela triangular que trabaja sobre estays o como si lo tuviera.</span></div>
+                    <div class="diccionario">Cuello de ganso<span>Gansera.</span></div>
+                    <div class="diccionario">Cuernos<span>Cada uno de los tubos que conforman la martingala.</span></div>
+                    <div class="diccionario">Culebra<span>Cabo delgado que, pasando por los ollaos de la vela, la toma a un palo, verga o entena, dando vueltas en espiral.</span></div>
+                    <div class="diccionario">Cunningham<span>Ollao ubicado unos centímetros por encima del puño de amura de la vela Marconi, que se usa para achatar la vela. * Por extensión, se denomina así a todo el aparejo asociado.</span></div>
+                    <div class="diccionario">Curso<span>Dirección o trayectoria de un buque.</span></div>
+                    <div class="diccionario">Cúter<span>Aparejo de un solo mástil y dos estays proel. Carga trinquetilla, foque, y vela mayor.</span></div>
+
+
+
+                </div>
+                <div id="d">
+                    <div class="diccionario encabezado">D</div>
+
+                    <div class="diccionario">Dado<span>Pieza cuadrada de metal embutida en el centro de una roldana para disminuir el rozamiento. * Refuerzo cuadrado de lona que se aplica a una vela para reforzarla.</span></div>
+                    <div class="diccionario">Dar<span>Alcanzar, caber o permitir. Aplícase al viento, la marea, etc. * Dar fondo: Fondear una embarcación.</span></div>
+                    <div class="diccionario">Dársena<span>Recinto artificial que se construye en la parte interior y más resguardada de los puertos, para la conservación y carenado de embarcaciones.</span></div>
+                    <div class="diccionario">Declararse<span>Establecerse el viento en una dirección determinada después de haber estado indeciso en dirección y fuerza.</span></div>
+                    <div class="diccionario">Declinación magnética<span>Angulo comprendido entre el meridiano geográfico y el meridiano magnético del lugar. * Declinación de un astro: Distancia angular entre el ecuador celeste y un astro, medida en la máxima ascensión de éste.</span></div>
+                    <div class="diccionario">Defensas<span>Bolsas o almohadillas que se sujetan a los costados del barco para preservarlos del choque o roce con otra embarcación o muelle, en las operaciones de abordaje o atraque.</span></div>
+                    <div class="diccionario">Delfinera<span>Tablón ancho que se ubica en proa y que permite maniobrar las velas de proa, reemplazando al botalón.</span></div>
+                    <div class="diccionario">Demanda, navegar en<span>Navegar hacia un lugar determinado. Por ejemplo, navegar en demanda de un puerto o de la costa.</span></div>
+                    <div class="diccionario">Demora<span>Angulo comprendido entre el eje de crujía y la marcación de un punto notable. Fuera del Río de la Plata, los significados de demora y marcación se invierten.</span></div>
+                    <div class="diccionario">Depresión del horizonte<span>Angulo formado por el horizonte sensible y el del mar. A mayor altura del observador, mayor depresión del horizonte.</span></div>
+                    <div class="diccionario">Deriva<span>Desvío de una embarcación de su verdadero rumbo, por efecto de la corriente. * A la deriva: Al garete.</span></div>
+                    <div class="diccionario">Derivar<span>Caer la embarcación a sotavento. Por extensión, en la navegación en popa es caer a la banda contraria a la de la amura.</span></div>
+                    <div class="diccionario">Derrame<span>El viento que se escapa de las velas por sotavento. Caer en derrame es entrar con un velero en la zona de perturbaciones de viento que se forman por el escape de las velas de otro barco.</span></div>
+                    <div class="diccionario"><span>Derrota</span>Trayectoria descrita por una embarcación.</div>
+                    <div class="diccionario">Derrotero<span>Publicación voluminosa, con gran cantidad de datos sobre los puertos, regímenes de viento, obstáculos, etc.</span></div>
+                    <div class="diccionario">Desabrigado<span>Dícese de cualquier fondeadero expuesto al viento y el mar, sin resguardo aparente.</span></div>
+                    <div class="diccionario">Desadujar<span>Deshacer las adujas de un cabo.</span></div>
+                    <div class="diccionario">Desaferrar<span>Quitar los tomadores con que está aferrada una vela.</span></div>
+                    <div class="diccionario">Desahogado<span>Dícese del barco que navega con soltura.</span></div>
+                    <div class="diccionario">Desaparejar<span>Quitar el aparejo de una embarcación.</span></div>
+                    <div class="diccionario">Desarbolar<span>Destruir, tronchar o derribar los palos de una embarcación. * Desarmar la arboladura.</span></div>
+                    <div class="diccionario">Desarmar<span>Quitar a un barco su armamento o pertrechos necesarios para la navegación.</span></div>
+                    <div class="diccionario">Desatracar<span>Apartar una embarcación de otra o de un atracadero, muelle, etc.</span></div>
+                    <div class="diccionario">Descalar<span>Sacar el timón de su lugar.</span></div>
+                    <div class="diccionario">Descalcador<span>Aparato de calafate para descalcar.</span></div>
+                    <div class="diccionario">Descalcar<span>Sacar las estopas viejas de un buque.</span></div>
+                    <div class="diccionario">Descolchar<span>Desunir los cordones de los cabos.</span></div>
+                    <div class="diccionario">Descuartelar<span>Rumbo algo más franco que el de la navegación de bolina.</span></div>
+                    <div class="diccionario">Descubierta<span>Inspección del estado del aparejo de un buque. * Reconocimiento que a la salida y puesta del sol se hace de todo el espacio circundante, hasta donde alcanza la vista.</span></div>
+                    <div class="diccionario">Desembarcadero<span>Lugar destinado a desembarcar.</span></div>
+                    <div class="diccionario">Desembarcar<span>Sacar efectos de a bordo y llevarlos a tierra. También aplicable a personas.</span></div>
+                    <div class="diccionario">Desencallar<span>Poner a flote una embarcación encallada o varada.</span></div>
+                    <div class="diccionario">Desencapillar<span>Zafar o desprender lo que está encapillado.</span></div>
+                    <div class="diccionario">Desenrizar<span>Desrizar.</span></div>
+                    <div class="diccionario"><span>Desenvergar</span>Quitar las velas de sus palos o perchas.</div>
+                    <div class="diccionario">Desfondar<span>En relación al casco del buque, agujerearse su fondo por un golpe fortuito. * Fallar una vela por su centro a causa de la fuerza del viento. * Hundirse una cubierta, escotilla, mamparo, etc., por efecto de un esfuerzo.</span></div>
+                    <div class="diccionario">Desguace<span>Acción y efecto de desguazar.</span></div>
+                    <div class="diccionario">Desguarnir<span>Despasar el cabo de un aparejo que laborea por un motón, cuadernal, o molinete.</span></div>
+                    <div class="diccionario">Desguazar<span>Deshacer un buque para aprovechar sus partes.</span></div>
+                    <div class="diccionario">Desguindar<span>Bajar lo que está guindado.</span></div>
+                    <div class="diccionario">Deshecho<span>Dícese de un temporal o viento de fuerza extraordinaria.</span></div>
+                    <div class="diccionario">Despasar<span>Sacar un cabo de los motones por donde trabaja. * Desguarnir el cabrestante.</span></div>
+                    <div class="diccionario">Despedir<span>Refiriéndose a la costa que tiene bajos o arrecifes se dice que la costa despide un bajo, arrecife, etc.</span></div>
+                    <div class="diccionario">Desplazamiento<span>Peso del volumen de agua desalojado por la obra viva de la embarcación. De acuerdo al principio de Arquímedes, es igual al peso de la embarcación.</span></div>
+                    <div class="diccionario">Despuntar<span>Contornear una punta o cabo de la tierra.</span></div>
+                    <div class="diccionario">Desrelingar<span>Quitar las relingas a las velas.</span></div>
+                    <div class="diccionario">Desrizar<span>Soltar los rizos.</span></div>
+                    <div class="diccionario">Desvío del compás<span>Angulo formado por el compás con respecto al meridiano magnético, por efecto de la influencia de las masas ferromagnéticas del barco.</span></div>
+                    <div class="diccionario">Desvirar<span>Dar vueltas al cabrestante en sentido contrario al de virar.</span></div>
+                    <div class="diccionario">Dique<span>Muro construído para contener las aguas. * Dique seco: Recinto estanco que se llena de agua por la abertura que cierra una compuerta, por donde entran navegando los barcos que quedan en seco por el desagote del agua del dique. * Dique flotante: Es una construcción que altera en forma considerable su línea de flotación, levantando los barcos para carenarlos o repararlos.</span></div>
+                    <div class="diccionario">Dormido<span>Dícese del buque cuando navega escorado por el viento y no obedece al timón. * Dícese del buque de rolido amplio y lento cuando, al llegar al punto de máximo balanceo, queda parado unos momentos antes de adrizarse. * Aplícase al compás que por falta de fuerza directriz u otros defectos, tarda en volver al meridiano magnético en los cambios de rumbos. * Pieza que se coloca sobre la quilla y en el que se afirma el pie de la varenga.</span></div>
+                    <div class="diccionario">Dotación<span>Tripulación de un barco. * Dotación, con: Dícese del buque cuyo dueño es socio de un club reconocido por la Prefectura Naval Argentina.</span></div>
+                    <div class="diccionario">Draga<span>Barco provisto de maquinaria apropiada para excavar y limpiar fondos.</span></div>
+                    <div class="diccionario">Drifter<span>Tipo de genoa muy grande, de material liviano y corte bolsudo, que se establece volante. Se usa con vientos suaves.</span></div>
+                    <div class="diccionario">Driza<span>Nombre dado a los cabos o cables que izan las velas en los palos. * Puño de driza: Puño alto de las velas triangulares.</span></div>
+                    <div class="diccionario">Durmiente<span>Listón que corre de proa a popa, contra la parte superior de las cuadernas, y que complementa el apoyo de los baos.</span></div>
+                    <div class="diccionario">Duro<span>Dícese del viento muy fuerte. * El barco que aguanta mucho viento escorando poco.</span></div>
+
+                </div>
+                <div id="e">
+                    <div class="diccionario encabezado">E</div>
+                    <div class="diccionario"><span></span></div>
+                    <div class="diccionario">Eclíptica<span>Plano en el cual la tierra se desplaza alrededor del sol describiendo una elipse, y que forma con el plano del ecuador un ángulo de 23º 27'.</span></div>
+                    <div class="diccionario">Ecosonda<span>Sonda electrónica, basada en la reflexión de ondas sonoras en el fondo.</span></div>
+                    <div class="diccionario">Ecuación de tiempo<span>Diferencia entre el tiempo medio indicado en el cronómetro y la hora solar. Dato suministrado por el almanaque náutico.</span></div>
+                    <div class="diccionario">Ecuador<span>Círculo máximo de la esfera terrestre, perpendicular al eje de rotación de la tierra. Divide a la misma en dos hemisferios, norte y sur.</span></div>
+                    <div class="diccionario">Elevación<span>Angulo comprendido entre la visual a un astro y la línea de horizonte, medido por la vertical. * Altura sobre el nivel del mar.</span></div>
+                    <div class="diccionario">Embancarse<span>Varar en un banco.</span></div>
+                    <div class="diccionario">Embarcación<span>Buque.</span></div>
+                    <div class="diccionario">Embarcadero<span>Lugar destinado al embarque de personas y efectos.</span></div>
+                    <div class="diccionario">Embarcar<span>Meter efectos en una embarcación. Aplicable a personas y al agua que pudiese alcanzar la borda.</span></div>
+                    <div class="diccionario">Embarrancar<span>Varar, clavándose el barco en fondo de arena o fango.</span></div>
+                    <div class="diccionario">Embate<span>Choque impetuoso del mar.</span></div>
+                    <div class="diccionario">Embestir<span>Chocar, dar un barco contra la costa o contra otra embarcación.</span></div>
+                    <div class="diccionario">Embicar<span>Embestir derecho en la playa con la embarcación.</span></div>
+                    <div class="diccionario">Emblema<span>Distintivo de la clase a la que pertenece un velero, que va pintado en la vela mayor.</span></div>
+                    <div class="diccionario">Embonar<span>Acción de colocar los embonos. * Forrar exteriormente con tablones el casco de un buque para ensanchar su manga.</span></div>
+                    <div class="diccionario">Embones/os<span>Tablas faltantes en proporción de 1 de cada 6 aproximadamente, que se colocan (bien ajustadas) al último en el forrado de un barco. De este modo, la madera al humedecerse se hincha y presiona a las demás, logrando una estanqueidad notable sin necesidad de calafateo.</span></div>
+                    <div class="diccionario">Embrear<span>Untar con brea una cosa.</span></div>
+                    <div class="diccionario">Empalme<span>Unión íntima entre los extremos de dos maderos, cabos, etc.</span></div>
+                    <div class="diccionario">Empañicar<span>Acción de plegar la vela sobre la botavara al tomar mano de rizos, o al aferrarla.</span></div>
+                    <div class="diccionario">Empavesada<span>Faja de lana o paño azul encarnado, con franjas blancas, para adornar las bordas y cofas de los buques.</span></div>
+                    <div class="diccionario">Empavesado<span>El conjunto de galas con que se adornan los barcos para celebraciones de días determinados.</span></div>
+                    <div class="diccionario">Empavesar<span>Adornar la embarcación para los días de fiesta.</span></div>
+                    <div class="diccionario">Empernar<span>Asegurar con pernos.</span></div>
+                    <div class="diccionario">Empopada<span>Popa redonda.</span></div>
+                    <div class="diccionario">Empopar<span>Virar hasta colocar la popa al viento.</span></div>
+                    <div class="diccionario">Empuñidura<span>Cabo que sujeta los puños o ángulos de la vela, o todo lo que va a trabajar como tal, como los extremos de las fajas de rizos.</span></div>
+                    <div class="diccionario">Encabrillar<span>Hacer cabrillas el agua del mar; cabrillear.</span></div>
+                    <div class="diccionario">Encajerarse<span>Morderse un cabo o cable entre la roldana y cajera.</span></div>
+                    <div class="diccionario">Encalladero<span>Lugar donde pueden encallar las naves.</span></div>
+                    <div class="diccionario">Encallar<span>Dar la embarcación en fondo duro o entre piedras, quedando inmóvil en ellos.</span></div>
+                    <div class="diccionario">Encalmar<span>Quedar un barco sin viento en medio de una calma.</span></div>
+                    <div class="diccionario">Encapilladura<span>La acción de encapillar. * El extremo de todo cabo encapillado en cualquier punto. * La parte del palo donde se afirman los obenques y/o los estays.</span></div>
+                    <div class="diccionario">Encapillar<span>Enganchar un cabo al penol de una verga, cuello de palo o mastelero, etc., por medio de una gaza.</span></div>
+                    <div class="diccionario">Encastrar<span>Endentar dos piezas.</span></div>
+                    <div class="diccionario">Encontrado<span>Rumbo contrario que siguen dos embarcaciones.</span></div>
+                    <div class="diccionario">Encresparse<span>Hablando del mar, alterarse éste elevándose las olas con la fuerza del viento.</span></div>
+                    <div class="diccionario">Enfachar<span>Ponerse en facha.</span></div>
+                    <div class="diccionario">Enfilación<span>Línea de posición que se obtiene al coincidir dos o mas objetos sobre una misma línea.</span></div>
+                    <div class="diccionario">Engalanado<span>El conjunto de banderas y gallardetes que adornan el barco el día de celebración.</span></div>
+                    <div class="diccionario">Engalgar<span>Colocar dos anclas una detrás de la otra sobre el mismo fondeo.</span></div>
+                    <div class="diccionario">Engazar<span>Ajustar y poner de firme gazas a los motones, cuadernales y vigotas.</span></div>
+                    <div class="diccionario">Engrilletar<span>Unir o asegurar por medio de un grillete.</span></div>
+                    <div class="diccionario">Enjarciar<span>Poner la jarcia a una embarcación.</span></div>
+                    <div class="diccionario">Enjaretado<span>Especie de rejilla formada por barrotes y listones cruzados a escuadra. * Conjunto de jaretas que en el mar se hacen en las jarcias cuando se hallan flojas.</span></div>
+                    <div class="diccionario">Enjaretar<span>Hacer pasar por una jareta una cinta, cordón, etc.</span></div>
+                    <div class="diccionario">Enjuncar<span>Atar o aferrar con ligeras filásticas las velas previamente dobladas para usarlas en el momento conveniente, rompiendo las ligaduras.</span></div>
+                    <div class="diccionario">Enrollador<span>Mecanismo que permite hacer rotar el foil de modo tal que la vela disminuye su superficie enroscándose sobre sí misma. Permite eliminar la antagalla.</span></div>
+                    <div class="diccionario">Ensenada<span>Entrante en la tierra que forma seno, y sirve de abrigo a las embarcaciones. Cuando es pequeña se llama ancón, y antiguamente angra.</span></div>
+                    <div class="diccionario">Entalingar<span>Unir el chicote del cabo al arganeo del ancla.</span></div>
+                    <div class="diccionario">Entena<span>Percha en que se envergan las velas latinas.</span></div>
+                    <div class="diccionario">Entrañar<span>Embutir un cabo con otro de menor mena por el hueco que dejan los cordones en su superficie para redondearlo.</span></div>
+                    <div class="diccionario">Envergar<span>Sujetar las relingas de las velas a las vergas. Por extensión, se aplica a la acción de afirmar una vela a un palo o estay.</span></div>
+                    <div class="diccionario">Equipo<span>Equivalente a equipaje. * La tripulación de un yacht.</span></div>
+                    <div class="diccionario">Escala de vientos<span>Escalera formada por dos cabos, llamados brandales, unidos por flechastes.</span></div>
+                    <div class="diccionario">Escandallar<span>Sondear con el escandallo.</span></div>
+                    <div class="diccionario">Escandallo<span>Peso que las sondas manuales llevan amarrada en un extremo de la sondaleza. Cuenta con una cavidad abierta en su parte inferior que permite averiguar la composición del fondo.</span></div>
+                    <div class="diccionario">Escandalosa<span>Vela que se coloca sobre el pico de la cangreja, para aprovechar más el viento.</span></div>
+                    <div class="diccionario">Escarceo<span>Especie de efervescencia en la superficie del mar formando pequeñas olas que son producidas por el encuentro de corrientes.</span></div>
+                    <div class="diccionario">Esclusa<span>El paso navegable que situado entre dos muros da acceso a una dársena o un dique.</span></div>
+                    <div class="diccionario">Escobén<span>Cada uno de los agujeros que se abren a los costados de la roda, para que pasen por ellos los cables o cadenas.</span></div>
+                    <div class="diccionario">Escollera<span>Dique de defensa que se construye con piedras para resguardo contra la marejada y las corrientes.</span></div>
+                    <div class="diccionario">Escollo<span>Arrecife o peñasco bajo el agua, que no se descubre bien. Cuando éste vela sobre la superficie se llama farallón.</span></div>
+                    <div class="diccionario">Escora<span>Angulo formado por el plano de crujía con respecto a un plano vertical.</span></div>
+                    <div class="diccionario">Escorar<span>Inclinar el velero hacia una banda.</span></div>
+                    <div class="diccionario">Escota<span>Cabo o aparejo afirmado en los puños de escota de las velas o en la botavara. Sirve para bracear a aquellas. * Puño de escota: Puño bajo de popa de la vela.</span></div>
+                    <div class="diccionario">Escotera<span>Abertura o artificio por donde pasa una escota.</span></div>
+                    <div class="diccionario">Escotilla<span>Acceso a la cabina desde cubierta.</span></div>
+                    <div class="diccionario">Escotín<span>Escota de cualquier vela de cruz de un buque, excepto las mayores.</span></div>
+                    <div class="diccionario">Escuadra<span>Conjunto de buques de guerra de una misma bandera, y al mando de un jefe.</span></div>
+                    <div class="diccionario">Eslinga<span>Cabo grueso, con un guardacabo en su parte media, y gazas o ganchos en sus chicotes, para levantar pesos.</span></div>
+                    <div class="diccionario">Eslora<span>Longitud del barco tomada del extremo de la roda al extremo del codaste. * Eslora entre perpendiculares: La medida del extremo anterior de la roda al extremo posterior del codaste. * Eslora en flotación: La medida en los extremos de la línea de flotación.</span></div>
+                    <div class="diccionario">Esnón<span>Riel de los palos y perchas por donde se fijan los garruchos.</span></div>
+                    <div class="diccionario">Espadilla<span>Remo grande que se coloca en el coronamiento de popa de los botes para gobernarlo a falta de timón.</span></div>
+                    <div class="diccionario">Espejo<span>Parte plana o ligeramente curvada de la embarcación.</span></div>
+                    <div class="diccionario">Esperanza<span>Sobrenombre que se da al ancla mayor del barco.</span></div>
+                    <div class="diccionario">Espía<span>Cabo que sirve para trasladar el barco maniobrándolo desde a bordo, habiendo previamente afirmado su otro extremo en algún lugar.</span></div>
+                    <div class="diccionario">Espiche<span>Tapón del orificio de desagüe de embarcaciones pequeñas.</span></div>
+                    <div class="diccionario">Espigón<span>Construcción que avanza hacia aguas profundas para servir de embarcadero. * Rompeolas.</span></div>
+                    <div class="diccionario">Espolón<span>Punta en que remata la proa de una nave. * Pieza de acero aguda y afilada, que salía de la proa de un buque y que servía para embestir las naves enemigas.</span></div>
+                    <div class="diccionario">Esqueleto<span>Armazón del barco formado por la quilla, roda, codaste y cuadernas.</span></div>
+                    <div class="diccionario">Esquife<span>Bote chico de dos proas.</span></div>
+                    <div class="diccionario">Estabilidad<span>Es la mayor o menor capacidad del barco de adrizarse por si mismo, cuando por cualquier causa momentánea es escorado.</span></div>
+                    <div class="diccionario">Establecer<span>Refiriéndose a una vela, es el acto de izarla y cazarla para que tome adecuadamente el viento.</span></div>
+                    <div class="diccionario">Estacha<span>Cuerda atada al arpón de la pesca de ballenas.</span></div>
+                    <div class="diccionario">Estado<span>Estado absoluto de un cronómetro es la diferencia de éste con respecto al tiempo medio.</span></div>
+                    <div class="diccionario">Estanco<span>Como adjetivo, indica al objeto sellado que no hace agua por sus junturas. * Compartimiento estanco: Cada una de las secciones independientes que tiene el casco de un buque para evitar el hundimiento, aunque se inunde una de ellas.</span></div>
+                    <div class="diccionario">Estay<span>Cable de acero que sujeta los palos en el sentido longitudinal. * Estay de violín: Estay que está tomado por sus dos extremos en el mástil, y que tiene una martingala en el medio. Se utiliza para ayudar a soportar los esfuerzos de flexión en el mástil. * Estay de galope: El más alto de todos, que sujeta el tope de los mastelerillos. * Baby estay: Estay que, en los aparejos al tope, se utiliza para dar una cierta curvatura al mástil.</span></div>
+                    <div class="diccionario">Estela<span>Rastro o señal que deja la navegación del barco, al mover las aguas.</span></div>
+                    <div class="diccionario">Estiba<span>Distribución de la carga.</span></div>
+                    <div class="diccionario">Estibar<span>Guardar ordenadamente cosas sueltas para que ocupen el menor espacio posible. * Distribuir convenientemente los pesos del buque.</span></div>
+                    <div class="diccionario">Estima<span>El cálculo de la situación del barco, fundado en los rumbos, distancias navegadas, corrientes probables y abatimiento.</span></div>
+                    <div class="diccionario">Estoa<span>Estado estacionario de una marea o corriente.</span></div>
+                    <div class="diccionario">Estopa<span>Hilachas de lino o cáñamo, que sirve para calafatear.</span></div>
+                    <div class="diccionario">Estopor<span>Aparato colocado en cubierta que sirve para frenar la cadena del ancla.</span></div>
+                    <div class="diccionario">Estrecho<span>La angostura o canal por donde se comunican dos mares.</span></div>
+                    <div class="diccionario">Estrenque<span>Maroma gruesa.</span></div>
+                    <div class="diccionario">Estrepada<span>Inercia del barco.</span></div>
+                    <div class="diccionario">Estribor<span>Costado derecho, mirando de popa a proa.</span></div>
+                    <div class="diccionario">Estrinque<span>Estrenque.</span></div>
+                    <div class="diccionario">Estrobo<span>Pedazo de cabo unido por sus chicotes.</span></div>
+                    <div class="diccionario">Estropada<span>Argentinismo que se usa en lugar del vocablo correcto, estrepada.</span></div>
+
+
+                </div>
+                <div id="f">
+                    <div class="diccionario encabezado">F</div>
+                    <div class="diccionario">Facha, ponerse en<span>Orzar hasta quedar proa al viento.</span></div>
+                    <div class="diccionario">Faja de rizos<span>Mano de rizos.</span></div>
+                    <div class="diccionario">Falca<span>Tabla delgada que en las embarcaciones menores se pone de canto de proa a popa, encima de la borda, para que no se introduzca el agua.</span></div>
+                    <div class="diccionario">Falcacear<span>Ligar el extremo de un cabo para que no se descolchen sus cordones.</span></div>
+                    <div class="diccionario">Falúa<span>Embarcación menor a remo, en la que se arbolan dos palos para navegar a vela.</span></div>
+                    <div class="diccionario">Fanal<span>El farol o linterna que tienen los faros, para aviso de los navegantes.</span></div>
+                    <div class="diccionario">Farallón<span>Roca alta y tajada que sobresale en el mar.</span></div>
+                    <div class="diccionario">Faro<span>Torre alta en las costas y puertos, con luz en su parte superior para guía de los navegantes.</span></div>
+                    <div class="diccionario">Farol<span>Artefacto para dar luz, provisto de un tubo o sector de vidrio, y construído de manera que el viento y la lluvia no lo apaguen.</span></div>
+                    <div class="diccionario">Ferro<span>Lo mismo que ancla, anclote o rezón.</span></div>
+                    <div class="diccionario">Filar<span>Lascar progresivamente una escota.</span></div>
+                    <div class="diccionario">Filástica<span>Las fibras o hebras sin torcer, que en forma de hilo forman la base de todo cabo.</span></div>
+                    <div class="diccionario">Fiordo<span>Entrante del mar en la tierra, de orillas muy escarpadas y aguas profundas.</span></div>
+                    <div class="diccionario">Firme<span>Ver chicote.</span></div>
+                    <div class="diccionario">Flattener<span>Ollao ubicado unos centímetros por encima del puño de escota de la vela Marconi, que sirve para eliminar el corte bolsudo que tiene la misma cerca del pujamen.</span></div>
+                    <div class="diccionario">Flechadura<span>Conjunto de flechastes.</span></div>
+                    <div class="diccionario">Flechaste<span>Cada uno de los travesaños de cabo fino que, ligados a los obenques, sirven de peldaños para subir a lo alto de los palos.</span></div>
+                    <div class="diccionario">Floater<span>Spinnaker extremadamente liviano, para muy poco viento.</span></div>
+                    <div class="diccionario">Flota<span>Conjunto de embarcaciones.</span></div>
+                    <div class="diccionario">Flotabilidad<span>Cualidad de sobrenadar en la superficie de un líquido.</span></div>
+                    <div class="diccionario">Flotador<span>Objeto de gran flotabilidad incorporado a una estructura con el objeto de evitar su hundimiento.</span></div>
+                    <div class="diccionario">Flujo<span>Movimiento de ascenso de la marea.</span></div>
+                    <div class="diccionario">Fogonadura<span>Agujero practicado en cubierta por donde pasan los palos.</span></div>
+                    <div class="diccionario">Foil<span>Riel o esnón que se afirma sobre un estay y permite embutir la relinga del gratil de las velas.</span></div>
+                    <div class="diccionario">Fondeadero<span>Lugar seguro para fondear.</span></div>
+                    <div class="diccionario">Fondear<span>Amarrar una embarcación al fondo mediante un cabo o cadena, ya sea utilizando un ancla o un muerto.</span></div>
+                    <div class="diccionario">Fondeo<span>Cabo o cadena que se utiliza para fondear un buque.</span></div>
+                    <div class="diccionario">Fondo<span>La parte de la corteza terrestre cubierta por las aguas. Según su composición, se selecciona el tipo de ancla adecuado.</span></div>
+                    <div class="diccionario">Foque<span>Vela triangular que va envergada en los estays de proa. Cuando hay varias, indica la ubicada más a proa.</span></div>
+                    <div class="diccionario">Forrar<span>Acción de poner las tablas que forman el casco, recubriendo el esqueleto del barco.</span></div>
+                    <div class="diccionario">Forro<span>Conjunto de tablas que cubren el esqueleto del barco en sentido longitudinal.</span></div>
+                    <div class="diccionario">Fortuna, de<span>Dícese de todo aquello que se arma con los recursos de a bordo cuando por avería no se pueden utilizar los elementos normales.</span></div>
+                    <div class="diccionario">Fragata<span>Embarcación de tres palos (trinquete, mayor y mesana) y aparejo de vela cuadra.</span></div>
+                    <div class="diccionario">Fraile<span>Trozo de madera que nace en la quilla y sobresale en cubierta, que sirve para amarrar la boza.</span></div>
+                    <div class="diccionario">Franco<span>Se dice del viento cuando entra a la embarcación en una dirección comprendida entre través y popa.</span></div>
+                    <div class="diccionario">Franco bordo<span>Distancia medida entre la línea de flotación y la borda.</span></div>
+                    <div class="diccionario"><span>Franquía, ponerse en</span>Estar el barco en condiciones de zarpar en cualquier momento.</div>
+                    <div class="diccionario">Frenillo<span>Cada uno de los cabos que unen el extremo del moco con el botalón.</span></div>
+                    <div class="diccionario">Frescachón<span>Dícese del viento con una velocidad de 40 km/h.</span></div>
+                    <div class="diccionario">Fresco<span>Dícese del viento de unos 30 km/h.</span></div>
+
+
+                </div>
+                <div id="g">
+                    <div class="diccionario encabezado">G</div>
+                    <div class="diccionario">Galápago<span>Trozo de madera asegurado en uno y otro lado de la cruz de una verga, para sujetar la trinca del cuadernal de la paloma.</span></div>
+                    <div class="diccionario">Galeno<span>Viento suave y apacible.</span></div>
+                    <div class="diccionario">Galeón<span>Bajel grande y de alto bordo, que tuvo su auge en el siglo XVI.</span></div>
+                    <div class="diccionario">Galera<span>Barco a vela y remo, que llevaba tres velas latinas, pero su mayor andar era a remo, dispuestos los remeros en uno o dos pisos. Los bogadores que trabajaban de a dos o tres en cada remo, eran forzados, cumpliendo condenas.</span></div>
+                    <div class="diccionario">Gallardete<span>Faja estrecha de tela que va disminuyendo de ancho hasta terminar en punta. Se coloca en embarcaciones, para engalanar o hacer señales.</span></div>
+                    <div class="diccionario">Gallardetón<span>Gallardete rematado en dos puntas, más corto y ancho que el ordinario.</span></div>
+                    <div class="diccionario">Galleta<span>Herraje al tope del mástil para distanciar el estay de popa de la baluma.</span></div>
+                    <div class="diccionario">Galón<span>Cintón.</span></div>
+                    <div class="diccionario">Galope<span>Distancia entre la última encapilladura del mastelero de juanete y la perilla del palo. * Estay de galope: Ver estay.</span></div>
+                    <div class="diccionario">Gansera<span>Articulación en la que se mueve la botavara cuando está afirmada al mástil.</span></div>
+                    <div class="diccionario">Garete, al<span>Embarcación u objeto cualquiera que flota sin gobierno a merced del viento y las corrientes.</span></div>
+                    <div class="diccionario">Garganta<span>La mayor estrechura de un canal o de la entrada a un puerto.</span></div>
+                    <div class="diccionario">Garrar<span>Garrear.</span></div>
+                    <div class="diccionario">Garrear<span>Resbalar el ancla en el fondo cuando el buque está fondeado.</span></div>
+                    <div class="diccionario">Garrucho<span>Anillo o patín que corre por el esnón de una percha o por un estay, y que va firme en la relinga de una vela.</span></div>
+                    <div class="diccionario">Gatera<span>Tubo de hierro por el que baja la cadena del ancla hasta la caja de cadenas.</span></div>
+                    <div class="diccionario">Gavia<span>Vela que se larga en el mastelero mayor, o mastelero de gavia. * Por extensión, todas las velas de los masteleros.</span></div>
+                    <div class="diccionario">Gaviero<span>El cabo de mar, encargado de un palo en los veleros antiguos.</span></div>
+                    <div class="diccionario">Gavión<span>Defensa de las orillas contra los embates de las olas formada por conjuntos de piedras tomados con tejido de alambre.</span></div>
+                    <div class="diccionario">Gaza<span>Ojo o asa formado en el chicote o seno de un cabo.</span></div>
+                    <div class="diccionario">Genoa<span>Vela foque, con el puño de escota más bajo, pujamen más largo y mayor superficie. De acuerdo a ésta se designan a los distintos tipos genoa uno, genoa dos y genoa tres, siendo la uno la mayor.</span></div>
+                    <div class="diccionario">Genol<span>Cada una de las piezas que se amadrinan a las varengas para formar las cuadernas.</span></div>
+                    <div class="diccionario">Girocompás<span>Brújula no magnética, cuya constancia direccional está basada en el principio del giróscopo.</span></div>
+                    <div class="diccionario">Gobernar<span>Dirigir el barco con el timón.</span></div>
+                    <div class="diccionario">Goleta<span>Embarcación y aparejo de dos palos aproximadamente iguales, que generalmente cargan velas cangrejas. También hay goletas de tres palos de iguales características.</span></div>
+                    <div class="diccionario">Grampín<span>Rezón pequeño.</span></div>
+                    <div class="diccionario">Gratil<span>Lado de la vela que se sujeta al palo o estay. * Gratil alto: En la vela tarquina y la cangreja, la orilla que se ubica entre los puños altos.</span></div>
+                    <div class="diccionario">Grillete<span>Pieza de metal, comunmente en forma de U, y atravesada en sus extremos perforados por un perno llamado gusano. Se usa para unir o afirmar algo. * Medida de la cadena de fondeo que tiene 25 m de longitud. * Grillete automático: Aquel con mecanismo de apertura rápida.</span></div>
+                    <div class="diccionario">Grímpola<span>Gallardete colocado al tope del mástil para saber la dirección del viento.</span></div>
+                    <div class="diccionario">Gruesa<span>Dícese de la mar cuando está arbolada.</span></div>
+                    <div class="diccionario">Grumete<span>Aprendiz marinero.</span></div>
+                    <div class="diccionario">Guaira<span>Vela de forma triangular cuyo gratil va afirmado al palo en su parte inferior y el resto en un pico que se iza contra el palo.</span></div>
+                    <div class="diccionario">Gualdrapazo<span>Golpe que dan las velas contra los mástiles y las jarcias por efecto del viento.</span></div>
+                    <div class="diccionario">Gualdrapear<span>Dar gualdrapazos.</span></div>
+                    <div class="diccionario">Guardacabo<span>Anillo de metal, acanalado en su parte exterior, al que se ajusta un cabo o cable y sirve para evitar el roce.</span></div>
+                    <div class="diccionario">Guardamancebo<span>Cable que va de proa a popa por ambas bordas y está sostenido por candeleros para seguridad de la tripulación.</span></div>
+                    <div class="diccionario">Guardia<span>Servicio de vigilancia en navegación que se cumple habitualmente cada cuatro horas. * El grupo de personas que lo prestan. * Tiempo que dura el servicio.</span></div>
+                    <div class="diccionario">Guardín<span>Aparejo que se arma a cada lado de la caña del timón para gobernarlo con menos esfuerzo.</span></div>
+                    <div class="diccionario">Guarne<span>Cada una de las vueltas de un cabo alrededor de las piezas en que ha de funcionar.</span></div>
+                    <div class="diccionario">Guía escotas<span>Escotera.</span></div>
+                    <div class="diccionario">Guinda<span>Altura de un palo, medida de la fogonadura al tope.</span></div>
+                    <div class="diccionario">Guindaleza<span>Cabo que une el rotor de la corredera patente con el instrumento propiamente dicho.</span></div>
+                    <div class="diccionario">Guindamaina<span>Saludo que hacen los buques arriando e izando la bandera.</span></div>
+                    <div class="diccionario">Guindar<span>Llevar más arriba una cosa que está pendiente de un cabo.</span></div>
+                    <div class="diccionario">Guindaste<span>Amarre de los escotines de las gavias. * Armazón con forma de horca, con cajera y roldana.</span></div>
+                    <div class="diccionario">Guindola<span>Pequeño andamio volante.</span></div>
+                    <div class="diccionario">Guiñada<span>Movimiento de un buque que cae sucesivamente de una banda a la otra, ya sea por marejada, mal gobierno, etc.</span></div>
+                    <div class="diccionario">Guiñar<span>Dar guiñadas el buque.</span></div>
+                    <div class="diccionario">Guión<span>En un remo, extremo opuesto a la pala, por donde se lo toma para accionarlo.</span></div>
+                    <div class="diccionario">Guitarra<span>Aparejo formado por dos motones de briol, que sirve para desmultiplicar el esfuerzo que se realiza con el cabo.</span></div>
+                    <div class="diccionario">Gusano<span>Perno que cierra los extremos de un grillete.</span></div>
+
+
+                </div>
+                <div id="h">
+                    <div class="diccionario encabezado">H</div>
+                    <div class="diccionario">Hervidero<span>Escarceo, movimiento de las aguas por efecto de corrientes encontradas.</span></div>
+                    <div class="diccionario">Hincar<span>Enganchar el ancla en el fondo.</span></div>
+                    <div class="diccionario">Hombre al agua<span>Voz de alarma dada al caer alguien al agua. * Maniobra que se realiza para recobrar una persona caída al agua.</span></div>
+                    <div class="diccionario">Horizonte<span>La línea de separación que se presenta a la vista entre el cielo y el mar.</span></div>
+                    <div class="diccionario">Huracán<span>Viento de extraordinaria velocidad que procede en general de las regiones tropicales.</span></div>
+
+
+                </div>
+                <div id="i">
+                    <div class="diccionario encabezado">I</div>
+
+                    <div class="diccionario">Imbornal<span>Perforación por la que puede drenar el agua que se embarca.</span></div>
+                    <div class="diccionario">Inteligencia<span>Comunicarse o entenderse un barco con otro por medio de señales.</span></div>
+                    <div class="diccionario">Isobaras<span>Líneas que unen puntos de igual presión atmosférica. Se encuentran indicadas en las cartas meteorológicas.</span></div>
+                    <div class="diccionario">Isobatas<span>Líneas que unen puntos de igual profundidad.</span></div>
+                    <div class="diccionario">Isotermas<span>Líneas que unen puntos de igual temperatura.</span></div>
+                    <div class="diccionario">Izar<span>Hacer subir un objeto, tirando de un cabo.</span></div>
+
+
+                </div>
+                <div id="j">
+                    <div class="diccionario encabezado">J</div>
+
+                    <div class="diccionario">Jabeque<span>Embarcación de tres palos, con velas latinas.</span></div>
+                    <div class="diccionario">Jarcia<span>Aparejos y cabos de una embarcación. * Jarcias fijas: Conjunto de cables y cabos que, tesados, sirven de sostén y refuerzo a palos, perchas, etc. * Jarcias móviles: Conjunto de cables y cabos que sirven para maniobrar las vergas, velas, etc. * Jarcias de labor: Jarcias móviles.</span></div>
+                    <div class="diccionario">Jarciar<span>Enjarciar.</span></div>
+                    <div class="diccionario">Jareta<span>Cabo que sirve para asegurar los palos cuando la obencadura se ha aflojado en un temporal. * Costura que se hace en una tela doblando la orilla y cosiéndola por un lado, de suerte que quede un hueco para meter por él un cabo.</span></div>
+                    <div class="diccionario">Juanete<span>Vela que se larga en los mastelerillos. Cuando son más de uno se denominan, de arriba abajo: sobresobrejuanete, sobrejuanete y juanete. * Mastelero juanete: Mastelerillo.</span></div>
+                    <div class="diccionario">Junco<span>Embarcación usada en China.</span></div>
+                    <div class="diccionario">Junta<span>Empalme o costura.</span></div>
+
+
+                </div>
+                <div id="k">
+                    <div class="diccionario encabezado">K</div>
+                    <div class="diccionario">Ketch<span>Aparejo de palo mayor y mesana, en el que éste último se sitúa delante de la caña del timón. La superficie de la vela de mesana es del orden del 20% de la superficie total.</span></div>
+
+                </div>
+                <div id="l">
+                    <div class="diccionario encabezado">L</div>
+
+                    <div class="diccionario">Laborear<span>Pasar y correr un cabo por la roldana de un motón.</span></div>
+                    <div class="diccionario">Lampazo<span>Estropajo de filásticas que se usa a bordo para secar.</span></div>
+                    <div class="diccionario">Lancha<span>La mayor de las embarcaciones de servicio de un barco.</span></div>
+                    <div class="diccionario">Landa<span>Herrajes fuertemente tomados a cubierta para hacer firmes los obenques y estays.</span></div>
+                    <div class="diccionario">Lantia<span>Farol o linterna para iluminar la bitácora.</span></div>
+                    <div class="diccionario">Lanzamiento<span>Prolongación de la roda o codaste sobre la línea de flotación.</span></div>
+                    <div class="diccionario">Lapa<span>Molusco que se adhiere a la obra viva de los cascos.</span></div>
+                    <div class="diccionario">Largo<span>Dirección intermedia entre el través y la popa. Se utiliza en el modo adverbial a un largo. * Arriado, suelto.</span></div>
+                    <div class="diccionario">Lascar<span>Aflojar totalmente un cabo; dar cabo.</span></div>
+                    <div class="diccionario">Lastre<span>Material pesado que se suspende de la quilla o en el fondo de la sentina para dar estabilidad al barco.</span></div>
+                    <div class="diccionario">Latina<span>Vela triangular envergada en entena, que suelen usar las embarcaciones de poco porte.</span></div>
+                    <div class="diccionario">Latino<span>Aparejo que lleva velas latinas.</span></div>
+                    <div class="diccionario">Latitud<span>Arco del meridiano que pasa por el lugar, comprendido entre éste y el ecuador.</span></div>
+                    <div class="diccionario">Levar<span>Izar el ancla.</span></div>
+                    <div class="diccionario">Libra<span>Unidad de fuerza, equivalente a 453,592 gr.</span></div>
+                    <div class="diccionario">Ligada<span>Ligadura, atadura.</span></div>
+                    <div class="diccionario">Ligadura<span>Conjunto de vueltas que sirve para unir dos cabos u otros objetos.</span></div>
+                    <div class="diccionario">Ligazón<span>Las piezas que empernadas dan trabazón al esqueleto del barco.</span></div>
+                    <div class="diccionario">Limbo<span>El círculo que presenta un astro. * El arco graduado que llevan los instrumentos de medir ángulos.</span></div>
+                    <div class="diccionario">Limera<span>Tubo dentro del cual gira el eje del timón.</span></div>
+                    <div class="diccionario">Línea<span>Línea de flotación: Línea que separa la obra viva de la obra muerta. * Línea de fe: Línea paralela al eje de crujía que tienen los compases que van fijos al casco. * En sus líneas: Dícese del barco que no está aproado ni apopado.</span></div>
+                    <div class="diccionario">Linga<span>Eslinga.</span></div>
+                    <div class="diccionario">Litera<span>Cama firme a los mamparos del barco.</span></div>
+                    <div class="diccionario">Livarda<span>Percha diagonal de la vela tarquina.</span></div>
+                    <div class="diccionario">Llamadores<span>Prolongación de cabo que sigue a las drizas de cable de acero. * Cabos para repicar las velas manteniéndolas bajo tensión.</span></div>
+                    <div class="diccionario">Llano<span>El mar cuando no está rizado. * Nudo marinero utilizado para unir cabos de la misma mena.</span></div>
+                    <div class="diccionario">Longitud<span>Arco del ecuador comprendido entre el meridiano que pasa por el punto considerado y el de referencia.</span></div>
+                    <div class="diccionario">Lúa<span>Cara de sotavento de las velas. * Tomar por la lúa: Tomar el viento por sotavento, trasluchando.</span></div>
+                    <div class="diccionario">Luchadero<span>Parte del remo que apoya en el tolete.</span></div>
+                    <div class="diccionario">Lumbrera<span>Lugar del casco o cubierta que permite, por estar hecho de un material traslúcido o transparente, que penetre la luz al interior del buque.</span></div>
+
+
+
+                </div>
+                <div id="m">
+                    <div class="diccionario encabezado">M</div>
+                    <div class="diccionario">Maceta<span>Mandarria; diminutivo de maza. * Madera acanalada que se usa para aforrar las gazas.</span></div>
+                    <div class="diccionario">Macizo<span>Masa de madera ubicada a popa y a continuación del quillote, que soporta el tintero inferior del timón.</span></div>
+                    <div class="diccionario">Malacate<span>Tambor metálico con manija, donde se enrosca un cable o cabo que en su extremo lleva un gancho; sirve para subir embarcaciones.</span></div>
+                    <div class="diccionario">Malecón<span>Rompeolas, murallón para defensa y contención de las aguas.</span></div>
+                    <div class="diccionario">Mamparo<span>Tabique divisorio. * Mamparo de colisión: Mamparo estanco colocado detrás de la roda, para que en caso de colisión y ruptura de la proa, la embarcación no haga agua. El espacio que queda se aprovecha normalmente para colocar la caja de cadenas.</span></div>
+                    <div class="diccionario">Mandarria<span>Martillo de calafateo.</span></div>
+                    <div class="diccionario">Manejable<span>Aplícase al viento y mar, cuando su fuerza permite maniobrar con facilidad.</span></div>
+                    <div class="diccionario">Manga<span>Ancho máximo de una embarcación.</span></div>
+                    <div class="diccionario">Manguerote<span>Tubo de lona, que se arma con su boca de embudo hacia barlovento, y que penetra por una escotilla o tambucho para ventilar el barco.</span></div>
+                    <div class="diccionario">Maniobra<span>Conjunto de cables, cabos y/o aparejos de labor. * Evolución y movimiento de un barco. * Faena hecha a bordo.</span></div>
+                    <div class="diccionario">Mano de rizos<span>Cada una de las fajas delimitadas por una hilera de ollaos, utilizados para disminuir la superficie de la vela cuando el viento es muy fuerte; esta acción se denomina tomar mano de rizos.</span></div>
+                    <div class="diccionario">Mapa<span>Carta náutica. * En el ancla, son las partes planas de las uñas.</span></div>
+                    <div class="diccionario">Marca<span>Señal que se coloca en un buque para denotar una condición especial, como varado, al garete, maniobra restringida, etc.</span></div>
+                    <div class="diccionario">Marcación<span>Angulo comprendido entre la visual a un punto notable y el meridiano magnético del lugar. Es igual al rumbo más la demora. Fuera del Río de la Plata, los significados de marcación y demora se invierten.</span></div>
+                    <div class="diccionario">Marcar<span>Acción de tomar una marcación.</span></div>
+                    <div class="diccionario">Marchapié<span>Cabos dispuestos en las vergas de las gavias sobre los que se paran los gavieros.</span></div>
+                    <div class="diccionario">Marconi<span>Bermuda.</span></div>
+                    <div class="diccionario">Marea<span>Movimiento alternativo de flujo y reflujo del mar.</span></div>
+                    <div class="diccionario">Marejada<span>Movimiento de olas grandes sin borrasca.</span></div>
+                    <div class="diccionario">Maremoto<span>Agitación de las aguas del mar, produciendo a veces olas enormes, a causa de los movimientos tectónicos del fondo.</span></div>
+                    <div class="diccionario">Mareo<span>Desazón y turbación de la cabeza y del estómago que se experimenta principalmente en la navegación.</span></div>
+                    <div class="diccionario">Margarita<span>Nudo o vuelta que se da a los cabos para acortarlos o para evitar que cierta parte de los mismos trabaje.</span></div>
+                    <div class="diccionario">Marina flotante<span>Pontón que puede subir y bajar con la marea, guiados por estacas clavadas en el fondo del río.</span></div>
+                    <div class="diccionario">Marinar<span>Amarinar.</span></div>
+                    <div class="diccionario">Marinería<span>Profesión del hombre de mar.</span></div>
+                    <div class="diccionario">Marinero<span>El que entiende el arte de la marinería. * Dícese del buque dócil a las maniobras.</span></div>
+                    <div class="diccionario">Marino<span>Lo que pertenece al mar. * Oficial de marina.</span></div>
+                    <div class="diccionario">Marola<span>Movimiento de grandes olas en el mar.</span></div>
+                    <div class="diccionario">Maroma<span>Cabo grueso de esparto, cáñamo u otras fibras vegetales o sintéticas.</span></div>
+                    <div class="diccionario">Martingala<span>Cruceta del estay de violín.</span></div>
+                    <div class="diccionario">Mascarón<span>La talla en madera que adornaba la proa de los antiguos veleros, colocada sobre el tajamar.</span></div>
+                    <div class="diccionario">Mastelerillo<span>Palo menor que se ubica sobre el mastelero y sostiene los juanetes. * Mastelerillo de perico: Mastelerillo del palo mesana. * Mastelerillo de proa: Mastelerillo del palo trinquete. * Mastelerillo mayor: Mastelerillo del palo mayor.</span></div>
+                    <div class="diccionario">Mastelero<span>Palo menor que va sobre los palos machos y sirve para sostener las gavias y juanetes. * Mastelero de gavia: Mastelero del palo mayor. * Mastelero de sobremesana: Mastelero del palo mesana. * Mastelero de velacho: Mastelero del palo trinquete. * Mastelero juanete: Mastelerillo.</span></div>
+                    <div class="diccionario">Mástil<span>Palo de una embarcación.</span></div>
+                    <div class="diccionario">Matafión<span>Cabo delgado, hecho firme a cada lado de la vela en los ollaos de la faja de rizos.</span></div>
+                    <div class="diccionario">Matrícula<span>Certificado otorgado por la Prefectura Naval a las embarcaciones con tonelaje de Arqueo mayor que dos.</span></div>
+                    <div class="diccionario">Mayor<span>Palo mayor. * Vela que se larga en el palo mayor.</span></div>
+                    <div class="diccionario">Mecha<span>Parte inferior de los palos que se apoya en la carlinga. * Eje del timón.</span></div>
+                    <div class="diccionario">Mena<span>Grosor de un cabo, medido por su circunferencia.</span></div>
+                    <div class="diccionario">Mercante, buque<span>El que sirve para conducir mercaderías de unos puertos a otros.</span></div>
+                    <div class="diccionario">Meridiano<span>Cualquier círculo máximo del globo terrestre que pasa por los polos geográficos.</span></div>
+                    <div class="diccionario">Merlín<span>Cabo delgado alquitranado, para aforrar gazas y otros usos.</span></div>
+                    <div class="diccionario">Mesa<span>Asiento que se forma en los cuellos de los masteleros para descanso de los baos. * Mesa de guarnición: Plataforma ubicada a los costados del buque, frente a cada palo, y en la que se afirman las tablas de las jarcias respectivas.</span></div>
+                    <div class="diccionario">Mesana<span>Palo de mesana. * Vela que va contra este mástil.</span></div>
+                    <div class="diccionario">Metacentro<span>En un cuerpo simétrico flotante, punto en que la vertical que pasa por el centro de empuje de las aguas corta, cuando aquél se inclina un poco, la dirección que toma en tal caso la línea que pasaba por los centros de gravedad y de presión, y que era vertical cuando el cuerpo estaba en reposo y adrizado. Cuando el metacentro es más alto que el centro de gravedad, lo que se verifica en función de la forma del casco y de la distribución del peso, el par constituído por el empuje y la gravedad tienden a adrizar el barco, y el equilibrio es estable.</span></div>
+                    <div class="diccionario">Milla<span>Unidad de longitud, equivalente a un minuto de arco terrestre tomado sobre el ecuador, o sea a 1852 m o 6077 pies. Difiere de la milla terrestre, que equivale a 1609,34 m aproximadamente.</span></div>
+                    <div class="diccionario">Moco<span>Cada una de las perchas pequeñas que penden de la cabeza del bauprés y sirven de guía a los cabos que aseguran el botalón.</span></div>
+                    <div class="diccionario">Mogote<span>Montecillo aislado de forma cónica.</span></div>
+                    <div class="diccionario">Molinete<span>Piezas destinadas a la función de pequeños cabrestantes, para cobrar escotas, drizas, etc.</span></div>
+                    <div class="diccionario">Monzón<span>Viento periódico que sopla en algunos mares, especialmente en el océano Indico, seis meses en una dirección y los otros seis en la opuesta. Este fenómeno es producido por las variaciones térmicas extremas del continente asiático, que produce alternativamente en verano e invierno, centros de alta o baja presión.</span></div>
+                    <div class="diccionario">Mordaza<span>Herraje destinado a morder un cabo para sujetarlo.</span></div>
+                    <div class="diccionario">Morder<span>Hincar.</span></div>
+                    <div class="diccionario">Mordido<span>Dícese de un cable o cabo que está apretado por otro o por sí mismo hasta un punto tal que no se puede mover.</span></div>
+                    <div class="diccionario">Mortero<span>La caja cilíndrica o semiesférica que contiene el compás.</span></div>
+                    <div class="diccionario">Mosquetón<span>Anilla que se abre y cierra mediante un resorte. Se usa para envergar el foque.</span></div>
+                    <div class="diccionario">Motón<span>Conjunto de cajera y roldana, que forma parte de aparejos y sirve para cambiar la dirección de un cabo.</span></div>
+                    <div class="diccionario">Motonería<span>Conjunto de motones, cuadernales y demás piezas similares.</span></div>
+                    <div class="diccionario">Muelle<span>Muro construído en la orilla de un río o alrededor de una dársena, para que atraquen los barcos.</span></div>
+                    <div class="diccionario">Muerto<span>Elemento de gran peso apoyado en el fondo donde se afirma el cabo de fondeo.</span></div>
+                    <div class="diccionario">Muleta<span>Percha portátil mas corta que el tangón, cuya función es deflectar hacia afuera la braza, reduciendo en gran manera el esfuerzo sobre ésta.</span></div>
+
+
+                </div>
+                <div id="n">
+                    <div class="diccionario encabezado">N</div>
+
+                    <div class="diccionario">Nadir<span>Punto de la esfera celeste diametralmente opuesto al cenit, que se halla en la prolongación de la línea que parte del punto en que estamos situados, y pasa por el centro de la tierra.</span></div>
+                    <div class="diccionario">Naufragar<span>Hundirse, irse a pique un barco por cualquier accidente.</span></div>
+                    <div class="diccionario">Náutica<span>Ciencia de navegar.</span></div>
+                    <div class="diccionario">Naval<span>Lo que tiene relación con la marina.</span></div>
+                    <div class="diccionario">Nave<span>Buque.</span></div>
+                    <div class="diccionario">Navegación<span>La acción de navegar. * El viaje que se hace con el barco. * El tiempo que dura el viaje.</span></div>
+                    <div class="diccionario">Navegar<span>Viajar por agua en una embarcación.</span></div>
+                    <div class="diccionario">Navío<span>Bajel grande.</span></div>
+                    <div class="diccionario">Neblina<span>Vapor de agua menos denso que la niebla.</span></div>
+                    <div class="diccionario">Negar<span>Bornear el viento de modo tal que se pone más a proa.</span></div>
+                    <div class="diccionario">Nervio<span>Cable de acero que se extiende de proa a popa de una embarcación paralelo a crujía para prender el arnés.</span></div>
+                    <div class="diccionario">Niebla<span>Vapor de agua que cierra toda visibilidad, haciendo peligrosa la navegación.</span></div>
+                    <div class="diccionario">Noray<span>Bita.</span></div>
+                    <div class="diccionario">Novilunio<span>Conjunción de la luna y el sol.</span></div>
+                    <div class="diccionario">Nudo<span>Unidad de medida de velocidad, equivalente a una milla náutica por hora, o sea a 1,852 km/h. * Enlace de dos cabos o dos partes de un mismo cabo. * Nudo marinero: El nudo fácil de armar y desarmar a voluntad, por más que esté azocado.</span></div>
+
+                </div>
+                <div id="o">
+                    <div class="diccionario encabezado">O</div>
+                    <div class="diccionario">Obencadura<span>Conjunto de obenques.</span></div>
+                    <div class="diccionario">Obenque<span>Cada uno de los cables que sujetan los palos por los costados. Se tesan y templan con tensores, que van tomados de las landas. Cuando hay dos pares, se denominan obenques altos y bajos. * Obenque intermedio: El que va de un extremo de la cruceta baja al arraigo del la alta.</span></div>
+                    <div class="diccionario">Obenquillos<span>Obenque encapillado a mitad del tramo entre la encapilladura de los obenques altos y la cruceta, que van hasta el extremo de la misma.</span></div>
+                    <div class="diccionario">Obra muerta<span>La parte del casco que va de la borda a la línea de flotación.</span></div>
+                    <div class="diccionario">Obra viva<span>La parte del casco que va sumergida.</span></div>
+                    <div class="diccionario">Octante<span>Instrumento de reflexión para tomar ángulos, formado por un sector que es la octava parte de un círculo. Es el precursor de los sextantes.</span></div>
+                    <div class="diccionario">Ojo<span>Agujero de alguna cosa, por donde se ensarta o introduce algo. * Ojo de buey: Ventana circular con cristal.</span></div>
+                    <div class="diccionario">Ola<span>La elevación de la superficie del agua, agitada por el viento u otra causa y que está animada de movimiento ondulatorio, de traslación aparente y rotación verdadera.</span></div>
+                    <div class="diccionario">Olla<span>Concavidad profunda en el fondo, o en una superficie cualquiera.</span></div>
+                    <div class="diccionario">Ollao<span>Ojal redondo y reforzado que se hace en los lados relingados de la vela, en los puños, y en la faja de rizos, donde se pasa un cabo para ajustarlas.</span></div>
+                    <div class="diccionario">Oposición<span>Situación relativa de dos astros cuando la tierra se interpone entre ellos, encontrándose los tres en un mismo plano.</span></div>
+                    <div class="diccionario">Oreja de burro<span>Navegación en popa, con las velas braceadas una para cada banda.</span></div>
+                    <div class="diccionario">Orientar<span>Disponer el aparejo o una vela de modo conveniente para su mejor rendimiento aerodinámico.</span></div>
+                    <div class="diccionario">Orilla<span>Ribera.</span></div>
+                    <div class="diccionario">Orinque<span>Cabo que une y sujeta una boya a un muerto o ancla fondeada.</span></div>
+                    <div class="diccionario">Orto<span>Salida del sol o de otro astro.</span></div>
+                    <div class="diccionario">Ortodromia<span>La navegación por el arco de círculo máximo, o sea el camino más corto entre dos puntos.</span></div>
+                    <div class="diccionario">Orza<span>Pieza suplementaria de madera o metal con movimiento de ascenso y descenso que se coloca en las embarcaciones para aumentar la resistencia lateral y disminuir el abatimiento. Tipos: sable, rebatible. * Acción y efecto de orzar. * Orza a popa: Cabo con que se lleva a popa el car de la entena. * Orza de avante: Orza a popa del trinquete.</span></div>
+                    <div class="diccionario">Orzar<span>Caer la proa a la banda de barlovento. Por extensión, en la navegación en popa es caer a la banda de la amura.</span></div>
+                    <div class="diccionario">Osta<span>Cabos o aparejos que mantienen firmes los picos cangrejos en los balances o cuando van orientadas sus velas, y que sirven también para guiarlos cuando se izan o arrían.</span></div>
+                    <div class="diccionario">Ostaga<span>Cabo que pasa por el motón situado en la cruz de las vergas y por el de la cabeza del mastelero, y sirve para izar dichas vergas.</span></div>
+
+
+
+                </div>
+                <div id="p">
+                    <div class="diccionario encabezado">P</div>
+                    <div class="diccionario">Pailebote<span>Goleta sin gavias.</span></div>
+                    <div class="diccionario">Pairar<span>Ponerse al pairo.</span></div>
+                    <div class="diccionario">Pairo, ponerse al<span>Poner el barco en un rumbo cualquiera dentro del ángulo de voltejeo, con las escotas largas.</span></div>
+                    <div class="diccionario">Pala<span>Parte plana y ancha del remo que se apoya en el agua. * Parte plana del timón que va sumergida. * Aspas de la hélice.</span></div>
+                    <div class="diccionario">Palanquín<span>Cabo que sirve para cargar los puños de las velas mayores, llevándolos a la cruz de sus respectivas vergas.</span></div>
+                    <div class="diccionario">Palmejar<span>Madero que va por el interior del casco en sentido longitudinal, trabando la ligazón.</span></div>
+                    <div class="diccionario">Palo<span>Cada uno de los elementos de la arboladura que va más o menos perpendicularmente a la quilla y destinado a sostener las vergas. * Palo seco: Dícese del buque que tiene todas sus velas apagadas. * Palo trinquete: El que se arbola inmediato a proa, delante del mayor. * Palo mayor: Palo más alto del buque y que sostiene la vela principal. * Palo mesana: Palo que se arbola a popa del mayor. * Palo macho: El que va desde la sobrequilla hasta el primer mastelero.</span></div>
+                    <div class="diccionario">Paloma<span>Cruz de una verga, donde se colocan los motones o cuadernales de las drizas.</span></div>
+                    <div class="diccionario">Palomadura<span>Ligadura con que de trecho en trecho y a falta de costuras se sujeta la relinga al paño.</span></div>
+                    <div class="diccionario">Pampero<span>Viento que a veces llega a velocidades de huracán y que sopla del sudoeste en las costas orientales de Sudamérica, hasta Río de Janeiro.</span></div>
+                    <div class="diccionario">Pandeo<span>Curvatura lateral de un palo.</span></div>
+                    <div class="diccionario">Pantocazo<span>Golpe dado por el buque en el agua con el pantoque al cabecear.</span></div>
+                    <div class="diccionario">Pantoque<span>Parte casi plana del casco, que forma el fondo junto a la quilla.</span></div>
+                    <div class="diccionario">Paño<span>Las velas que lleva una embarcación. * La tela con que están hechas las velas.</span></div>
+                    <div class="diccionario">Pañol<span>Cualquiera de los compartimentos que se hacen en diversos lugares del buque, para estibar objetos. Toman cada uno la denominación de acuerdo a su contenido.</span></div>
+                    <div class="diccionario">Parachute<span>Tipo de spinnaker, más redondeado. Utilizado para correr regatas.</span></div>
+                    <div class="diccionario">Paralaje<span>La diferencia de posición de un astro en la bóveda celeste, observado desde un punto de la superficie y desde el centro de la tierra. * Error en la lectura de un instrumento analógico al realizar las observaciones desde distintos ángulos.</span></div>
+                    <div class="diccionario">Paralelas, reglas<span>Regla doble que sirve para transportar líneas paralelas sobre la carta náutica.</span></div>
+                    <div class="diccionario">Paralelo<span>Cada uno de los círculos de la superficie terrestre cuyos planos son paralelos al ecuador.</span></div>
+                    <div class="diccionario">Pasador<span>Punzón de hierro, que sirve para abrir los cordones de los cabos y hacer un empalme o una gaza.</span></div>
+                    <div class="diccionario">Pasamanos<span>Pieza de madera o metal ubicada a cada lado de la carroza y que sirve para que se afirme la tripulación.</span></div>
+                    <div class="diccionario">Pasar por ojo<span>Embestir un barco a otro por la banda.</span></div>
+                    <div class="diccionario">Pasteca<span>Motón abierto en la parte superior de una de sus quijadas.</span></div>
+                    <div class="diccionario">Pata de gallo<span>Ramales de cable o cabo donde se afirma un aparejo.</span></div>
+                    <div class="diccionario">Patín<span>Garrucho. * Herraje que corre sobre un riel firme en cubierta que sirve de sostén móvil a un motón, generalmente motones escoteros.</span></div>
+                    <div class="diccionario">Patrón<span>Grado otorgado por la Prefectura Naval, superior al de timonel e inferior al de piloto. Habilita para navegar en ríos y lagos interiores, y hasta 12 millas de costa en mar abierto.</span></div>
+                    <div class="diccionario">Peeling<span>Maniobra de cambio de velas, consistente en izar una en reemplazo de otra sin haber arriado todavía esta última.</span></div>
+                    <div class="diccionario">Pena<span>Parte extrema y más delgada de la entena. * Puño de pena: Puño alto de popa de la vela tarquina.</span></div>
+                    <div class="diccionario">Pendura, a la<span>Dícese del ancla que cuelga lista para fondear.</span></div>
+                    <div class="diccionario">Penol<span>Extremo de una verga o percha. Puede ser proel o popel, o de estribor o babor.</span></div>
+                    <div class="diccionario">Percha<span>Tronco enterizo de árbol, descortezado o no, que por su especial tamaño sirve para la construcción de piezas de arboladura, botalones, vergas, etc.</span></div>
+                    <div class="diccionario">Perico<span>Mastelerillo del palo mesana. * Vela que se larga sobre el mastelerillo de perico.</span></div>
+                    <div class="diccionario">Perilla<span>Remate del tope de un mástil o de un asta bandera.</span></div>
+                    <div class="diccionario">Periplo<span>Circunnavegación. * Relato de dicho viaje.</span></div>
+                    <div class="diccionario">Perno<span>Pieza cilíndrica de metal, con cabeza en un extremo y tuerca o seguro en el otro, que se usa para trabar o afirmar algo.</span></div>
+                    <div class="diccionario">Petifoque<span>Foque mucho más pequeño que el principal, de lona más delgada, y que se orienta por fuera de el.</span></div>
+                    <div class="diccionario">Picada<span>La mar cuando está agitada.</span></div>
+                    <div class="diccionario">Picar<span>Cortar algo a golpes de hacha, como los palos, cables, etc.</span></div>
+                    <div class="diccionario">Pico<span>Percha alta de la vela cangreja. * Puño de pico: Puño alto de popa de la vela cangreja. * Pico de loro: Partes extremas de la uña del ancla.</span></div>
+                    <div class="diccionario">Pie<span>Unidad de longitud equivalente a 12 pulgadas, o sea a 0,3048 m. * Pie suelto: Dícese de las velas cuyo pujamen no va tomado a la percha. * Pie de amigo: Todo aquello que sirve para afirmar y fortalecer una cosa. Aplícase a los soportes de la carlinga cuando ésta se sitúa en cubierta.</span></div>
+                    <div class="diccionario">Pierna<span>Bordada.</span></div>
+                    <div class="diccionario">Piloto<span>Grado otorgado por la Prefectura Naval, superior al de patrón. Habilita para navegar en cualquier curso de agua, mar u océano.</span></div>
+                    <div class="diccionario">Pinchar<span>Orzar más allá de la ceñida ardiente, de tal manera que los grátiles de las velas comienzan a recibir viento por su lúa, formando una "S" característica.</span></div>
+                    <div class="diccionario">Pínula<span>Compás de mano con mecanismo óptico de puntería, que permite tomar marcaciones.</span></div>
+                    <div class="diccionario">Pinzote<span>Herraje macho que articula en el tintero.</span></div>
+                    <div class="diccionario">Piña<span>Especie de nudo que se hace con el chicote de un cabo, en forma de botón o esfera.</span></div>
+                    <div class="diccionario">Piola<span>Cabito formado por dos o tres filásticas, usado en el badajo de las campanas.</span></div>
+                    <div class="diccionario">Pique<span>Varenga con forma de horquilla que se coloca en la parte de la proa. * Espacio bajo la cubierta, donde se estiban pertrechos específicos para la navegación. * A pique: Dícese del objeto que está en la línea vertical que va hasta el fondo del mar.</span></div>
+                    <div class="diccionario">Pirata<span>Dícese del buque que se dedica a robar y asaltar en el mar. * Por extensión, la tripulación de un barco de este tipo.</span></div>
+                    <div class="diccionario">Piratear<span>Apresar o robar embarcaciones, más comúnmente cuando navegan.</span></div>
+                    <div class="diccionario">Pitarrasa<span>Instrumento de calafate, para introducir la estopa en las costuras a golpe de mandarria.</span></div>
+                    <div class="diccionario">Placer<span>Banco de arena o fango.</span></div>
+                    <div class="diccionario">Plan<span>La parte más plana y horizontal del casco, próxima a la quilla.</span></div>
+                    <div class="diccionario">Plana mayor<span>La oficialidad de un barco.</span></div>
+                    <div class="diccionario">Planero<span>Varenga.</span></div>
+                    <div class="diccionario">Plano<span>* Plano de flotación: Plano que divide la obra viva de la obra muerta. * Plano de reducción: Plano de referencia con respecto al cual se miden las profundidades en la carta náutica.</span></div>
+                    <div class="diccionario">Plaza de armas<span>Alcázar.</span></div>
+                    <div class="diccionario">Pleamar<span>Mayor altura de la marea y tiempo que dura.</span></div>
+                    <div class="diccionario">Pluma<span>Grúa destinada a levantar bultos.</span></div>
+                    <div class="diccionario">Poniente<span>Occidente.</span></div>
+                    <div class="diccionario">Popa<span>Parte posterior de una embarcación. * En popa redonda: Dícese del velero que navega recibiendo el viento por la popa.</span></div>
+                    <div class="diccionario">Popel<span>Dícese de un objeto situado más a popa que otro con el que se compara.</span></div>
+                    <div class="diccionario">Porta<span>Cualquiera de las aberturas o ventanas rectangulares que se practican a los costados del barco.</span></div>
+                    <div class="diccionario">Portaespía<span>Guía metálica destinada a pasar los cabos de la amarra.</span></div>
+                    <div class="diccionario">Portalón<span>Abertura en la borda de un barco, donde están las escalas para subir a bordo.</span></div>
+                    <div class="diccionario">Portar<span>Dícese de las velas cuando toman el viento correctamente.</span></div>
+                    <div class="diccionario">Portatolete<span>Herraje en la borda del casco donde se introduce el tolete.</span></div>
+                    <div class="diccionario">Porte<span>Tamaño o capacidad de un barco.</span></div>
+                    <div class="diccionario">Portulano<span>Carta náutica muy detallada de un puerto.</span></div>
+                    <div class="diccionario">Posición<span>Situación.</span></div>
+                    <div class="diccionario">Práctico<span>El piloto u hombre de mar que conduce las embarcaciones por lugares que le son conocidos, por cuya razón es contratado a bordo.</span></div>
+                    <div class="diccionario">Prestar<span>Bornear el viento de modo tal que se pone más a popa.</span></div>
+                    <div class="diccionario">Proa<span>Parte anterior de una embarcación.</span></div>
+                    <div class="diccionario">Proel<span>Parte relativamente más cercana a proa que el objeto con el que se compara. * Marinero que se ocupa de las labores propias de la proa.</span></div>
+                    <div class="diccionario">Prolongador<span>Extensión de la caña del timón, que permite gobernarlo desde la borda.</span></div>
+                    <div class="diccionario">Propao<span>Barandilla que se coloca al pie de los palos para amarrar cabos.</span></div>
+                    <div class="diccionario">Puente<span>Plataforma estrecha y con baranda colocada a cierta altura sobre la cubierta más alta.</span></div>
+                    <div class="diccionario">Pujamen<span>Borde inferior de las velas, de puño a puño.</span></div>
+                    <div class="diccionario">Pulgada<span>Unidad de longitud equivalente a 2,54 cm.</span></div>
+                    <div class="diccionario">Púlpito<span>Baranda que va colocada a proa del buque, que cumple la misma función que el guardamancebo y sirve para afirmarlo.</span></div>
+                    <div class="diccionario">Punta<span>Lengua de tierra que se interna en el mar.</span></div>
+                    <div class="diccionario">Puntal<span>Altura de la embarcación, desde el plan hasta la cubierta.</span></div>
+                    <div class="diccionario">Punto notable<span>Punto fijo, fácilmente reconocible desde el agua, que sirve como referencia para la navegación costera.</span></div>
+                    <div class="diccionario">Puño<span>Cada uno de los ángulos de una vela. * El extremo más delgado del guión del remo.</span></div>
+
+                </div>
+                <div id="q">
+                    <div class="diccionario encabezado">Q</div>
+                    <div class="diccionario">Quebranto<span>Movimiento en la trabazón de un casco, por el cual la quilla se arquea, elevándose en el medio y bajando en sus extremos, con pérdida del arrufo.</span></div>
+                    <div class="diccionario">Queche<span>Ketche.</span></div>
+                    <div class="diccionario">Quijada<span>Cada uno de los lados de un motón o cuadernal, que son atravesados por el eje de la roldana.</span></div>
+                    <div class="diccionario">Quilla<span>Pieza que va de proa a popa por la parte inferior del barco, donde asienta toda su armazón. * Quilla de balance: Cada una de las piezas longitudinales y salientes de la obra viva paralelas a la quilla, que sirven para amortiguar los balances. * Quilla limpia: Dícese de la medida de longitud de un buque, contada solamente por su quilla. * Falsa quilla: Refuerzo exterior de la quilla, donde va fijado el quillote.</span></div>
+                    <div class="diccionario">Quillote<span>Lastre externo del buque, fundido en bloque.</span></div>
+
+                </div>
+                <div id="r">
+                    <div class="diccionario encabezado">R</div>
+                    <div class="diccionario">Rabiza<span>Cabo corto y delgado, unido por uno de sus extremos a un objeto para facilitar su manejo.</span></div>
+                    <div class="diccionario">Rabo<span>Rabiza que se forma afinando progresivamente los cordones de un cabo, para lo cual se los descolcha y se los peina con una navaja filosa, retorciéndolos y colchándolos de nuevo.</span></div>
+                    <div class="diccionario">Racamento<span>Especie de anillo que sujeta las vergas al palo respectivo, para que pueda correr fácilmente por ellos.</span></div>
+                    <div class="diccionario">Racha<span>Ráfaga, movimiento violento de aire.</span></div>
+                    <div class="diccionario">Racheado<span>Dícese del viento que sopla por rachas.</span></div>
+                    <div class="diccionario">Rada<span>Bahía o ensenada al socaire.</span></div>
+                    <div class="diccionario">Radiofaro<span>Estación radial que emite señales distintivas, por medio de las cuales los barcos pueden determinar su posición.</span></div>
+                    <div class="diccionario">Radiogoniometría<span>Técnica que permite determinar la ubicación de una estación emisora mediante un radiogoniómetro.</span></div>
+                    <div class="diccionario">Radiogoniómetro<span>Receptor de radio con antena direccional.</span></div>
+                    <div class="diccionario">Raquear<span>Robar en buques perdidos contra la costa.</span></div>
+                    <div class="diccionario">Rasqueta<span>Planchuela de hierro, de cantos afilados y con mango de madera, que se usa para raer y limpiar los palos, cubiertas y costados de los buques.</span></div>
+                    <div class="diccionario">Rastrear<span>Arrastrar por el fondo un rezón, una red o un cabo para dar con un objeto que se busca y tratar de recuperarlo.</span></div>
+                    <div class="diccionario">Rastrera<span>Vela que se agrega entre el foque y cubierta, para aprovechar más el viento.</span></div>
+                    <div class="diccionario">Reach<span>Boya que en triángulo de regata no está alineada con el viento.</span></div>
+                    <div class="diccionario">Rebujar<span>Introducir la cabeza de los clavos, tornillos o pernos más adentro de la superficie de las tablas.</span></div>
+                    <div class="diccionario">Recalar<span>Llegar un barco, después de la navegación, a un puerto conocido. * Aproximarse a tierra, para reconocerla y marcar la posición.</span></div>
+                    <div class="diccionario">Recalmón<span>Repentina y considerable disminución de la fuerza del viento.</span></div>
+                    <div class="diccionario">Redondo<span>Dícese del viaje de ida y vuelta. * Virar en redondo: Derivar hasta empopar, y caer a la otra amura trasluchando.</span></div>
+                    <div class="diccionario">Reflector de Radar<span>Elemento metálico que tiene como objeto el hacer mas visible a la embarcación ante el radar de otras naves.</span></div>
+                    <div class="diccionario">Reflujo<span>Movimiento de descenso de la marea; resaca.</span></div>
+                    <div class="diccionario">Refrescar<span>Aumentar el viento de intensidad.</span></div>
+                    <div class="diccionario">Regala<span>Listón de madera que cubre la parte superior de la borda. * Tapa de regala: Listón que contornea a la embarcación en la junta de la cubierta y el forro.</span></div>
+                    <div class="diccionario">Regata<span>Carrera de embarcaciones.</span></div>
+                    <div class="diccionario">Relinga<span>Cabo con que se refuerzan las orillas de las velas.</span></div>
+                    <div class="diccionario">Relingar<span>Coser o pegar la relinga. * Izar la vela hasta poner tirantes sus relingas de caída.</span></div>
+                    <div class="diccionario">Remo<span>Pieza de madera cilíndrica en parte y plana en uno de sus extremos, que se emplea como medio de propulsión en las embarcaciones.</span></div>
+                    <div class="diccionario">Remolcar<span>Tirar una embarcación de otra o de un objeto cualquiera que flota.</span></div>
+                    <div class="diccionario">Remolino<span>Movimiento circular de las aguas o el viento.</span></div>
+                    <div class="diccionario">Remontar<span>Navegar contra la corriente.</span></div>
+                    <div class="diccionario">Rempujo<span>Elemento de cuero o lona que se coloca en la mano y está provisto de un círculo de metal en la palma, para empujar la aguja en el cosido de la vela.</span></div>
+                    <div class="diccionario">Repicar<span>Tesar fuertemente un cabo.</span></div>
+                    <div class="diccionario">Repuntar<span>Empezar el repunte, o sea la creciente de la marea.</span></div>
+                    <div class="diccionario">Resaca<span>El movimiento del mar al retirarse.</span></div>
+                    <div class="diccionario">Resguardo<span>Distancia prudencial a las salientes de la costa o a un sitio peligroso.</span></div>
+                    <div class="diccionario">Respeto<span>Repuesto de ciertos efectos a bordo, como ancla, jarcia, etc.</span></div>
+                    <div class="diccionario">Restinga<span>Punta de arena o piedra bajo el agua, a poca profundidad.</span></div>
+                    <div class="diccionario">Retenida<span>Todo cabo o aparejo que sirve para evitar la caída, resbalamiento o roce de cualquier cosa.</span></div>
+                    <div class="diccionario">Reventar<span>Las olas cuando chocan contra la costa, un arrecife o el casco de un buque. * Refiriéndose a una vela o jarcia, cuando aquella se desgarra o falla.</span></div>
+                    <div class="diccionario">Revirada/o<span>Pieza de forma retorcida sobre uno de sus ejes.</span></div>
+                    <div class="diccionario">Rezón<span>Ancla de más de dos uñas y sin cepo.</span></div>
+                    <div class="diccionario">Ría<span>Penetración del mar en la costa.</span></div>
+                    <div class="diccionario">Ribera<span>Límite entre la tierra y una superficie de agua. * Por extensión, los terrenos cercanos al río.</span></div>
+                    <div class="diccionario">Riel<span>Esnón.</span></div>
+                    <div class="diccionario">Rielar<span>Cabrillear.</span></div>
+                    <div class="diccionario">Rifadura<span>Rotura de una vela.</span></div>
+                    <div class="diccionario">Rifar<span>Romperse una vela por efecto del viento o de una mala maniobra.</span></div>
+                    <div class="diccionario">Rizos<span>Mano de rizos.</span></div>
+                    <div class="diccionario">Roda<span>Pieza gruesa y curva, que forma el remate de proa de las naves.</span></div>
+                    <div class="diccionario">Rol<span>Lista de la tripulación de un barco. * Rol de despacho: Trámite que debe cumplir el patrón de un barco en la Prefectura, antes de una navegación prolongada o de abandonar el país.</span></div>
+                    <div class="diccionario">Rolar<span>Escorar el barco alternativamente a una y otra banda.</span></div>
+                    <div class="diccionario">Roldana<span>Rueda acanalada por donde corre el cabo en un motón.</span></div>
+                    <div class="diccionario">Rolete<span>Cilindro que gira sobre un eje, alrededor del cual pasa una estacha, un cabo de fondeo o una cadena.</span></div>
+                    <div class="diccionario">Rolido<span>Movimiento realizado por el barco al rolar.</span></div>
+                    <div class="diccionario">Rompeolas<span>Dique avanzado fuera de un puerto, para abrigarlo.</span></div>
+                    <div class="diccionario">Romper<span>Refiriéndose a las olas, reventar.</span></div>
+                    <div class="diccionario">Rompiente<span>Bajo o escollo que corta el movimiento ondulatorio de las olas, produciendo la formación de crestas desmoronadas.</span></div>
+                    <div class="diccionario">Roncero<span>Barco que abate mucho, por carecer de suficiente plano lateral.</span></div>
+                    <div class="diccionario">Ronza, irse de<span>Desplazarse el buque lateralmente.</span></div>
+                    <div class="diccionario">Rosa de los vientos<span>Círculo en el cual están marcados los treinta y dos rumbos en que se divide el horizonte.</span></div>
+                    <div class="diccionario">Rosca, barco en<span>Se llama así al barco en proceso de construcción, cuando le falta el aparejo, máquina, etc.</span></div>
+                    <div class="diccionario">Rumbo<span>Abertura en el casco de una embarcación. * Rumbo de compás: Angulo comprendido entre el eje de crujía y la dirección Norte-Sur del compás. * Rumbo magnético: Angulo comprendido entre la línea de crujía y el meridiano magnético del lugar. * Rumbo verdadero: Angulo comprendido entre la línea de crujía y el meridiano geográfico del lugar.</span></div>
+
+                </div>
+                <div id="s">
+                    <div class="diccionario encabezado">S</div>
+                    <div class="diccionario">Sable<span>Listón plano que se introduce en las vainas que algunas velas tienen en su caída de popa, para mejorar las condiciones de escape de la vena fluida, y ayudar a mantener el alunamiento.</span></div>
+                    <div class="diccionario">Saco<span>Ensenada profunda, cuya boca es más estrecha que su interior.</span></div>
+                    <div class="diccionario">Ságula<span>Driza empleada para izar banderas.</span></div>
+                    <div class="diccionario">Saloma<span>Grito o canto de los marineros, al trabajar en conjunto en una maniobra, para hacer simultáneo el esfuerzo de todos.</span></div>
+                    <div class="diccionario">Saltar<span>Aflojarse repentinamente un cabo por fallas mecánicas. * Dícese del viento cuando cambia repentinamente de dirección.</span></div>
+                    <div class="diccionario">Salvavidas<span>Flotador de distintas formas, para mantener personas en la superficie del agua.</span></div>
+                    <div class="diccionario">Sampán<span>Barco de las aguas de China y Japón.</span></div>
+                    <div class="diccionario">Sargazo<span>Alga de color rojo pardo, que abunda en algunos lugares del mar, formando lo que se denomina mar de sargazos.</span></div>
+                    <div class="diccionario">Semáforo<span>Torre elevada, donde se establecen señales útiles para la navegación.</span></div>
+                    <div class="diccionario">Seno<span>Golfo, ensenada. * El arco de una cosa cuando no están tirantes sus extremos.</span></div>
+                    <div class="diccionario">Sentina<span>Cavidad inferior de la nave, donde se reúnen las aguas que se filtran por los costados y cubierta del buque, de donde son expulsadas después por las bombas.</span></div>
+                    <div class="diccionario">Señal<span>Cualquier medio que permite a los barcos comunicarse entre sí o con la tierra a distancia.</span></div>
+                    <div class="diccionario">Serreta<span>Listón que corre de proa a popa, afirmado sobre las cuadernas.</span></div>
+                    <div class="diccionario">Serviola<span>Pescante muy robusto instalado en las proximidades de la amura y hacia la parte exterior del costado del buque, por medio del cual se iza, arria y trinca el ancla.</span></div>
+                    <div class="diccionario">Sextante<span>Aparato para determinar la altura de un astro sobre el horizonte marino. Utilízase también para medir ángulos horizontales entre visuales dirigidas a dos objetos.</span></div>
+                    <div class="diccionario">Shock-cord<span>Cabo de fibras de goma elástica.</span></div>
+                    <div class="diccionario">Singladura<span>Millas recorridas por un barco en 24 horas, que habitualmente se cuenta de un mediodía al siguiente.</span></div>
+                    <div class="diccionario">Sirgar<span>Llevar una embarcación tirándola desde la costa con un cabo.</span></div>
+                    <div class="diccionario">Situación<span>Lugar en que se encuentra el barco.</span></div>
+                    <div class="diccionario">Skeg<span>Aleta fija que precede al timón.</span></div>
+                    <div class="diccionario">Sloop<span>Aparejo formado por un solo palo, con vela de proa y mayor.</span></div>
+                    <div class="diccionario">Sobre<span>Costura en la vela donde se alojan los sables.</span></div>
+                    <div class="diccionario">Sobrejuanete<span>Ver juanete.</span></div>
+                    <div class="diccionario">Sobremesana<span>Gavia de mesana.</span></div>
+                    <div class="diccionario">Sobrequilla<span>Madero formado por piezas, colocadas de proa a popa por encima de la trabazón de las varengas, y fuertemente empernado a la quilla, que sirve para consolidar la unión de ésta con las cuadernas.</span></div>
+                    <div class="diccionario">Socaire<span>Lugar geográfico protegido del viento.</span></div>
+                    <div class="diccionario">Sollado<span>El espacio bajo la cubierta principal y encima de los pañoles, que se destinaba en los antiguos veleros al albergue de la tripulación.</span></div>
+                    <div class="diccionario">Sonda<span>Aparato para medir la profundidad del mar.</span></div>
+                    <div class="diccionario">Sondaleza<span>Cabo que se usa con el escandallo para sondear, y que tiene marcas para contar las brazas.</span></div>
+                    <div class="diccionario">Sondar<span>Sondear.</span></div>
+                    <div class="diccionario">Sondear<span>Determinar la profundidad del lugar.</span></div>
+                    <div class="diccionario">Soplón<span>Compás marino, cuya rosa se mira desde abajo y se coloca sobre las literas, para vigilar el rumbo estando acostado.</span></div>
+                    <div class="diccionario">Sotavento<span>Lado contrario a donde viene el viento. Antónimo de Barlovento.</span></div>
+                    <div class="diccionario">Spinnaker<span>Vela triangular que se establece con un tangón y se usa con vientos francos. Es de gran superficie y alto poder de empuje.</span></div>
+                    <div class="diccionario">Stopper<span>Variante de mordaza de nueces, donde una nuez es movible por la palanca que sale hacia arriba, trabando o destrabando.</span></div>
+                    <div class="diccionario">Superestructura<span>Todo lo que se construye sobre la cubierta principal.</span></div>
+
+
+                </div>
+
+
+            </div>
+            <div id="t">
+                <div class="diccionario encabezado">T</div>
+                <div class="diccionario">Tabla<span>Planchuela triangular de plástico o aluminio con uno o dos ollaos estampados, que sirve como refuerzo al puño de driza de la vela Marconi.</span></div>
+                <div class="diccionario">Tablazón<span>Conjunto de tablas unidas convenientemente entre si.</span></div>
+                <div class="diccionario">Tajamar<span>Pieza metálica en que van remachados los extremos de las últimas planchas de proa.</span></div>
+                <div class="diccionario">Talco<span>Transportador de plástico, que cubre los 360 grados y en el centro del cual se ha anudado un hilo de coser de unos 30 cm de largo o bien una regla giratoria, y sirve para medir ángulos en la carta náutica.</span></div>
+                <div class="diccionario">Tamborete<span>Trozo de madera grueso y rectangular que sirve para sujetar dos palos superpuestos.</span></div>
+                <div class="diccionario">Tambucho<span>Abertura en cubierta que permite acceder al interior de la embarcación. Se utiliza generalmente para pasar las velas del pique a cubierta.</span></div>
+                <div class="diccionario">Tangón<span>Percha que se utiliza para establecer un spinnaker o una vela de proa en orejas de burro.</span></div>
+                <div class="diccionario">Taquilla<span>Armario pequeño que se usa para guardar efectos diversos.</span></div>
+                <div class="diccionario">Tarquina<span>Vela trapezoidal, que va envergada al palo por medio de una culebra o por aros. Se orienta mediante una percha cruzada diagonalmente llamada livarda.</span></div>
+                <div class="diccionario">Taxímetro<span>Pínula.</span></div>
+                <div class="diccionario">Templar<span>Equilibrar proporcionalmente la tensión de la jarcia fija.</span></div>
+                <div class="diccionario">Temporal<span>Estado del mar con vientos de gran fuerza; borrasca.</span></div>
+                <div class="diccionario">Tenedero<span>Lugar donde se puede fondear. * Calidad del fondo con respecto a la adherencia del ancla.</span></div>
+                <div class="diccionario">Tenida<span>Habilidad del ancla para hacer cabeza.</span></div>
+                <div class="diccionario">Tensor<span>Herraje regulable que permite templar la jarcia fija.</span></div>
+                <div class="diccionario">Tercio, al<span>Vela parecida a la latina, pero con la entena más corta en su parte baja.</span></div>
+                <div class="diccionario">Terral<span>El viento que sopla desde la costa al mar durante la noche, cuando no reinan vientos generales.</span></div>
+                <div class="diccionario">Tesar<span>Poner tirante un cabo o cable.</span></div>
+                <div class="diccionario">Tifón<span>Nombre que se da al huracán en el mar de China.</span></div>
+                <div class="diccionario">Tijera<span>Pieza formada por dos listones articulados por un perno, como si fuera un tijera de patas largas, que se apoyan en la cubierta y sirve para sostener la botavara.</span></div>
+                <div class="diccionario">Timón<span>Mecanismo del barco que sirve para darle dirección.</span></div>
+                <div class="diccionario">Timonear<span>Gobernar el timón.</span></div>
+                <div class="diccionario">Timonel<span>Quien gobierna el timón. * Grado otorgado por la Prefectura Naval. Habilita para navegar en ríos y lagos interiores, y hasta 4 millas mar afuera, dependiendo de la zona.</span></div>
+                <div class="diccionario">Tingladillo<span>Disposición de las tablas del forro, que en vez de juntar sus bordes, se colocan montadas a la manera de un tejado.</span></div>
+                <div class="diccionario">Tintero<span>Herraje hembra, donde articula el pinzote.</span></div>
+                <div class="diccionario">Toldilla<span>Cubierta parcial que tienen algunos buques a la altura de la borda, desde el palo mesana hasta la popa.</span></div>
+                <div class="diccionario">Tolete<span>Herraje para apoyar los remos en cubierta y bogar.</span></div>
+                <div class="diccionario">Tomador<span>Cinta de lona o cabo para aferrar las velas al arriarlas.</span></div>
+                <div class="diccionario">Tomar vuelta<span>Asegurar un cabo mediante vueltas.</span></div>
+                <div class="diccionario">Tonelaje de Arqueo<span>Medida fiscal del tamaño de la embarcación. No es un peso. Se lo calcula como (eslora x manga x puntal)/5. * Desplazamiento de un barco en toneladas.</span></div>
+                <div class="diccionario">Tope<span>Extremo superior de un palo. * Marinero que está de vigía en un sitio de la arboladura más alto que la cofa.</span></div>
+                <div class="diccionario">Tormentín<span>Vela de proa de pequeño tamaño y gran resistencia utilizada con tiempo duro.</span></div>
+                <div class="diccionario">Tornado<span>Huracán en el golfo de Guinea y en América Central.</span></div>
+                <div class="diccionario">Trabazón<span>Juntura, enlace.</span></div>
+                <div class="diccionario">Trabuchar<span>Modismo que se utiliza en lugar de trasluchar.</span></div>
+                <div class="diccionario">Traca<span>Fila de tablas o planchas que corren de la roda al codaste y pueden ser de forro, cubierta, etc.</span></div>
+                <div class="diccionario">Trancanil<span>Madero fuerte en los costados de cubierta que sirve de tapas a las cuadernas.</span></div>
+                <div class="diccionario">Trapecio<span>Cable encapillado en o al lado de la encapilladura del obenque alto, que termina en una manija. Permite al tripulante salir mas allá de la cubierta para adrizar la embarcación.</span></div>
+                <div class="diccionario">Trasbordar<span>Pasar personas u objetos de un barco a otro.</span></div>
+                <div class="diccionario">Trasluchar<span>Cambiar de amura las velas en la virada en redondo.</span></div>
+                <div class="diccionario">Traveller<span>Patín que corre sobre un riel en forma perpendicular a la línea de crujía, en el que se fija el motón de la mayor.</span></div>
+                <div class="diccionario">Través<span>Dirección perpendicular al eje de crujía de la embarcación. * De través: Dícese del velero que navega recibiendo el viento por el través.</span></div>
+                <div class="diccionario">Travesía<span>Viaje por mar, de un punto a otro.</span></div>
+                <div class="diccionario">Trinca<span>Ligadura que se da a uno o mas objetos con un cabo, cable o cadena para asegurarla de los balances de la nave.</span></div>
+                <div class="diccionario">Trincar<span>Asegurar con trincas los efectos de a bordo.</span></div>
+                <div class="diccionario">Trinquetada<span>Navegación que se hace sólo con el trinquete.</span></div>
+                <div class="diccionario">Trinquete<span>Palo trinquete. * Vela que se larga en este palo.</span></div>
+                <div class="diccionario">Trinquetilla<span>Vela de proa que se enverga en un estay ubicado detrás del estay proel.</span></div>
+                <div class="diccionario">Tripulación<span>Personas que van en una embarcación, dedicadas a su maniobra y servicio.</span></div>
+                <div class="diccionario">Tumbar<span>Dar vuelta la embarcación, hecho que acontece al quedar el metacentro por debajo del centro de gravedad.</span></div>
+
+
+            </div>
+            <div id="u">
+                <div class="diccionario encabezado">U</div>
+                <div class="diccionario">Uña<span>Extremo de cada brazo del ancla.</span></div>
+
+            </div>
+            <div id="v">
+                <div class="diccionario encabezado">V</div>
+                <div class="diccionario">Vacamento<span>Conjunto de vertellos ensartados en un cabo o cable.</span></div>
+                <div class="diccionario">Vagra<span>Pieza longitudinal que se coloca en el casco, para trabar las cuadernas.</span></div>
+                <div class="diccionario">Vaina<span>Dobladillo que se le hace a las velas en sus orillas. * Jareta que se cose al canto vertical de una bandera, para que por dentro de ella pase la ságula.</span></div>
+                <div class="diccionario">Vang<span>Aparejo que se toma del palo y va a la botavara, para mantenerla baja. Análogo al contraamantillo.</span></div>
+                <div class="diccionario">Varadera<span>Cualquiera de los palos que se ponen al costado del buque como resguardo a la tablazón.</span></div>
+                <div class="diccionario">Varadero<span>Lugar apropiado para sacar las embarcaciones a tierra, con el objeto de repararlas, pintarlas, etc. * Varadero del ancla: Plancha de hierro con que se defiende el costado del buque en el sitio en que descansa el ancla.</span></div>
+                <div class="diccionario">Varar<span>Dar la embarcación en barro o arena, quedando inmóvil en ellos. * Poner en seco una embarcación.</span></div>
+                <div class="diccionario">Varenga<span>Pieza transversal que se afirma en la quilla y enlaza las ramas de una cuaderna.</span></div>
+                <div class="diccionario">Vareta<span>Listones de madera que se curvan al vapor de agua y reemplazan a las cuadernas en los yates o refuerzan a aquéllas ocupando sitios intermedios.</span></div>
+                <div class="diccionario">Variación de la aguja<span>Declinación magnética.</span></div>
+                <div class="diccionario">Vela<span>Superficie formada por la unión de varios paños por medio de costuras y que izada en los mástiles aprovecha la fuerza del viento para impulsar la embarcación.</span></div>
+                <div class="diccionario">Velacho<span>Gavia del trinquete.</span></div>
+                <div class="diccionario">Velaje<span>Velamen.</span></div>
+                <div class="diccionario">Velamen<span>Conjunto de velas de una embarcación.</span></div>
+                <div class="diccionario">Velar<span>Emerger la tierra del agua por la bajante de esta última.</span></div>
+                <div class="diccionario">Velejear<span>Navegar a vela.</span></div>
+                <div class="diccionario">Velería<span>Taller donde se construyen velas.</span></div>
+                <div class="diccionario">Velero<span>Barco a vela. * Constructor de velas.</span></div>
+                <div class="diccionario">Vendaval<span>Viento muy fuerte, que sopla del lado del mar.</span></div>
+                <div class="diccionario">Ventarrón<span>Viento duro.</span></div>
+                <div class="diccionario">Verdín<span>Filamento adherido al casco de un buque, cuando permanece mucho tiempo en el agua. Se le llama también barba.</span></div>
+                <div class="diccionario">Verduguillo<span>Cintón.</span></div>
+                <div class="diccionario">Verga<span>Percha que cuelga de un mástil y sirve para sostener una vela.</span></div>
+                <div class="diccionario">Veril<span>El borde de un bajo, banco o canal.</span></div>
+                <div class="diccionario">Vertellos<span>Bolitas agujereadas que se ensartan en forma de rosario formando el vacamento, y se emplean para disminuir la fricción en el aparejo de un barco.</span></div>
+                <div class="diccionario">Vía<span>* Vía de agua: Abertura en el casco, por donde penetra el agua. * A la vía: Dícese de la posición del timón en la cual éste se orienta según el eje de crujía.</span></div>
+                <div class="diccionario">Viento<span>Corriente de aire producida en la atmósfera por causas naturales. * Cables de acero que sujetan el botalón por ambos costados. * Al viento: Posición del barco en la cual la proa apunta directamente contra el viento. * Viento real: El medido tomando como sistema de referencia la tierra. * Viento aparente: El medido a bordo del buque, tomándolo como referencia. Difiere del real en que éste es igual al aparente más la velocidad del buque (suma vectorial).</span></div>
+                <div class="diccionario">Vigía<span>Escollo que vela en la superficie. * Centinela en lo alto de la arboladura.</span></div>
+                <div class="diccionario">Vigota<span>Pieza circular con uno o varios agujeros, que sirve como motón o para tesar la jarcia con acolladores.</span></div>
+                <div class="diccionario">Violín<span>La proa de algunos barcos, cuyo tajamar remata en una voluta como la de aquel instrumento. * Estay de violín: Ver estay.</span></div>
+                <div class="diccionario">Virada<span>Acción y efecto de virar.</span></div>
+                <div class="diccionario">Virador<span>Cabo grueso para diversos usos.</span></div>
+                <div class="diccionario">Virar<span>Cambiar de bordada. * Dar vueltas al cabrestante para levar las anclas o suspender otras cosas de mucho peso.</span></div>
+                <div class="diccionario">Virazón<span>El viento que sopla desde el mar en las costas, durante el día cuando no reinan vientos generales.</span></div>
+                <div class="diccionario">Volante<span>Toda cabo de quita y pon. * Toda vela de proa que no va tomada al estay.</span></div>
+                <div class="diccionario">Voltejear<span>Bordejear.</span></div>
+                <div class="diccionario">Voltejeo<span>Angulo comprendido entre las ceñidas de ambas amuras.</span></div>
+                <div class="diccionario">Vuelta de campana<span>Tumbada que da la embarcación quedando los palos hacia el fondo.</span></div>
+                <div class="diccionario">Vuelta encontrada<span>Situación en la cual dos buques navegan con rumbos opuestos o casi opue</span></div>
+
+
+            </div>
+            <div id="w">
+                <div class="diccionario encabezado">W</div>
+                <div class="diccionario">Wishbone<span>Tipo de botavara rígida, doble, de forma elíptica. Se usa en tablas de windsurf, y en algunos foques.</span></div>
+
+            </div>
+
+            <div id="x">
+                <div class="diccionario encabezado">X</div>
+
+            </div>
+
+
+            <div id="y">
+                <div class="diccionario encabezado">Y</div>
+                <div class="diccionario">Yacht o Yate<span>Barco de recreo a vela o motor.</span></div>
+                <div class="diccionario">Yawl<span>Aparejo de palo mayor y mesana, en el que este último está situado detrás de la caña del timón. La superficie de la vela de mesana no sobrepasa el 10% de la superficie total.</span></div>
+                <div class="diccionario">Yola<span>Tipo de embarcación pequeña y liviana, sin lastre.</span></div>
+
+            </div>
+            <div id="z">
+                <div class="diccionario encabezado">Z</div>
+                <div class="diccionario">Zafarrancho<span>Secuencia ordenada de actividades para efectuar una determinada tarea, como zafarrancho de baldeo, de incendio, etc.</span></div>
+                <div class="diccionario">Zapata<span>Tablón compuesto de una o varias piezas, que se afirma a la quilla por su lado exterior, como refuerzo o relleno para bajar más el lastre. * Pedazo de madera que se pone en la uña del ancla, para protección de otros efectos al estibarla.</span></div>
+                <div class="diccionario">Zarpar<span>Levar anclas.</span></div>
+                <div class="diccionario">Zozobrar<span>Irse a pique la embarcación.</span></div>
+                <div class="diccionario">Zuncho<span>Abrazadera o aro de metal, para fortalecer ciertas piezas.</span></div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <nav id="inferior"  >
+        <div class="boton" id="atras"><a href="#"><img id="cola" src="img/atras.png" alt="atras"/>atras</a></div>
+        <div class="boton" id="menu"><a href="menu_principal.html"><img id="cola" src="img/menu_2.png" alt="menu"/>menu</a></div>
+        <img id="central"src="img/nav_central.png" alt=""/>
+    </nav>
+
+</body>
+
+<script src="js/iscroll_ini.js"></script>
+
+</html>

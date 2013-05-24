@@ -1,0 +1,149 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>PER - Video</title>
+        <meta name="HandheldFriendly" content="true"/>
+        <meta name="viewport" content="width = device-width, initial-scale=1, maximum-scale=1"/>
+        <link rel="stylesheet" href="css/reset+clearfix.css" type="text/css"/>
+        <link rel="stylesheet" href="fonts/fonts.css" type="text/css"/>
+        <link rel="stylesheet" href="css/estilos.css" type="text/css"/>
+        <link rel="stylesheet" href="css/responsive.css" type="text/css"/>
+        <!--[if gte IE 9]>
+          <style type="text/css">
+            .gradient {
+               filter: none;
+            }
+          </style>
+        <![endif]-->
+        <!--<script src="js/cordova-2.4.0.js"></script>-->
+        <script src="cordova-2.7.0.js"></script>
+        <script src="js/iscroll.js"></script>
+        <script src="js/jquery.js"></script>
+        <script src="js/funciones.js"></script>
+        <script src="phonegap.js"></script>
+        <script src="js/contenidos/config.js"></script>
+        <script src="js/contenidos/videos.js"></script>
+        <script>
+
+            document.addEventListener("deviceready", function() {
+
+                function resolucion() {
+
+                    var ancho = $(window).width();
+                    var video = $('.video');
+
+                    var rutaVideo = 'http://boldtech.es/per/temas/'; // ruta general del servidor
+                    var rutaTema = '01tecnologia/'; // nombre de la carpeta de ese tema
+                    var nombreVideo = 'a12_1dimensi'; // nombre archivo sin extension
+
+                    var resolucion_1 = [600, 450];
+                    var rutaRes_1 = resolucion_1[0] + "x" + resolucion_1[1] + "/";
+                    var resolucion_2 = [800, 600];
+                    var rutaRes_2 = resolucion_2[0] + "x" + resolucion_2[1] + "/";
+                    var anchoCambio = 600; //ancho a partir del cual cambia a mejor calidad 
+
+                    if (ancho > anchoCambio) {
+
+                        var ruta = rutaVideo + rutaTema + rutaRes_2 + nombreVideo + '.mp4';
+
+                        if (device.platform.match(/Android/)) {
+                            window.plugins.videoPlayer.play(ruta);
+                        }
+                        else {
+                            video.attr('width', resolucion_2[0]);
+                            video.attr('height', resolucion_2[1]);
+                            $('.video source').remove();
+                            video.html("<source src=\"\" type='video/mp4' />");
+                            $('.video source').attr('src', ruta);
+                            $('.video source').load();
+                        }
+
+                    }
+
+                    else {
+
+                        var ruta = rutaVideo + rutaTema + rutaRes_1 + nombreVideo + '.mp4';
+
+                        if (device.platform.match(/Android/)) {
+                            window.plugins.videoPlayer.play(ruta);
+                        }
+                        else {
+                            video.attr('width', resolucion_1[0]);
+                            video.attr('height', resolucion_1[1]);
+                            $('.video source').remove();
+                            video.html("<source src=\"\" type='video/mp4' />");
+                            $('.video source').attr('src', ruta);
+                            $('.video source').load();
+                        }
+
+                    }
+
+                }
+
+                resolucion();
+
+            }, false); //fin phonegap
+        </script>
+        <script>
+            $(function() {
+                $('#loading').show();
+            });
+
+            $(window).load(function() {
+                $('#loading').fadeOut(2000);
+                iscroll_ini();
+                myScroll.refresh();
+            });
+        </script>
+    </head>
+
+    <body>
+        <div id="loading" class="hider" title="Confirmación" style="display:none;text-align: center;"><div class="popup_box"><img src="img/loading.gif" alt="" /><br>Enviando!</div></div>
+        <nav id="superior"  >
+            <div id="title" data-role="listview" data-filter="true">
+                <span class="title"></span>
+            </div>
+            <img id="cola" src="img/cola_menu_superior.png" alt="Colomer"/>
+            <img id="topFix" src="img/logo_iper.png" alt="Colomer"/>
+        </nav>
+
+        <div id="wrapper">
+            <div id="scrollable">
+                <div id="videoList" data-filter="true" data-role="listview">
+                    <div class="item">
+                        <a id="1" href="videos_template.html?id=1">1.1 Denominaciones del casco</a>
+                    </div>
+                    <div class="item">
+                        <a id="2" href="videos_template.html?id=2">2.1 Dimensiones</a>
+                    </div>
+                    <div class="item">
+                        <a id="3" href="videos_template.html?id=3">3.1 Estructura del buque</a>
+                    </div>
+                    <div class="item">
+                        <a id="4" href="videos_template.html?id=4">4.1 Estanqueidad</a>
+                    </div>
+                    <div class="item">
+                        <a id="5" href="videos_template.html?id=5">5.1 Accesorios</a>
+                    </div>
+                    <div class="item">
+                        <a id="6" href="videos_template.html?id=6">6.1 Elementos de amarre</a>
+                    </div>
+                    <div class="item">
+                        <a id="7" href="videos_template.html?id=7">7.1 Terminología</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <nav id="inferior"  >
+            <div class="boton" id="atras"><a href="#"><img id="cola" src="img/atras.png" alt="atras"/>atras</a></div>
+            <div class="boton" id="menu"><a href="menu_principal.html"><img id="cola" src="img/menu_2.png" alt="menu"/>menu</a></div>
+            <div id="central"></div>
+        </nav>
+
+    </body>
+
+    <script src="js/iscroll_ini.js"></script>
+
+</html>

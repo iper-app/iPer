@@ -1,0 +1,92 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>PER - Glosario</title>
+        <meta name="HandheldFriendly" content="true"/>
+        <meta name="viewport" content="width = device-width, initial-scale=1, maximum-scale=1"/>
+        <link rel="stylesheet" href="css/reset+clearfix.css" type="text/css"/>
+        <link rel="stylesheet" href="fonts/fonts.css" type="text/css"/>
+        <link rel="stylesheet" href="css/estilos.css" type="text/css"/>
+        <link rel="stylesheet" href="css/responsive.css" type="text/css"/>
+        <!--[if gte IE 9]>
+          <style type="text/css">
+            .gradient {
+               filter: none;
+            }
+          </style>
+        <![endif]-->
+        <!--<script src="js/cordova-2.4.0.js"></script>-->
+        <script src="cordova-2.7.0.js"></script>
+        <script src="js/iscroll.js"></script>
+        <script src="js/jquery.js"></script>
+        <script src="js/funciones.js"></script>
+        <script src="phonegap.js"></script>
+        <script>
+            $(function() {
+                $('#loading').show();
+            });
+
+            $(window).load(function() {
+                $('#loading').fadeOut(2000);
+                iscroll_ini();
+                myScroll.refresh();
+            });
+        </script>
+    </head>
+
+    <body>
+        <div id="loading" class="hider" title="Confirmación" style="display:none;text-align: center;"><div class="popup_box"><img src="img/loading.gif" alt="" /><br>Enviando!</div></div>
+        <nav id="superior"  >
+            <span class="title">glosario</span>
+            <img id="cola" src="img/cola_menu_superior.png" alt="Colomer"/>
+            <img id="topFix" src="img/logo_iper.png" alt="Colomer"/>
+        </nav>
+
+        <div id="wrapper">
+            <div id="scrollable">
+                <div class="glosario"><span>º</span><span class="peque">Grado</span></div>
+                <div class="glosario"><span>'</span><span class="peque">Minuto</span></div>
+                <div class="glosario"><span>'</span><span class="peque">Milla náutica</span></div>
+                <div class="glosario"><span>''</span><span class="peque">Segundo</span></div>
+                <div class="glosario"><span>∆</span><span class="peque">Desvío</span></div>
+                <div class="glosario"><span>ab</span><span class="peque">Abatimiento</span></div>
+                <div class="glosario"><span>ct</span><span class="peque">Corrección total</span></div>
+                <div class="glosario"><span>d</span><span class="peque">Distancia</span></div>
+                <div class="glosario"><span>D</span><span class="peque">Deriva</span></div>
+                <div class="glosario"><span>Da</span><span class="peque">Demora de aguja</span></div>
+                <div class="glosario"><span>dm</span><span class="peque">Declinación magnética (variación local)</span></div>
+                <div class="glosario"><span>Dm</span><span class="peque">Demora magnética</span></div>
+                <div class="glosario"><span>Dv</span><span class="peque">Demora verdadera</span></div>
+                <div class="glosario"><span>Ic</span><span class="peque">Intensidad de la corriente (veloc. cte.)</span></div>
+                <div class="glosario"><span>Ihc</span><span class="peque">Intensidad horaria de la cte. (veloc. cte.)</span></div>
+                <div class="glosario"><span>l</span><span class="peque">Latitud</span></div>
+                <div class="glosario"><span>L</span><span class="peque">Longitud</span></div>
+                <div class="glosario"><span>M</span><span class="peque">Marcación</span></div>
+                <div class="glosario"><span>m</span><span class="peque">Milla náutica</span></div>
+                <div class="glosario"><span>n</span><span class="peque">Nudo</span></div>
+                <div class="glosario"><span>Ra</span><span class="peque">Rumbo de aguja</span></div>
+                <div class="glosario"><span>Rc</span><span class="peque">Rumbo de la corriente</span></div>
+                <div class="glosario"><span>Re</span><span class="peque">Rumbo efectivo</span></div>
+                <div class="glosario"><span>Rm</span><span class="peque">Rumbo magnético</span></div>
+                <div class="glosario"><span>Rs</span><span class="peque">Rumbo de superficie</span></div>
+                <div class="glosario"><span>Rv</span><span class="peque">Rumbo verdadero</span></div>
+                <div class="glosario"><span>Ve</span><span class="peque">Velocidad efectiva</span></div>
+                <div class="glosario"><span>Vl</span><span class="peque">Variación local (declinación magnética</span></div>
+                <div class="glosario"><span>Vm</span><span class="peque">Velocidad de máquina</span></div>
+                <div class="glosario"><span>Za</span><span class="peque">Azimut de aguja</span></div>
+                <div class="glosario"><span>Zv</span><span class="peque">Azimut verdadero</span></div>
+            </div>
+        </div>
+
+        <nav id="inferior"  >
+            <div class="boton" id="atras"><a href="#"><img id="cola" src="img/atras.png" alt="atras"/>atras</a></div>
+            <div class="boton" id="menu"><a href="menu_principal.html"><img id="cola" src="img/menu_2.png" alt="menu"/>menu</a></div>
+            <div id="central"></div>
+        </nav>
+
+    </body>
+
+    <script src="js/iscroll_ini.js"></script>
+
+</html>

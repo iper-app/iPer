@@ -1,0 +1,103 @@
+img, video, p {
+    max-width:100%!important;
+}
+
+@media screen and (max-width: 625px) {
+    div#aviso_audio {
+        line-height:30px;	
+    }
+}
+
+@media screen and (min-width: 500px) {
+    div#letras {
+        right:7%;
+        top:84px;
+    }
+}
+
+@media screen and (min-height: 500px) {
+    .letra {
+        height:19px!important;
+        line-height:21px;
+    }
+}
+@media screen and (max-width: 625px) {
+    div#textItem {
+        line-height:30px;	
+    }
+}
+
+@media screen and (min-width: 500px) {
+    nav#superior{
+        font-size:90%;
+    }
+}
+@media screen and (max-width: 500px) {
+    nav#superior{
+        font-size:70%;
+    }
+}
+
+@media screen and (min-width: 500px) {
+    label{
+        font-size:90%;
+    }
+}
+@media screen and (max-width: 500px) {
+    label{
+        font-size:100%;
+    }
+}
+
+
+@media screen and (min-width: 360px) {
+    /*#pregList label{
+        width:42%;
+    }*/
+}
+@media screen and (max-width: 600px) {
+    table.estructuraDelExamen tr{
+        font-size: 70%;
+    }
+    table tr td.comoestudiar, #bodyNormal ul.comoestudiar {
+        font-size: 70%;
+    }
+
+
+    /*  #pregList label{
+          width:35%;
+          font-size: 70%
+      }
+      div.preguntas a{
+          font-size: 70%;
+      }
+    */
+    .button{
+        width: 35%;
+        font-size: 70%;
+    }
+
+    .matImg img{
+        width: 100%!important;       
+    }
+
+    .matDet span.materialTitle{
+        font-size: 70%!important;
+        line-height: 70%!important;
+    }
+
+    .matDet span.materialDetails{
+        font-size: 70%!important;        
+    }
+
+    .textTitle, .textBody, .numTel, .tblPracticas, .tblPracticas2{
+        font-size: 80%!important; 
+        line-height: 100%;
+    }
+
+    div#submit, div#register{
+        width: 25%;        
+        font-size:70%;
+    }
+
+}

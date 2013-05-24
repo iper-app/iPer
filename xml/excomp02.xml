@@ -1,0 +1,3603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <test>
+      <idPreguntas>76</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>01</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La carena es</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a). - El espejo de popa.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>76</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>01</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La carena es</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b). - La obra viva.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>76</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>01</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La carena es</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c). - La longitud de la quilla.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>76</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>01</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La carena es</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d). - La obra muerta.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>77</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>02</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Las varengas son</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a). - Vigas transversales del fondo del buque.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>77</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>02</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Las varengas son</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b). - Vigas longitudinales del costado del buque.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>77</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>02</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Las varengas son</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c). - Vigas verticales que sujetan la cubierta.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>77</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>02</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Las varengas son</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d). -Vigas longitudinales que sujetan la cubierta.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>78</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>03</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Se denomina sotavento</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a). - A la banda de estribor cuando sopla el viento por ella.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>78</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>03</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Se denomina sotavento</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b). - A la banda de babor cuando es la contraria por donde sopla el viento.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>78</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>03</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Se denomina sotavento</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c). - A la banda de babor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>78</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>03</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Se denomina sotavento</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d). -A la banda contraria por donde sopla el viento.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>79</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>04</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Los orificios de evacuación del agua en la bañera de los yates se llaman</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a). - Lumbreras.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>79</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>04</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Los orificios de evacuación del agua en la bañera de los yates se llaman</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b). - Imbornales.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>79</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>04</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Los orificios de evacuación del agua en la bañera de los yates se llaman</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c). - Gateras.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>79</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>04</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Los orificios de evacuación del agua en la bañera de los yates se llaman</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d). - Groeras.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>80</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>05</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿A qué se llama bocina?</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a). - Al orificio por donde pasa el eje de cola.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>80</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>05</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿A qué se llama bocina?</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b). - A la prolongación de la quilla por la popa.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>80</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>05</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿A qué se llama bocina?</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c). - Al apoyo del timón.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>80</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>05</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿A qué se llama bocina?</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d). -Al instrumento para avisar a otros barcos.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>81</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>06</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En términos náuticos ayustar un cabo es</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a). - Ajustarlo bien a la bita.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>81</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>06</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En términos náuticos ayustar un cabo es</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b). - Estibarlo en su lugar.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>81</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>06</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En términos náuticos ayustar un cabo es</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c). - Unirlo mediante nudos o costuras.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>81</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>06</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En términos náuticos ayustar un cabo es</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d). - Adujarlo debidamente.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>82</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>07</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si metemos el timón a una banda cualquiera con el barco avante, se produce:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a). - Caída de la proa a la banda a donde se metió el timón.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>82</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>07</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si metemos el timón a una banda cualquiera con el barco avante, se produce:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b). - Caída de la proa a la banda contraria a donde se metió el timón.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>82</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>07</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si metemos el timón a una banda cualquiera con el barco avante, se produce:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c). - Caída de la popa a la misma banda a donde se metió el timón.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>82</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>07</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si metemos el timón a una banda cualquiera con el barco avante, se produce:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d). - Caída de la popa a la misma banda a donde se metió el timón y aumento de velocidad.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>83</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>08</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El objeto de orincar un ancla es:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a).- Tomar demoras de aguja de un punto determinado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>83</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>08</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El objeto de orincar un ancla es:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b). - Señalizar el lugar donde se encuentra fondeada.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>83</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>08</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El objeto de orincar un ancla es:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c).- Calcular la sonda en ese preciso lugar.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>83</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>08</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El objeto de orincar un ancla es:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d).- Dejarla caer al fondo.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>84</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>09</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En un buque marcha atrás con hélice dextrógira, si metemos el timón a babor, la proa cae:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a). - De manera lenta a babor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>84</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>09</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En un buque marcha atrás con hélice dextrógira, si metemos el timón a babor, la proa cae:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b). - De manera rápida a babor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>84</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>09</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En un buque marcha atrás con hélice dextrógira, si metemos el timón a babor, la proa cae:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c). - Lentísimamente a estribor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>84</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>09</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En un buque marcha atrás con hélice dextrógira, si metemos el timón a babor, la proa cae:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d). - Rápidamente a estribor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>85</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>10</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Decimos que nos abarloamos, cuando:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a). - Atracamos por la banda de babor a un muelle.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>85</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>10</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Decimos que nos abarloamos, cuando:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b). - Atracamos por la banda de estribor a un muelle.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>85</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>10</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Decimos que nos abarloamos, cuando:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c). -Amarramos perpendicularmente al muelle por proa o popa.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>85</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>10</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Decimos que nos abarloamos, cuando:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d). - Ninguna de las anteriores.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>86</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>11</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si viramos el largo de proa:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a). - El barco va atrás y atraca la popa.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>86</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>11</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si viramos el largo de proa:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b). - El barco va avante y desatraca la proa.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>86</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>11</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si viramos el largo de proa:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c). - El barco va avante y atraca la proa.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>86</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>11</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si viramos el largo de proa:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d). - El barco va avante y no atraca.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>87</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>12</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Qué es el viento aparente?:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a). - El viento de la predicción meteorológica.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>87</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>12</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Qué es el viento aparente?:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b). - La suma del viento natural y real.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>87</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>12</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Qué es el viento aparente?:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c). - La suma vectorial del viento real y el aparente.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>87</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>12</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Qué es el viento aparente?:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d). - La suma vectorial del viento real y la velocidad del buque.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>88</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>13</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Para que sirve un escandallo?:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a). - Para conocer la profundidad.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>88</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>13</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Para que sirve un escandallo?:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b). - No es un término de aplicación marítima.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>88</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>13</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Para que sirve un escandallo?:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c). -Para conocer la velocidad.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>88</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>13</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Para que sirve un escandallo?:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d). - Para conocer el viento aparente.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>89</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>14</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si amarramos un cabo fuertemente a un elemento fijo:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a). - Estamos largando el cabo.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>89</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>14</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si amarramos un cabo fuertemente a un elemento fijo:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b). - Estamos lascando el cabo.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>89</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>14</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si amarramos un cabo fuertemente a un elemento fijo:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c). - Estamos haciendo firme el cabo.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>89</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>14</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si amarramos un cabo fuertemente a un elemento fijo:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d). - Estamos adujando el cabo.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>90</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>15</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Los incendios de clase ``C`` son los producidos por</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a). - Combustibles sólidos.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>90</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>15</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Los incendios de clase ``C`` son los producidos por</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b). - Combustibles líquidos.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>90</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>15</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Los incendios de clase ``C`` son los producidos por</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c). - Equipos eléctricos.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>90</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>15</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Los incendios de clase ``C`` son los producidos por</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d). - Combustibles gaseosos.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>91</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>16</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si una embarcación de vela al virar pasa la popa por el viento, se dice que está virando por:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a). - Estribor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>91</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>16</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si una embarcación de vela al virar pasa la popa por el viento, se dice que está virando por:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b). - Babor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>91</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>16</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si una embarcación de vela al virar pasa la popa por el viento, se dice que está virando por:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c). - Avante.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>91</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>16</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si una embarcación de vela al virar pasa la popa por el viento, se dice que está virando por:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d). - Redondo</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>92</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>17</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En caso de ``hombre al agua`` con mal tiempo, la embarcación se situará:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a). - A sotavento del náufrago.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>92</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>17</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En caso de ``hombre al agua`` con mal tiempo, la embarcación se situará:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b). - A barlovento del náufrago.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>92</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>17</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En caso de ``hombre al agua`` con mal tiempo, la embarcación se situará:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c). - Dando la popa al náufrago.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>92</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>17</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En caso de ``hombre al agua`` con mal tiempo, la embarcación se situará:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d). - Dando la proa al náufrago.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>93</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>18</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿ Qué factores deben de tenerse en cuenta en la maniobra de aproximación para dar remolque?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a). - Los calados y la manga.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>93</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>18</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿ Qué factores deben de tenerse en cuenta en la maniobra de aproximación para dar remolque?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b). - La eslora y el calado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>93</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>18</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿ Qué factores deben de tenerse en cuenta en la maniobra de aproximación para dar remolque?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c). - La obra muerta y la superestructura.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>93</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>18</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿ Qué factores deben de tenerse en cuenta en la maniobra de aproximación para dar remolque?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d). - La obra viva y el puntal.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>94</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>19</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Como debe de navegar siempre remolcador y remolcado?</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a). - A la velocidad máxima de gobierno.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>94</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>19</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Como debe de navegar siempre remolcador y remolcado?</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b). - Con una longitud de remolque múltiplo de la longitud de las olas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>94</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>19</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Como debe de navegar siempre remolcador y remolcado?</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c). - A la velocidad mínima de gobierno.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>94</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>19</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Como debe de navegar siempre remolcador y remolcado?</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d). - Con una velocidad de remolque igual al doble de la eslora.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>95</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>20</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Se dice que capeamos un temporal cuando navegamos recibiendo el viento y las olas por:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a).- El través.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>95</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>20</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Se dice que capeamos un temporal cuando navegamos recibiendo el viento y las olas por:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b). - La amura.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>95</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>20</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Se dice que capeamos un temporal cuando navegamos recibiendo el viento y las olas por:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c).- La aleta.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>95</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>20</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Se dice que capeamos un temporal cuando navegamos recibiendo el viento y las olas por:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d).- La popa.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>96</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>21</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Una señal fumígena de humo de color naranja, indicará:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a). - Necesidad de auxilio.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>96</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>21</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Una señal fumígena de humo de color naranja, indicará:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b). - Navegación restringida.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>96</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>21</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Una señal fumígena de humo de color naranja, indicará:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c). - Peligro.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>96</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>21</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Una señal fumígena de humo de color naranja, indicará:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d). - Pesquero arrastrando.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>97</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>22</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La maniobra de virar por avante equivale a:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a). - Cambiar de ceñir por una amura a ceñir por la otra pasando la proa por el viento.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>97</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>22</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La maniobra de virar por avante equivale a:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b). - Cambiar de ceñir por una amura a ceñir por la otra sin pasar la proa por el viento.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>97</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>22</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La maniobra de virar por avante equivale a:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c). - Cambiar de tener el viento por la aleta a tenerlo por popa cerrada.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>97</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>22</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La maniobra de virar por avante equivale a:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d). - Cambiar de tener el viento por el través a tenerlo a un descuartelar.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>98</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>23</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Podemos definir el pujamen de una vela como:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a). - El lado de popa de la misma, entre el puño de escota y el puño de driza.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>98</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>23</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Podemos definir el pujamen de una vela como:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b). - La parte inferior de la misma, entre el puño de amura y el puño de escota.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>98</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>23</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Podemos definir el pujamen de una vela como:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c). - El cabo que se utiliza para izarla.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>98</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>23</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Podemos definir el pujamen de una vela como:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d). - El pico o vértice de la misma.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>99</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>24</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El plancton está formado por</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a). - Animales que viven en el fondo marino.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>99</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>24</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El plancton está formado por</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b). - Animales o vegetales que viven en suspensión en el agua.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>99</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>24</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El plancton está formado por</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c). - Cefalópodos y peces.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>99</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>24</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El plancton está formado por</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d). -Vegetales que viven fijos en el fondo marino.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>100</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>25</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El masaje cardiaco debe de realizarse:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a). - Debajo del estómago.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>100</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>25</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El masaje cardiaco debe de realizarse:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b). - Debajo del esternón.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>100</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>25</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El masaje cardiaco debe de realizarse:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c). - En la parte izquierda del pecho.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>100</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>25</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El masaje cardiaco debe de realizarse:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d). - En el costado izquierdo.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>101</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>26</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Qué es una marcación?.</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a). - El ángulo que forma la visual a un objeto y el norte verdadero.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>101</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>26</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Qué es una marcación?.</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b). - El ángulo que forma la visual a un objeto y la proa del buque.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>101</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>26</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Qué es una marcación?.</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c). - El ángulo que forma la visual a un objeto y el meridiano.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>101</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>26</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Qué es una marcación?.</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d). - Ninguna respuesta anterior es correcta.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>102</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>27</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Siendo M= marcación, D= demora, R= rumbo, si el objeto visualizado está por estribor, ¿cuál de las siguientes afirmaciones es cierta?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a). - R=M+D</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>102</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>27</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Siendo M= marcación, D= demora, R= rumbo, si el objeto visualizado está por estribor, ¿cuál de las siguientes afirmaciones es cierta?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b). - M=D+R</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>102</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>27</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Siendo M= marcación, D= demora, R= rumbo, si el objeto visualizado está por estribor, ¿cuál de las siguientes afirmaciones es cierta?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c). - D=R+M</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>102</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>27</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Siendo M= marcación, D= demora, R= rumbo, si el objeto visualizado está por estribor, ¿cuál de las siguientes afirmaciones es cierta?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d). -D= M-R</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>103</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>28</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Un rumbo de superficie es:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a). - Un rumbo verdadero corregido por abatimiento.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>103</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>28</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Un rumbo de superficie es:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b). - Un rumbo de aguja corregido por abatimiento.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>103</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>28</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Un rumbo de superficie es:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c). - Un rumbo magnético corregido por variación local.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>103</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>28</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Un rumbo de superficie es:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d). - Un rumbo de aguja corregido por corrección total.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>104</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>29</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si la declinación magnética es (3+) y el desvío es (3-) la corrección total será</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a). -6-</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>104</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>29</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si la declinación magnética es (3+) y el desvío es (3-) la corrección total será</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b). -0</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>104</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>29</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si la declinación magnética es (3+) y el desvío es (3-) la corrección total será</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c). -6+</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>104</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>29</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si la declinación magnética es (3+) y el desvío es (3-) la corrección total será</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d). -9+</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>105</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>30</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Los veriles son:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a). .- Líneas que unen puntos de igual latitud.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>105</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>30</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Los veriles son:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b). - Líneas que unen puntos de igual longitud.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>105</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>30</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Los veriles son:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c). - Líneas que unen puntos de igual corriente de marea.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>105</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>30</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Los veriles son:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d). - Líneas que unen puntos de misma sonda.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>106</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>31</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En la descripción de esta luz: GpD(3)v 12s 3m 10M. ¿Cuál es el alcance de la misma?</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a). -10 millas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>106</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>31</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En la descripción de esta luz: GpD(3)v 12s 3m 10M. ¿Cuál es el alcance de la misma?</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b). - 3 millas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>106</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>31</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En la descripción de esta luz: GpD(3)v 12s 3m 10M. ¿Cuál es el alcance de la misma?</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c). -12 millas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>106</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>31</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En la descripción de esta luz: GpD(3)v 12s 3m 10M. ¿Cuál es el alcance de la misma?</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d). - 5 millas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>107</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>32</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La longitud podemos definirla como:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a). - Arco de ecuador contado desde el meridiano cero hasta el del lugar.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>107</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>32</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La longitud podemos definirla como:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b). - Arco de ecuador contado desde el meridiano inferior hasta el del lugar.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>107</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>32</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La longitud podemos definirla como:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c). -Arco de meridiano desde el ecuador hasta el primer meridiano.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>107</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>32</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La longitud podemos definirla como:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d). - Ninguna respuesta anterior es correcta.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>108</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>33</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En la carta náutica, las distancias que se navegan se miden en:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a). - La escala de longitudes.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>108</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>33</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En la carta náutica, las distancias que se navegan se miden en:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b). - Se deben calcular en función de la escala en que está hecha la carta.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>108</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>33</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En la carta náutica, las distancias que se navegan se miden en:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c). - La escala de las latitudes.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>108</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>33</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En la carta náutica, las distancias que se navegan se miden en:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d). -Todas las respuestas anteriores son correctas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>109</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>34</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El 20 de Enero de 2009 siendo Hrb= 1200 obtenemos simultáneamente Demora de aguja del F° de C. Roche= 018° y Demora de aguja del F° de C. Trafalgar= 098°, CT= 4+. Desde la situación obtenida damos rumbo a un punto P de situación: latitud: 35° 54,2´ N y longitud: 005° 58,0´ W. Nos afecta una corriente de Rumbo Rc= 180° e intensidad horaria Ih= 2´, velocidad del buque Vb= 8 nudos y viento del E que nos abate 3° , CT= 4+. A Hrb= 1300 con la misma velocidad del buque ponemos nuevo rumbo de aguja Ra=100° CT=2- viento del NE que nos abate 4°, y nos afecta una corriente de Rc=058° Ih=2´. Navegamos así hasta cortar la oposición del Faro de Cabo Espartel y el Faro de Torre de Gracia Oc(2) 5s 13M. Las respuestas deberán de corresponderse con la resolución gráfica de la carta. Se pide: - Situación a Hrb= 1200</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a).   l= 36° 12,0`N L=006° 10,1`W</respuestas>
+      <video>http://cursodelper.es/pr0050201.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>109</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>34</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El 20 de Enero de 2009 siendo Hrb= 1200 obtenemos simultáneamente Demora de aguja del F° de C. Roche= 018° y Demora de aguja del F° de C. Trafalgar= 098°, CT= 4+. Desde la situación obtenida damos rumbo a un punto P de situación: latitud: 35° 54,2´ N y longitud: 005° 58,0´ W. Nos afecta una corriente de Rumbo Rc= 180° e intensidad horaria Ih= 2´, velocidad del buque Vb= 8 nudos y viento del E que nos abate 3° , CT= 4+. A Hrb= 1300 con la misma velocidad del buque ponemos nuevo rumbo de aguja Ra=100° CT=2- viento del NE que nos abate 4°, y nos afecta una corriente de Rc=058° Ih=2´. Navegamos así hasta cortar la oposición del Faro de Cabo Espartel y el Faro de Torre de Gracia Oc(2) 5s 13M. Las respuestas deberán de corresponderse con la resolución gráfica de la carta. Se pide: - Situación a Hrb= 1200</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b).   l= 36° 10,5`N L=006° 08,3`W</respuestas>
+      <video>http://cursodelper.es/pr0050201.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>109</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>34</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El 20 de Enero de 2009 siendo Hrb= 1200 obtenemos simultáneamente Demora de aguja del F° de C. Roche= 018° y Demora de aguja del F° de C. Trafalgar= 098°, CT= 4+. Desde la situación obtenida damos rumbo a un punto P de situación: latitud: 35° 54,2´ N y longitud: 005° 58,0´ W. Nos afecta una corriente de Rumbo Rc= 180° e intensidad horaria Ih= 2´, velocidad del buque Vb= 8 nudos y viento del E que nos abate 3° , CT= 4+. A Hrb= 1300 con la misma velocidad del buque ponemos nuevo rumbo de aguja Ra=100° CT=2- viento del NE que nos abate 4°, y nos afecta una corriente de Rc=058° Ih=2´. Navegamos así hasta cortar la oposición del Faro de Cabo Espartel y el Faro de Torre de Gracia Oc(2) 5s 13M. Las respuestas deberán de corresponderse con la resolución gráfica de la carta. Se pide: - Situación a Hrb= 1200</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c).  l= 36° 09,1`N L=006° 07,5` W</respuestas>
+      <video>http://cursodelper.es/pr0050201.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>109</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>34</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El 20 de Enero de 2009 siendo Hrb= 1200 obtenemos simultáneamente Demora de aguja del F° de C. Roche= 018° y Demora de aguja del F° de C. Trafalgar= 098°, CT= 4+. Desde la situación obtenida damos rumbo a un punto P de situación: latitud: 35° 54,2´ N y longitud: 005° 58,0´ W. Nos afecta una corriente de Rumbo Rc= 180° e intensidad horaria Ih= 2´, velocidad del buque Vb= 8 nudos y viento del E que nos abate 3° , CT= 4+. A Hrb= 1300 con la misma velocidad del buque ponemos nuevo rumbo de aguja Ra=100° CT=2- viento del NE que nos abate 4°, y nos afecta una corriente de Rc=058° Ih=2´. Navegamos así hasta cortar la oposición del Faro de Cabo Espartel y el Faro de Torre de Gracia Oc(2) 5s 13M. Las respuestas deberán de corresponderse con la resolución gráfica de la carta. Se pide: - Situación a Hrb= 1200</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d).  l= 36° 12,6`N L=006° 10,8`W</respuestas>
+      <video>http://cursodelper.es/pr0050201.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>110</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>35</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Rumbo de aguja al punto P y velocidad efectiva.</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a).  Ra= 135° Vef= 7,4</respuestas>
+      <video>http://cursodelper.es/pr0060202.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>110</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>35</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Rumbo de aguja al punto P y velocidad efectiva.</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b).  Ra= 143° Vef= 12</respuestas>
+      <video>http://cursodelper.es/pr0060202.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>110</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>35</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Rumbo de aguja al punto P y velocidad efectiva.</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c).  Ra= 136° Vef= 9,7</respuestas>
+      <video>http://cursodelper.es/pr0060202.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>110</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>35</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Rumbo de aguja al punto P y velocidad efectiva.</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d).  Ra= 151° Vef= 9,5</respuestas>
+      <video>http://cursodelper.es/pr0060202.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>111</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>36</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Rumbo efectivo y velocidad efectiva a partir de las 1300.</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a).  Ref= 101° Vef= 11,4</respuestas>
+      <video>http://cursodelper.es/pr0070203.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>111</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>36</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Rumbo efectivo y velocidad efectiva a partir de las 1300.</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b).  Ref= 094° Vef= 9,6</respuestas>
+      <video>http://cursodelper.es/pr0070203.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>111</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>36</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Rumbo efectivo y velocidad efectiva a partir de las 1300.</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c).  Ref= 102° Vef= 9,7</respuestas>
+      <video>http://cursodelper.es/pr0070203.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>111</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>36</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Rumbo efectivo y velocidad efectiva a partir de las 1300.</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d).  Ref= 093° Vef= 12,4</respuestas>
+      <video>http://cursodelper.es/pr0070203.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>112</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>37</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Situación al cortar la oposición C.Espartel Torre de Gracia.</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a).   l= 36° 00,0`N L=005° 50,4` W</respuestas>
+      <video>http://cursodelper.es/pr0070203.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>112</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>37</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Situación al cortar la oposición C.Espartel Torre de Gracia.</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b).   l= 36° 01,6`N L=005° 50,0` W</respuestas>
+      <video>http://cursodelper.es/pr0070203.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>112</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>37</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Situación al cortar la oposición C.Espartel Torre de Gracia.</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c).  l= 36° 03,3`N L=005° 49,4` W</respuestas>
+      <video>http://cursodelper.es/pr0070203.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>112</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>37</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Situación al cortar la oposición C.Espartel Torre de Gracia.</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d).  l= 35° 59,2`N L=005° 52,0`W</respuestas>
+      <video>http://cursodelper.es/pr0070203.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>113</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>38</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si nuestro barómetro marca una presión de 1.025 milibares:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a). - La presión está por debajo de la media al nivel del mar.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>113</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>38</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si nuestro barómetro marca una presión de 1.025 milibares:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b). - La presión está por encima de la media al nivel del mar.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>113</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>38</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si nuestro barómetro marca una presión de 1.025 milibares:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c). - Podemos esperar lluvias muy fuertes.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>113</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>38</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si nuestro barómetro marca una presión de 1.025 milibares:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d). - Es indicativo de que estamos en presencia de una borrasca.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>114</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>39</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En una borrasca en el Hemisferio Norte, el sentido de giro del viento es:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a). - En sentido contrario a las agujas del reloj.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>114</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>39</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En una borrasca en el Hemisferio Norte, el sentido de giro del viento es:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b). - En el mismo sentido de las agujas del reloj.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>114</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>39</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En una borrasca en el Hemisferio Norte, el sentido de giro del viento es:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c). - De manera aleatoria.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>114</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>39</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En una borrasca en el Hemisferio Norte, el sentido de giro del viento es:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d). - Siempre en sentido suroeste.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>115</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>40</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Cuando el viento modifica de manera sucesiva la dirección de la que sopla, decimos que:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a). - Refresca.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>115</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>40</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Cuando el viento modifica de manera sucesiva la dirección de la que sopla, decimos que:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b). - Rachea.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>115</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>40</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Cuando el viento modifica de manera sucesiva la dirección de la que sopla, decimos que:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c). - Rola.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>115</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>40</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Cuando el viento modifica de manera sucesiva la dirección de la que sopla, decimos que:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d). -Calma.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>116</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>41</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El viento denominado virazón sopla:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a). - De mar hacia tierra, de día.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>116</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>41</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El viento denominado virazón sopla:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b). - De mar hacia tierra, de noche.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>116</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>41</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El viento denominado virazón sopla:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c). - De tierra al mar, de noche.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>116</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>41</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El viento denominado virazón sopla:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d). - De tierra al mar, de día.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>117</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>42</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Qué canal se utiliza para la Llamada Selectiva Digital (LSD) de VHF de socorro?</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a). -70</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>117</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>42</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Qué canal se utiliza para la Llamada Selectiva Digital (LSD) de VHF de socorro?</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b). -60</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>117</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>42</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Qué canal se utiliza para la Llamada Selectiva Digital (LSD) de VHF de socorro?</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c). -16</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>117</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>42</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Qué canal se utiliza para la Llamada Selectiva Digital (LSD) de VHF de socorro?</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d). -06</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>118</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>43</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Qué palabra identifican un mensaje de urgencia enviado por telefonía en el Ch. 16 VHF?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a). - MAYDAY.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>118</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>43</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Qué palabra identifican un mensaje de urgencia enviado por telefonía en el Ch. 16 VHF?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b). -SECURITE.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>118</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>43</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Qué palabra identifican un mensaje de urgencia enviado por telefonía en el Ch. 16 VHF?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c). -PAN PAN.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>118</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>43</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Qué palabra identifican un mensaje de urgencia enviado por telefonía en el Ch. 16 VHF?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d). -URGENCIA.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>119</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>44</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Qué es el MMSI o ISMM?</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a). - El Sistema Mundial de socorro y Seguridad marítima.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>119</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>44</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Qué es el MMSI o ISMM?</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b). - El Número de Identificación Marítima.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>119</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>44</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Qué es el MMSI o ISMM?</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c). - La matrícula del barco.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>119</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>44</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Qué es el MMSI o ISMM?</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d). - El GPS diferencial.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>120</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>45</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Cuál es la zona marítima A1?</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a). -La comprendida en el ámbito de cobertura de VHF como mínimo.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>120</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>45</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Cuál es la zona marítima A1?</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b). -La comprendida en el ámbito de cobertura de MF como mínimo.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>120</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>45</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Cuál es la zona marítima A1?</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c). -La comprendida en el ámbito de cobertura de Inmarsat como mínimo.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>120</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>45</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Cuál es la zona marítima A1?</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d). -La comprendida en el ámbito de cobertura de COSPAS-SARSAT como mínimo.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>121</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>46</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿A qué distancia llega de la costa la zona de navegación 4?</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a). -10 millas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>121</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>46</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿A qué distancia llega de la costa la zona de navegación 4?</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b). - 5 millas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>121</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>46</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿A qué distancia llega de la costa la zona de navegación 4?</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c). -20 millas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>121</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>46</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿A qué distancia llega de la costa la zona de navegación 4?</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d). -12 millas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>122</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>47</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Los motores de cuatro tiempos son los que</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a). - Tienen encendido por batería.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>122</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>47</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Los motores de cuatro tiempos son los que</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b). - Tienen cuatro válvulas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>122</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>47</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Los motores de cuatro tiempos son los que</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c). - Realizan el ciclo de trabajo en cuatro carreras del pistón.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>122</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>47</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Los motores de cuatro tiempos son los que</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d). - Realizan el ciclo de trabajo en cuatro revoluciones del cigüeñal.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>123</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>48</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El motor diesel comprime</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a). - Gas-oíl.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>123</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>48</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El motor diesel comprime</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b). - Gasolina.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>123</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>48</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El motor diesel comprime</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c).-Aire.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>123</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>48</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El motor diesel comprime</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d).-Aire y gasolina.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>124</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>49</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La relación de compresión es la que existe entre</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a). - La presión del interior del cilindro y la presión atmosférica.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>124</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>49</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La relación de compresión es la que existe entre</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b). - La presión atmosférica y la presión máxima.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>124</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>49</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La relación de compresión es la que existe entre</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c). - El volumen total del cilindro y el volumen de la cámara de combustión.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>124</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>49</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La relación de compresión es la que existe entre</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d). - El volumen total del cilindro y la carrera.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>125</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>50</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si un motor realiza el ciclo de trabajo en una revolución del cigüeñal, se dice que es de</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a). - Dos tiempos.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>125</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>50</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si un motor realiza el ciclo de trabajo en una revolución del cigüeñal, se dice que es de</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b). - Cuatro tiempos.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>125</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>50</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si un motor realiza el ciclo de trabajo en una revolución del cigüeñal, se dice que es de</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c). - Presión constante.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>125</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>50</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Si un motor realiza el ciclo de trabajo en una revolución del cigüeñal, se dice que es de</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d). - Mono cilíndrico.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>126</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>51</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Al aumentar la temperatura del motor la viscosidad del aceite</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a). - Aumenta.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>126</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>51</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Al aumentar la temperatura del motor la viscosidad del aceite</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b). - Disminuye.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>126</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>51</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Al aumentar la temperatura del motor la viscosidad del aceite</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c). - Permanece igual.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>126</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>51</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Al aumentar la temperatura del motor la viscosidad del aceite</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d). -A veces aumenta y otras disminuye.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>127</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>52</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Los buques de vela, en navegación, se mantendrán apartados de:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a). - Un buque sin gobierno.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>127</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>52</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Los buques de vela, en navegación, se mantendrán apartados de:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b). - Un buque con capacidad de maniobra restringida.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>127</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>52</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Los buques de vela, en navegación, se mantendrán apartados de:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c). - Un buque dedicado a la pesca.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>127</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>52</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Los buques de vela, en navegación, se mantendrán apartados de:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d). -Todos los anteriores.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>128</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>53</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Un buque que navegue a vela y al mismo tiempo a motor debe exhibir a proa:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a). - Una marca bicónica.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>128</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>53</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Un buque que navegue a vela y al mismo tiempo a motor debe exhibir a proa:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b). - Una marca cónica con el vértice hacia abajo.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>128</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>53</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Un buque que navegue a vela y al mismo tiempo a motor debe exhibir a proa:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c). - Un cilindro negro.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>128</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>53</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Un buque que navegue a vela y al mismo tiempo a motor debe exhibir a proa:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d). - Una bola negra.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>129</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>54</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La expresión ``en navegación`` se aplica a un buque que:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a). - No está fondeado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>129</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>54</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La expresión ``en navegación`` se aplica a un buque que:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b). - No está amarrado a tierra.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>129</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>54</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La expresión ``en navegación`` se aplica a un buque que:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c). - No está varado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>129</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>54</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La expresión ``en navegación`` se aplica a un buque que:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d). Todas las anteriores.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>130</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>55</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Un buque sin gobierno y sin arrancada, por la noche exhibe:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a). - Tres luces rojas todo horizonte en línea vertical.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>130</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>55</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Un buque sin gobierno y sin arrancada, por la noche exhibe:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b). - Dos luces rojas todo horizonte en línea vertical.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>130</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>55</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Un buque sin gobierno y sin arrancada, por la noche exhibe:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c). -Tres luces naranja todo horizonte centelleantes, en línea vertical.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>130</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>55</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Un buque sin gobierno y sin arrancada, por la noche exhibe:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d). - Solamente luces de costado y alcance.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>131</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>56</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Un buque de vela en navegación, menor de 20 metros, a la hora de exhibir las luces de costado y alcance:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a). - Puede hacerlo en un farol combinado en popa.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>131</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>56</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Un buque de vela en navegación, menor de 20 metros, a la hora de exhibir las luces de costado y alcance:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b). - Puede hacerlo en un farol combinado en proa.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>131</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>56</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Un buque de vela en navegación, menor de 20 metros, a la hora de exhibir las luces de costado y alcance:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c). - No puede hacerlo en un farol combinado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>131</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>56</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Un buque de vela en navegación, menor de 20 metros, a la hora de exhibir las luces de costado y alcance:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d). - Puede hacerlo en un farol combinado en el tope del palo o cerca de él.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>132</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>57</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En caso de navegar en una zona de visibilidad reducida, de día o de noche, un buque de propulsión mecánica con arrancada:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a). - Emitirá una pitada larga a intervalos que no excedan de 2 minutos.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>132</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>57</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En caso de navegar en una zona de visibilidad reducida, de día o de noche, un buque de propulsión mecánica con arrancada:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b). - Emitirá una pitada larga a intervalos que no excedan de 1 minuto.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>132</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>57</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En caso de navegar en una zona de visibilidad reducida, de día o de noche, un buque de propulsión mecánica con arrancada:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c). - No debe emitir ninguna pitada con carácter obligatorio.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>132</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>57</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En caso de navegar en una zona de visibilidad reducida, de día o de noche, un buque de propulsión mecánica con arrancada:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d). - Emitirá una señal de gong o campana a su gusto.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>133</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>58</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Navegando en una zona de visibilidad reducida oímos tres pitadas consecutivas (una larga seguida de dos cortas) a intervalos que no exceden de 2 minutos:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a). - Se trata de un buque sin gobierno.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>133</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>58</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Navegando en una zona de visibilidad reducida oímos tres pitadas consecutivas (una larga seguida de dos cortas) a intervalos que no exceden de 2 minutos:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b). - Se trata de un buque con capacidad de maniobra restringida.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>133</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>58</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Navegando en una zona de visibilidad reducida oímos tres pitadas consecutivas (una larga seguida de dos cortas) a intervalos que no exceden de 2 minutos:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c). - Se trata de un buque restringido por su calado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>133</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>58</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Navegando en una zona de visibilidad reducida oímos tres pitadas consecutivas (una larga seguida de dos cortas) a intervalos que no exceden de 2 minutos:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d). - Cualquiera de las respuestas anteriores.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>134</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>59</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Cuando dos buques de propulsión mecánica en navegación se encuentran a la vista uno del otro y uno de ellos emite 2 pitadas cortas, quiere decir que:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a). - Cae a estribor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>134</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>59</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Cuando dos buques de propulsión mecánica en navegación se encuentran a la vista uno del otro y uno de ellos emite 2 pitadas cortas, quiere decir que:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b). - Cae a babor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>134</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>59</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Cuando dos buques de propulsión mecánica en navegación se encuentran a la vista uno del otro y uno de ellos emite 2 pitadas cortas, quiere decir que:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c). - Está dando atrás.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>134</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>59</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Cuando dos buques de propulsión mecánica en navegación se encuentran a la vista uno del otro y uno de ellos emite 2 pitadas cortas, quiere decir que:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d). - Va parar el motor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>135</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>60</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Salimos de puerto para dedicarnos a la pesca deportiva y vemos una embarcación con la bandera ``A`` izada, quiere decir:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a). - Que está sin gobierno.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>135</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>60</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Salimos de puerto para dedicarnos a la pesca deportiva y vemos una embarcación con la bandera ``A`` izada, quiere decir:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b). - Que tiene avería.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>135</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>60</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Salimos de puerto para dedicarnos a la pesca deportiva y vemos una embarcación con la bandera ``A`` izada, quiere decir:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c). - Que se le ha caído un tripulante al agua y lo están buscando.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>135</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>60</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Salimos de puerto para dedicarnos a la pesca deportiva y vemos una embarcación con la bandera ``A`` izada, quiere decir:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d). - Que tiene un buzo sumergido.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>136</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>61</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Entre dos veleros que navegan con riesgo de abordaje, recibiendo el viento por distintas bandas, la maniobra será:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a). - Maniobra el que está a sotavento del otro.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>136</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>61</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Entre dos veleros que navegan con riesgo de abordaje, recibiendo el viento por distintas bandas, la maniobra será:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b). - Maniobra el que está a barlovento del otro.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>136</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>61</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Entre dos veleros que navegan con riesgo de abordaje, recibiendo el viento por distintas bandas, la maniobra será:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c). - Maniobra el que recibe el viento por estribor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>136</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>61</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Entre dos veleros que navegan con riesgo de abordaje, recibiendo el viento por distintas bandas, la maniobra será:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d). - Maniobra el que recibe el viento por babor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>137</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>62</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Hay riesgo de abordaje cuando:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a). - La demora del otro barco no varía.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>137</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>62</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Hay riesgo de abordaje cuando:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b). - Vemos las luces de tope y de costado de otro barco al mismo tiempo.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>137</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>62</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Hay riesgo de abordaje cuando:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c). - La demora no varía y la distancia al otro disminuye.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>137</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>62</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Hay riesgo de abordaje cuando:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d). - Ninguna respuesta es correcta.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>138</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>63</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Navegando a vela observamos un barco con tres marcas negras en línea vertical: esfera, bicono, esfera. Se trata de:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a). - Un buque dragaminas, dragando.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>138</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>63</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Navegando a vela observamos un barco con tres marcas negras en línea vertical: esfera, bicono, esfera. Se trata de:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b). - Un buque sin gobierno.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>138</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>63</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Navegando a vela observamos un barco con tres marcas negras en línea vertical: esfera, bicono, esfera. Se trata de:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c). - Un buque varado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>138</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>63</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Navegando a vela observamos un barco con tres marcas negras en línea vertical: esfera, bicono, esfera. Se trata de:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d). - Un buque con capacidad de maniobra restringida.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>139</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>64</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La expresión ``pitada larga`` significa un sonido de duración aproximada de:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a). - 2 segundos.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>139</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>64</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La expresión ``pitada larga`` significa un sonido de duración aproximada de:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b). - 8 segundos.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>139</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>64</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La expresión ``pitada larga`` significa un sonido de duración aproximada de:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c). - De 2 a 4 segundos.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>139</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>64</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La expresión ``pitada larga`` significa un sonido de duración aproximada de:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d). - De 4 a 6 segundos.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>140</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>65</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Entrando en puerto con nuestra embarcación a motor, vemos un buque saliendo de él con un cilindro izado en una driza y bien visible, tenemos que:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a). - Acercarnos, puesto que nos pide auxilio.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>140</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>65</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Entrando en puerto con nuestra embarcación a motor, vemos un buque saliendo de él con un cilindro izado en una driza y bien visible, tenemos que:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b). - Alejarnos, pues lleva a bordo mercancías peligrosas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>140</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>65</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Entrando en puerto con nuestra embarcación a motor, vemos un buque saliendo de él con un cilindro izado en una driza y bien visible, tenemos que:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c). - Maniobrarle, pues es un buque con capacidad de maniobra restringida por su calado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>140</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>65</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Entrando en puerto con nuestra embarcación a motor, vemos un buque saliendo de él con un cilindro izado en una driza y bien visible, tenemos que:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d). - Seguir a rumbo, pues ya maniobrará él.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>141</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>66</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Las luces de costado en barcos de eslora inferior a 12 metros, deben tener un alcance mínimo de:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a). - 4 millas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>141</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>66</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Las luces de costado en barcos de eslora inferior a 12 metros, deben tener un alcance mínimo de:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b). - 3 millas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>141</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>66</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Las luces de costado en barcos de eslora inferior a 12 metros, deben tener un alcance mínimo de:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c). -1 milla.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>141</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>66</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Las luces de costado en barcos de eslora inferior a 12 metros, deben tener un alcance mínimo de:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d). -0,5 millas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>142</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>67</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En la región A de balizamiento, en un punto de bifurcación de un canal, vemos una boya de color verde con una banda ancha horizontal de color rojo, se trata de:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a). - Una marca de canal principal a babor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>142</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>67</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En la región A de balizamiento, en un punto de bifurcación de un canal, vemos una boya de color verde con una banda ancha horizontal de color rojo, se trata de:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b). - Una marca de canal principal a estribor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>142</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>67</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En la región A de balizamiento, en un punto de bifurcación de un canal, vemos una boya de color verde con una banda ancha horizontal de color rojo, se trata de:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c). - Una marca de canal de uso indistinto.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>142</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>67</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>En la región A de balizamiento, en un punto de bifurcación de un canal, vemos una boya de color verde con una banda ancha horizontal de color rojo, se trata de:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d). - Una marca de canal inutilizado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>143</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>68</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Entrando en un puerto, en la región A de balizamiento, observamos una marca esférica de color verde, se trataría de:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a). - Una marca lateral de estribor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>143</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>68</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Entrando en un puerto, en la región A de balizamiento, observamos una marca esférica de color verde, se trataría de:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b). - Una marca lateral de babor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>143</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>68</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Entrando en un puerto, en la región A de balizamiento, observamos una marca esférica de color verde, se trataría de:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c). - Una marca de aguas navegables.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>143</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>68</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Entrando en un puerto, en la región A de balizamiento, observamos una marca esférica de color verde, se trataría de:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d). - Ninguna de las anteriores.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>144</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>69</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El nombre de una marca cardinal indica que se ha de pasar por:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a). - La banda de estribor siempre.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>144</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>69</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El nombre de una marca cardinal indica que se ha de pasar por:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b). - El cuadrante correspondiente a ese nombre.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>144</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>69</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El nombre de una marca cardinal indica que se ha de pasar por:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c). - El cuadrante contrario a ese nombre.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>144</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>69</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El nombre de una marca cardinal indica que se ha de pasar por:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d). - Por la banda de babor siempre.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>145</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>70</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El color de la marca de peligro aislado es:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a). - Franjas horizontales blancas y rojas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>145</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>70</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El color de la marca de peligro aislado es:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b). - Rojo con una o varias anchas bandas horizontales negras.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>145</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>70</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El color de la marca de peligro aislado es:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c). - Negro con una o varias anchas bandas horizontales rojas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>145</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>70</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El color de la marca de peligro aislado es:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d). - Franjas verticales rojas y blancas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>146</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>71</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La marca de tope de una marca especial, si la tiene, ha de consistir en:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a). - Dos esferas negras superpuesta.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>146</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>71</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La marca de tope de una marca especial, si la tiene, ha de consistir en:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b). - Dos esferas rojas superpuesta.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>146</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>71</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La marca de tope de una marca especial, si la tiene, ha de consistir en:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c). - Un aspa roja.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>146</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>71</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>La marca de tope de una marca especial, si la tiene, ha de consistir en:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d). - Un aspa amarilla.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>147</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>72</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El título de Patrón de Embarcaciones de Recreo faculta para navegar en una zona comprendida entre la costa y la línea paralela a la misma trazada a:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a). - 15 millas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>147</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>72</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El título de Patrón de Embarcaciones de Recreo faculta para navegar en una zona comprendida entre la costa y la línea paralela a la misma trazada a:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b). - 10 millas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>147</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>72</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El título de Patrón de Embarcaciones de Recreo faculta para navegar en una zona comprendida entre la costa y la línea paralela a la misma trazada a:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c). - 12 millas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>147</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>72</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>El título de Patrón de Embarcaciones de Recreo faculta para navegar en una zona comprendida entre la costa y la línea paralela a la misma trazada a:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d). -20 millas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>148</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>73</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Las embarcaciones de hasta 12m. de eslora menores de 20 TRB deben llevar obligatoriamente:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a). - Rol de despacho.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>148</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>73</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Las embarcaciones de hasta 12m. de eslora menores de 20 TRB deben llevar obligatoriamente:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b). - Licencia de navegación.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>148</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>73</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Las embarcaciones de hasta 12m. de eslora menores de 20 TRB deben llevar obligatoriamente:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c). - Lista de tripulantes.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>148</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>73</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Las embarcaciones de hasta 12m. de eslora menores de 20 TRB deben llevar obligatoriamente:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d). - Cuaderno de bitácora.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>149</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>74</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Un derrotero es:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a). - Una guía de servicios náuticos deportivos.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>149</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>74</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Un derrotero es:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b). - Una publicación que describe la costa que le corresponde.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>149</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>74</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Un derrotero es:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c). - Un listado de códigos de llamada.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>149</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>74</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>Un derrotero es:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d). - Un listado de estaciones costeras.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>150</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>75</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Las embarcaciones de recreo están obligadas a disponer de un seguro de responsabilidad civil?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a). - No, pero es recomendable.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>150</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>75</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Las embarcaciones de recreo están obligadas a disponer de un seguro de responsabilidad civil?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b). - No, en ningún caso .</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>150</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>75</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Las embarcaciones de recreo están obligadas a disponer de un seguro de responsabilidad civil?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c). - Si, en todos los casos.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>150</idPreguntas>
+      <idTestExamen>2</idTestExamen>
+      <nombre>75</nombre>
+      <numDeTest>02</numDeTest>
+      <pregunta>¿Las embarcaciones de recreo están obligadas a disponer de un seguro de responsabilidad civil?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d). - Solo en embarcaciones de eslora superior a 20 metros.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+</root>

@@ -1,0 +1,98 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>PER - Materiales</title>
+        <meta name="HandheldFriendly" content="true"/>
+        <meta name="viewport" content="width = device-width, initial-scale=1, maximum-scale=1"/>
+        <link rel="stylesheet" href="css/reset+clearfix.css" type="text/css"/>
+        <link rel="stylesheet" href="fonts/fonts.css" type="text/css"/>
+        <link rel="stylesheet" href="css/estilos.css" type="text/css"/>
+        <link rel="stylesheet" href="css/responsive.css" type="text/css"/>
+        <!--[if gte IE 9]>
+          <style type="text/css">
+            .gradient {
+               filter: none;
+            }
+          </style>
+        <![endif]-->        
+        <!--<script src="js/cordova-2.4.0.js"></script>-->
+        <script src="cordova-2.7.0.js"></script>
+        <script src="js/iscroll.js"></script>
+        <script src="js/jquery.js"></script>
+        <script src="js/funciones.js"></script>
+        <script src="phonegap.js"></script>
+        <script src="js/contenidos/externalLink.js"></script>       
+        <script>
+            $(function() {
+                $('#loading').show();
+            });
+
+            $(window).load(function() {
+                $('#loading').fadeOut(2000);
+                iscroll_ini();
+                myScroll.refresh();
+            });
+        </script>
+    </head>
+
+    <body>
+        <div id="loading" class="hider" title="Confirmación" style="display:none;text-align: center;"><div class="popup_box"><img src="img/loading.gif" alt="" /><br>Enviando!</div></div>
+        <nav id="superior"  >
+            <span class="title">MATRÍCULA DEL EXAMEN</span>
+            <img id="cola" src="img/cola_menu_superior.png" alt="Colomer"/>
+            <img id="topFix" src="img/logo_iper.png" alt="Colomer"/>
+        </nav>
+
+        <div id="wrapper">
+            <div id="scrollable">
+                <div id="textItem">
+                    <table width="100%" border="0" align="center">
+                        <tr>
+                            <td width="25"><div align="center">·</div></td>
+                            <td height="40" colspan="2" class="dfa"><div align="justify"><span style="color: #900; font-weight: bold;">Pagamos su tasa</span> a la administración</div></td>
+                            <td width="83"  style="vertical-align:middle"><div align="center"><img src="img/check3.jpg" alt="" width="25" height="25" /></div></td>
+                        </tr>
+                        <tr>
+                            <td valign="top"><div align="center">·</div></td>
+                            <td height="40" colspan="2" class="dfa"><div align="justify"><span style="color: #900; font-weight: bold;">Le inscribimos</span> para hacer el examen y lo enviamos a la administración</div></td>
+                            <td  style="vertical-align:middle"><div align="center"><img src="img/check3.jpg" alt="" width="25" height="25" /></div></td>
+                        </tr>
+                        <tr>
+                            <td valign="middle"><div align="center">·</div></td>
+                            <td height="40" colspan="2" class="dfa"><div align="justify"><span style="color: #900; font-weight: bold;">Revisamos</span> que usted está admitido</div></td>
+                            <td  style="vertical-align:middle"><div align="center"><img src="img/check3.jpg" alt="" width="25" height="25" /></div></td>
+                        </tr>
+                        <tr>
+                            <td valign="top"><div align="center">·</div></td>
+                            <td height="40" colspan="2" class="dfa"><div align="justify"><span style="color: #900; font-weight: bold;">Le informamos</span> de la <span style="color: #900; font-weight: bold;">hora</span>, el <span style="color: #900; font-weight: bold;">lugar</span> exacto del examen, el <span style="color: #900; font-weight: bold;">aula</span> que le ha sido asignada y el <span style="color: #900; font-weight: bold;">material</span> que puede llevar al examen</div></td>
+                            <td  style="vertical-align:middle"><div align="center" valign="middle"><img src="img/check3.jpg" alt="" width="25" height="25" /></div></td>
+                        </tr>
+                    </table>
+                    <div align="center">
+                        <img src="img/banderas/papeleo.jpg" alt="" width="70" height="47" />                        
+                        <img src="img/banderas/llamar.jpg" alt="" width="50" height="52" />
+                    </div>
+
+                    <div align="center">O si lo prefiere, puede realizar la gestión y el trámite a través de los</div></td>
+                    <div class="itemBtn">                        
+                        <a href="enlacesCCAA.html">Enlaces a CC.AA.</a>                        
+                    </div>
+                    <div align="center">Si lo desea, nosotros nos ocupamos de todo</div></td>
+                    <div class="itemBtn">
+                        <a href="examenes2013.html">Quiero que me matriculéis</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <nav id="inferior"  >
+            <div class="boton" id="atras"><a href="#"><img id="cola" src="img/atras.png" alt="atras"/>atras</a></div>
+            <div class="boton" id="menu"><a href="menu_principal.html"><img id="cola" src="img/menu_2.png" alt="menu"/>menu</a></div>
+            <div id="central"></div>
+        </nav>
+    </body>
+
+    <script src="js/iscroll_ini.js"></script>
+
+</html>

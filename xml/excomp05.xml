@@ -1,0 +1,3603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <test>
+      <idPreguntas>301</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>01</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   Hay dos tipos de timones:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a)  Grandes y pequeños.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>301</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>01</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   Hay dos tipos de timones:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b)  Fijos y móviles.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>301</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>01</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   Hay dos tipos de timones:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c)  Ordinarios y compensados.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>301</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>01</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   Hay dos tipos de timones:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d)  Para barcos de vela y para barcos de motor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>302</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>02</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   El casco de una embarcación es:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a)   El cuerpo de la embarcación sin arboladura, maquinaria y pertrechos.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>302</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>02</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   El casco de una embarcación es:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b)  La parte que está en contacto con el agua.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>302</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>02</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   El casco de una embarcación es:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c)  Toda la estructura con aparejos y elementos auxiliares.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>302</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>02</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   El casco de una embarcación es:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d)  El cuerpo de la embarcación con arboladura, maquinaria y pertrechos.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>303</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>03</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   La obra muerta es:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a)   La parte del casco que queda sumergida.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>303</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>03</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   La obra muerta es:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b)  La superestructura.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>303</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>03</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   La obra muerta es:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c)  La parte del casco que emerge.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>303</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>03</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   La obra muerta es:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d)  La parte del casco situada a proa.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>304</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>04</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   La limera es:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a)  Un tubo por donde pasa la mecha del timón.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>304</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>04</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   La limera es:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b)  Un orificio que deja paso al mástil en cubierta.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>304</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>04</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   La limera es:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c)  El conducto por donde sale al exterior la cadena del ancla.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>304</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>04</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   La limera es:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d)  El orificio por donde pasa el eje de la hélice.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>305</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>05</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   El azafrán es una parte del:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a)  Timón.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>305</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>05</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   El azafrán es una parte del:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b)  Ancla.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>305</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>05</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   El azafrán es una parte del:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c)  Palo.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>305</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>05</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   El azafrán es una parte del:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d)  Hélice.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>306</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>06</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   Cuando el calado de popa es mayor que el calado de proa:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a)  El barco no puede navegar.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>306</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>06</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   Cuando el calado de popa es mayor que el calado de proa:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b)  El barco tiene asiento positivo.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>306</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>06</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   Cuando el calado de popa es mayor que el calado de proa:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c)  Se dice que el barco está apopado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>306</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>06</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   Cuando el calado de popa es mayor que el calado de proa:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d)  La b) y la c) son correctas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>307</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>07</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   Se llama atracar de punta cuando:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a)  Se abarloa a otro barco atracado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>307</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>07</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   Se llama atracar de punta cuando:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b)  Se atraca de proa al muelle.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>307</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>07</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   Se llama atracar de punta cuando:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c)  Se atraca de popa al muelle.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>307</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>07</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   Se llama atracar de punta cuando:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d)  Se atraca tanto de proa como de popa al muelle.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>308</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>08</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   Partiendo del reposo, la presión lateral de las palas de una hélice dextrógira en marcha avante:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a)  Hace que la proa caiga al principio a babor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>308</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>08</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   Partiendo del reposo, la presión lateral de las palas de una hélice dextrógira en marcha avante:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b)  Hace que la proa caiga al principio a estribor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>308</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>08</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   Partiendo del reposo, la presión lateral de las palas de una hélice dextrógira en marcha avante:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c)  No influye en la maniobra.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>308</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>08</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   Partiendo del reposo, la presión lateral de las palas de una hélice dextrógira en marcha avante:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d)  Hace que la popa caiga a babor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>309</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>09</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   El nudo que utilizamos para unir dos cabos de la misma mena y material se llama:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a)  As de guía.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>309</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>09</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   El nudo que utilizamos para unir dos cabos de la misma mena y material se llama:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b)  Ballestrinque.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>309</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>09</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   El nudo que utilizamos para unir dos cabos de la misma mena y material se llama:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c)  Llano.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>309</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>09</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   El nudo que utilizamos para unir dos cabos de la misma mena y material se llama:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d)  Margarita.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>310</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>10</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   ¿A qué se llama atracar de punta?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a)  Atracar dando la proa al muelle.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>310</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>10</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   ¿A qué se llama atracar de punta?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b)  Atracar dando la popa al muelle.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>310</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>10</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   ¿A qué se llama atracar de punta?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c)  Atracar dando la proa o la popa al muelle.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>310</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>10</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>   ¿A qué se llama atracar de punta?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d)  Atracar con un sólo cabo a un barco fondeado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>311</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>11</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La forma de actuar de los extintores de polvo seco contra un incendio es:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a)  Por enfriamiento.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>311</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>11</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La forma de actuar de los extintores de polvo seco contra un incendio es:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b)  Por sofocación.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>311</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>11</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La forma de actuar de los extintores de polvo seco contra un incendio es:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c)  Por enfriamiento y sofocación.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>311</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>11</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La forma de actuar de los extintores de polvo seco contra un incendio es:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d)  Ninguna de estas respuestas es válida.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>312</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>12</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Fondear a barbas de gato significa:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a)  Fondear dos anclas de manera que el ángulo que forman las dos cadenas no sobrepase 120°.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>312</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>12</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Fondear a barbas de gato significa:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b)  Fondear un ancla por la proa y otra por la popa.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>312</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>12</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Fondear a barbas de gato significa:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c)  Fondear dos anclas por la proa una tras la otra.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>312</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>12</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Fondear a barbas de gato significa:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d)  Fondear dos anclas engalgadas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>313</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>13</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  En caso de que una balsa inflable quede hinchada en posición invertida:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a)  La remolcaremos hasta que un golpe de mar la ponga en posición normal.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>313</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>13</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  En caso de que una balsa inflable quede hinchada en posición invertida:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b)  No debemos utilizarla.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>313</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>13</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  En caso de que una balsa inflable quede hinchada en posición invertida:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c)  Debemos saltar encima y permanecer así hasta que nos socorran.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>313</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>13</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  En caso de que una balsa inflable quede hinchada en posición invertida:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d)  Aprovechando unas cinchas que tiene en su parte posterior la voltearemos y la pondremos en posición normal.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>314</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>14</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El largo de proa es el cabo dado a tierra que impide que el barco:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a)  Se desplace hacia proa.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>314</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>14</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El largo de proa es el cabo dado a tierra que impide que el barco:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b)  Se separe del muelle.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>314</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>14</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El largo de proa es el cabo dado a tierra que impide que el barco:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c)  Se desplace hacia popa.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>314</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>14</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El largo de proa es el cabo dado a tierra que impide que el barco:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d)  Se aproxime al muelle.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>315</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>15</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Qué es un heliógrafo?</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a)  Un aparato que mide la fuerza del viento.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>315</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>15</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Qué es un heliógrafo?</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b)  Un aparato que sirve para hacer señales aprovechando la luz solar.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>315</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>15</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Qué es un heliógrafo?</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c)  Un aparato que registra los balances del barco.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>315</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>15</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Qué es un heliógrafo?</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d)  Un aparato que registra las ondas de la radio.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>316</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>16</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El masaje cardíaco juntamente con la respiración artificial boca a boca se hace a un ritmo de:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a)  Al ritmo de la respiración artificial.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>316</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>16</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El masaje cardíaco juntamente con la respiración artificial boca a boca se hace a un ritmo de:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b)  Cinco masajes por cada insuflación.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>316</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>16</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El masaje cardíaco juntamente con la respiración artificial boca a boca se hace a un ritmo de:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c)  Cinco insuflaciones por cada masaje.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>316</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>16</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El masaje cardíaco juntamente con la respiración artificial boca a boca se hace a un ritmo de:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d)  25 insuflaciones y masajes por minuto.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>317</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>17</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El efecto producido por el viento sobre una vela cuyo centro vélico está a popa del centro de gravedad del barco, produce:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a) Un abatimiento del barco y ningún efecto evolutivo.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>317</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>17</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El efecto producido por el viento sobre una vela cuyo centro vélico está a popa del centro de gravedad del barco, produce:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b)  Un abatimiento del barco y un giro de la proa hacia sotavento.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>317</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>17</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El efecto producido por el viento sobre una vela cuyo centro vélico está a popa del centro de gravedad del barco, produce:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c)  Un giro de la proa a barlovento y ningún abatimiento.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>317</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>17</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El efecto producido por el viento sobre una vela cuyo centro vélico está a popa del centro de gravedad del barco, produce:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d)  Un abatimiento del barco y un giro de la proa hacia barlovento.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>318</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>18</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Qué embarcaciones están obligadas a llevar pito o silbato de niebla?</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a)  Todas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>318</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>18</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Qué embarcaciones están obligadas a llevar pito o silbato de niebla?</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b)  Las mayores de 20 TRB.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>318</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>18</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Qué embarcaciones están obligadas a llevar pito o silbato de niebla?</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c)  Las que no tengan casco metálico.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>318</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>18</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Qué embarcaciones están obligadas a llevar pito o silbato de niebla?</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d)  Las menores de 20 TRB.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>319</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>19</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>Si vemos caer a un hombre al agua, haremos la siguiente maniobra:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a)  Todo el timón a la banda de la caída, desembraga motor y lanza aro salvavidas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>319</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>19</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>Si vemos caer a un hombre al agua, haremos la siguiente maniobra:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b)  Timón a la vía, desembraga motor y lanza aro salvavidas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>319</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>19</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>Si vemos caer a un hombre al agua, haremos la siguiente maniobra:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c)  Timón a la banda contraria para acercar la popa y engancharlo con el bichero.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>319</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>19</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>Si vemos caer a un hombre al agua, haremos la siguiente maniobra:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d)  Dar toda atrás sólo un momento y luego desembragar, timón a la misma banda de la caída y lanza aro salvavidas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>320</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>20</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Tomar un rizo significa:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a)  Aumentar la superficie de velamen.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>320</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>20</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Tomar un rizo significa:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b)  Preparar el barco para virar.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>320</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>20</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Tomar un rizo significa:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c)  Reducir el velamen.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>320</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>20</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Tomar un rizo significa:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d)  Actuar sobre los estays.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>321</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>21</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si el náufrago cae al mar con la temperatura del agua a 18° C, la supervivencia puede llegar a ser de:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a)  24 horas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>321</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>21</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si el náufrago cae al mar con la temperatura del agua a 18° C, la supervivencia puede llegar a ser de:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b)  12 horas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>321</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>21</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si el náufrago cae al mar con la temperatura del agua a 18° C, la supervivencia puede llegar a ser de:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c)  Indefinida.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>321</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>21</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si el náufrago cae al mar con la temperatura del agua a 18° C, la supervivencia puede llegar a ser de:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d)  36 horas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>322</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>22</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El método de Boutacow consiste en:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a)  Meter el timón a la banda de la caída hasta que la proa haya caído 70°, luego cambiar la caña a la otra banda hasta navegar al rumbo opuesto.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>322</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>22</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El método de Boutacow consiste en:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b)  Remolcar un cabo largo con un salvavidas y pasar por barlovento del náufrago.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>322</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>22</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El método de Boutacow consiste en:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c)  Dar máquina atrás para parar la arrancada y retroceder.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>322</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>22</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El método de Boutacow consiste en:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d)  Meter todo el timón a una banda hasta caer 260°.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>323</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>23</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Qué barcos están obligados a llevar una linterna estanca?</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a)  Ninguno.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>323</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>23</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Qué barcos están obligados a llevar una linterna estanca?</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b)  Todos los barcos que naveguen en la zona C.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>323</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>23</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Qué barcos están obligados a llevar una linterna estanca?</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c)  Los mayores de 20 TRB.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>323</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>23</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Qué barcos están obligados a llevar una linterna estanca?</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d)  Los de propulsión mecánica y de vela menores de 20 TRB.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>324</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>24</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Los elementos metálicos, formados por ocho tetraedros abiertos, que habitualmente llevan los veleros en la parte alta de la arboladura son:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a)  Antenas de radar.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>324</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>24</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Los elementos metálicos, formados por ocho tetraedros abiertos, que habitualmente llevan los veleros en la parte alta de la arboladura son:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b)  El gallardete característico dé un club.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>324</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>24</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Los elementos metálicos, formados por ocho tetraedros abiertos, que habitualmente llevan los veleros en la parte alta de la arboladura son:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c)  Antenas de GPS.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>324</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>24</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Los elementos metálicos, formados por ocho tetraedros abiertos, que habitualmente llevan los veleros en la parte alta de la arboladura son:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d)  Reflectores de radar.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>325</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>25</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La dirección del viento aparente, en un velero con arrancada, viene de:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a)  Más hacia popa que el viento real.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>325</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>25</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La dirección del viento aparente, en un velero con arrancada, viene de:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b)  La misma dirección que el viento real.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>325</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>25</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La dirección del viento aparente, en un velero con arrancada, viene de:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c)  Más hacia proa o popa, según el rumbo del barco.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>325</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>25</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La dirección del viento aparente, en un velero con arrancada, viene de:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d)  Más hacia proa que el viento real.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>326</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>26</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si el Ra = 003° y la Ct = 11° NE, el Rv será:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a)  014°</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>326</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>26</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si el Ra = 003° y la Ct = 11° NE, el Rv será:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b)  008°</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>326</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>26</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si el Ra = 003° y la Ct = 11° NE, el Rv será:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c)  -008°</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>326</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>26</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si el Ra = 003° y la Ct = 11° NE, el Rv será:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d)  352°</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>327</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>27</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Navegando al Ra = NE caemos 4/4 a estribor. El nuevo rumbo será:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a)  360°</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>327</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>27</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Navegando al Ra = NE caemos 4/4 a estribor. El nuevo rumbo será:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b)  315°</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>327</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>27</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Navegando al Ra = NE caemos 4/4 a estribor. El nuevo rumbo será:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c)  135°</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>327</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>27</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Navegando al Ra = NE caemos 4/4 a estribor. El nuevo rumbo será:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d)  090°</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>328</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>28</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La marcación es el ángulo que forma la:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a)  Proa y el objeto.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>328</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>28</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La marcación es el ángulo que forma la:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b)  Proa y el norte verdadero.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>328</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>28</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La marcación es el ángulo que forma la:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c)  Proa y el norte magnético.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>328</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>28</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La marcación es el ángulo que forma la:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d)  Proa y el norte de aguja.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>329</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>29</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Cuando un barco no tiene escora se dice que está:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a)  Adrizado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>329</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>29</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Cuando un barco no tiene escora se dice que está:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b)  Abarloado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>329</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>29</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Cuando un barco no tiene escora se dice que está:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c)  Estabilizado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>329</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>29</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Cuando un barco no tiene escora se dice que está:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d)  Ninguna de las respuestas es correcta.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>330</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>30</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El desvío del compás es:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a)  El ángulo que forma el norte de aguja con la proa del buque.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>330</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>30</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El desvío del compás es:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b)  El ángulo que forma el norte verdadero con el norte magnético,</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>330</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>30</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El desvío del compás es:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c)  El ángulo que forma el norte magnético con el norte de aguja.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>330</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>30</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El desvío del compás es:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d)  El ángulo que forma el norte verdadero con el norte de aguja.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>331</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>31</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El ángulo formado por el rumbo de superficie y el rumbo verdadero se llama:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a)  Declinación magnética.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>331</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>31</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El ángulo formado por el rumbo de superficie y el rumbo verdadero se llama:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b)  Abatimiento.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>331</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>31</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El ángulo formado por el rumbo de superficie y el rumbo verdadero se llama:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c)  Variación.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>331</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>31</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El ángulo formado por el rumbo de superficie y el rumbo verdadero se llama:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d)  Desvío.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>332</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>32</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Cuándo se hacen las correcciones en una carta náutica?</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a)  Según aparecen en los avisos a los navegantes.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>332</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>32</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Cuándo se hacen las correcciones en una carta náutica?</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b)  Cada mes.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>332</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>32</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Cuándo se hacen las correcciones en una carta náutica?</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c)  Cada año.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>332</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>32</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Cuándo se hacen las correcciones en una carta náutica?</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d)  Cada semana.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>333</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>33</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Cómo se llama el ángulo que forma la estela de la embarcación con la línea proa-popa?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a)  Rumbo verdadero.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>333</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>33</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Cómo se llama el ángulo que forma la estela de la embarcación con la línea proa-popa?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b)  Rumbo.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>333</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>33</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Cómo se llama el ángulo que forma la estela de la embarcación con la línea proa-popa?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c)  Abatimiento.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>333</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>33</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Cómo se llama el ángulo que forma la estela de la embarcación con la línea proa-popa?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d)  Corriente.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>334</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>34</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>Situar en la carta un punto de l = 36° 06,8´ N y L = 006° 09,2´ W y decir cuál es la distancia al Cabo Trafalgar.</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a)  5,6 millas.</respuestas>
+      <video>http://cursodelper.es/pr0170501.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>334</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>34</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>Situar en la carta un punto de l = 36° 06,8´ N y L = 006° 09,2´ W y decir cuál es la distancia al Cabo Trafalgar.</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b)  6,4 millas.</respuestas>
+      <video>http://cursodelper.es/pr0170501.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>334</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>34</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>Situar en la carta un punto de l = 36° 06,8´ N y L = 006° 09,2´ W y decir cuál es la distancia al Cabo Trafalgar.</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c)  8,2 millas.</respuestas>
+      <video>http://cursodelper.es/pr0170501.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>334</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>34</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>Situar en la carta un punto de l = 36° 06,8´ N y L = 006° 09,2´ W y decir cuál es la distancia al Cabo Trafalgar.</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d)  7,2 millas.</respuestas>
+      <video>http://cursodelper.es/pr0170501.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>335</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>35</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>Hallar la situación de una embarcación que se encuentra en la oposición Pta. Carnero-Pta. Cires y la enfilación Pta. Paloma-Isla Tarifa.</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a) l = 35°55,6´ N</respuestas>
+      <video>http://cursodelper.es/pr0180502.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>335</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>35</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>Hallar la situación de una embarcación que se encuentra en la oposición Pta. Carnero-Pta. Cires y la enfilación Pta. Paloma-Isla Tarifa.</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b) l = 35°58,1´N</respuestas>
+      <video>http://cursodelper.es/pr0180502.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>335</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>35</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>Hallar la situación de una embarcación que se encuentra en la oposición Pta. Carnero-Pta. Cires y la enfilación Pta. Paloma-Isla Tarifa.</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c)  l = 35°59,2´N</respuestas>
+      <video>http://cursodelper.es/pr0180502.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>335</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>35</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>Hallar la situación de una embarcación que se encuentra en la oposición Pta. Carnero-Pta. Cires y la enfilación Pta. Paloma-Isla Tarifa.</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d) l = 35°54,8´ N</respuestas>
+      <video>http://cursodelper.es/pr0180502.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>336</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>36</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>Al ser Hrb = 12-30 un yate parte de la luz verde del puerto de Ceuta con Ra - Norte, declinación magnética = 3° W, desvío = I° W y Vb = 10 nudos. Hallar la situación al ser Hrb = 13-15.</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a)  l = 35° 59,8´ N</respuestas>
+      <video>http://cursodelper.es/pr0190503.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>336</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>36</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>Al ser Hrb = 12-30 un yate parte de la luz verde del puerto de Ceuta con Ra - Norte, declinación magnética = 3° W, desvío = I° W y Vb = 10 nudos. Hallar la situación al ser Hrb = 13-15.</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b)  l = 36° 01,6´N</respuestas>
+      <video>http://cursodelper.es/pr0190503.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>336</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>36</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>Al ser Hrb = 12-30 un yate parte de la luz verde del puerto de Ceuta con Ra - Norte, declinación magnética = 3° W, desvío = I° W y Vb = 10 nudos. Hallar la situación al ser Hrb = 13-15.</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c)  l = 36° 01,3´N</respuestas>
+      <video>http://cursodelper.es/pr0190503.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>336</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>36</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>Al ser Hrb = 12-30 un yate parte de la luz verde del puerto de Ceuta con Ra - Norte, declinación magnética = 3° W, desvío = I° W y Vb = 10 nudos. Hallar la situación al ser Hrb = 13-15.</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d)  l = 36° 01,1´W</respuestas>
+      <video>http://cursodelper.es/pr0190503.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>337</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>37</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>Por observación simultánea obtenemos Da de Pta. Carnero = 334° y Da de Pta. Cires = 235°, dm = 3° W y desvío = 4° NW. Nuestra situación será:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a)  l = 35° 58,8´ N L = 005° 28,6´ W.</respuestas>
+      <video>http://cursodelper.es/pr0200504.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>337</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>37</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>Por observación simultánea obtenemos Da de Pta. Carnero = 334° y Da de Pta. Cires = 235°, dm = 3° W y desvío = 4° NW. Nuestra situación será:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b)  l = 35° 58,8´ N L = 005° 24,6´ W.</respuestas>
+      <video>http://cursodelper.es/pr0200504.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>337</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>37</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>Por observación simultánea obtenemos Da de Pta. Carnero = 334° y Da de Pta. Cires = 235°, dm = 3° W y desvío = 4° NW. Nuestra situación será:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c)  l = 36° 01,2´ N L = 005° 20,2´ W.</respuestas>
+      <video>http://cursodelper.es/pr0200504.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>337</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>37</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>Por observación simultánea obtenemos Da de Pta. Carnero = 334° y Da de Pta. Cires = 235°, dm = 3° W y desvío = 4° NW. Nuestra situación será:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d)  l = 36° 00,7´ N L = 005° 21,8´ W.</respuestas>
+      <video>http://cursodelper.es/pr0200504.php</video>
+      <videoTxt>Para ver como se realiza el problema, pulse aquí</videoTxt>
+   </test>
+   <test>
+      <idPreguntas>338</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>38</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Los anemómetros nos miden:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a)    La temperatura.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>338</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>38</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Los anemómetros nos miden:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b)  La intensidad del viento.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>338</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>38</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Los anemómetros nos miden:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c)  La dirección del viento.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>338</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>38</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Los anemómetros nos miden:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d)  La precipitación caída.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>339</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>39</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Las líneas que unen puntos de igual presión se denominan:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a)  Isotermas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>339</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>39</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Las líneas que unen puntos de igual presión se denominan:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b)  Isohípsas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>339</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>39</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Las líneas que unen puntos de igual presión se denominan:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c)  Isalóbaras.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>339</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>39</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Las líneas que unen puntos de igual presión se denominan:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d)  Isóbaras.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>340</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>40</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  En el hemisferio sur el viento en una depresión gira:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a)  En el sentido de las agujas del reloj.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>340</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>40</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  En el hemisferio sur el viento en una depresión gira:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b)  Hacia dentro de la borrasca.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>340</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>40</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  En el hemisferio sur el viento en una depresión gira:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c)  En el sentido contrario de las agujas del reloj.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>340</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>40</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  En el hemisferio sur el viento en una depresión gira:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d)  En espiral.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>341</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>41</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Qué expresión usamos para decir que el viento disminuye su intensidad?</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a)  Rolar.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>341</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>41</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Qué expresión usamos para decir que el viento disminuye su intensidad?</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b)  Caer.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>341</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>41</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Qué expresión usamos para decir que el viento disminuye su intensidad?</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c)  Amainar.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>341</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>41</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Qué expresión usamos para decir que el viento disminuye su intensidad?</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d)  Las dos últimas son correctas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>342</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>42</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Para dar el acuse de recibo de un barco que pide socorro:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a)   Se pulsa la tecla ACK.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>342</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>42</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Para dar el acuse de recibo de un barco que pide socorro:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b)  Se pulsa la tecla DISTRESS.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>342</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>42</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Para dar el acuse de recibo de un barco que pide socorro:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c)  Se pulsa la tecla MAYDAY.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>342</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>42</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Para dar el acuse de recibo de un barco que pide socorro:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d)  Ninguna de las respuestas es correcta.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>343</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>43</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Las bandas de muy altas frecuencias (VHF) van de:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a)  3 a 30 KHz</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>343</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>43</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Las bandas de muy altas frecuencias (VHF) van de:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b)  30 a 500 KHz</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>343</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>43</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Las bandas de muy altas frecuencias (VHF) van de:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c)  156 a 174 KHz</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>343</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>43</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Las bandas de muy altas frecuencias (VHF) van de:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d)  156 a 174 MHz</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>344</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>44</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  En el momento en que una estación efectúa el acuse de recibo (ACK) de un socorro:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a)  Se disparan las autoalarmas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>344</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>44</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  En el momento en que una estación efectúa el acuse de recibo (ACK) de un socorro:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b)  Se compromete a darle asistencia.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>344</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>44</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  En el momento en que una estación efectúa el acuse de recibo (ACK) de un socorro:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c)  Sigue la alarma durante 30 minutos.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>344</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>44</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  En el momento en que una estación efectúa el acuse de recibo (ACK) de un socorro:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d)  La llamada de socorro queda interrumpida.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>345</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>45</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Las categorías de las llamadas en LSD son, por este orden:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a)  Socorro, Urgencia, Seguridad, Llamada.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>345</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>45</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Las categorías de las llamadas en LSD son, por este orden:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b)  Socorro, Seguridad, Urgencia, Llamada.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>345</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>45</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Las categorías de las llamadas en LSD son, por este orden:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c)  Socorro, Urgencia, Seguridad, Rutina.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>345</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>45</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Las categorías de las llamadas en LSD son, por este orden:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d)  Llamada, Socorro, Urgencia, Seguridad.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>346</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>46</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El esquema mínimo de una instalación de LSD para la Zona Marítima ``Al`` es:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a)  LSD, VHF, MF, impresora y GPS.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>346</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>46</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El esquema mínimo de una instalación de LSD para la Zona Marítima ``Al`` es:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b)  LSD, VHF.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>346</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>46</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El esquema mínimo de una instalación de LSD para la Zona Marítima ``Al`` es:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c)  LSD, VHF, MF, HF, impresora y GPS.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>346</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>46</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  El esquema mínimo de una instalación de LSD para la Zona Marítima ``Al`` es:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d)  LSD y demás aparatos que se quieran instalar.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>347</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>47</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Cuando la chispa salta en la bujía:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a)  Los platinos están juntos.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>347</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>47</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Cuando la chispa salta en la bujía:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b)  Los platinos están separados.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>347</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>47</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Cuando la chispa salta en la bujía:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c)  Circula corriente por la bobina.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>347</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>47</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Cuando la chispa salta en la bujía:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d)  La batería se descarga.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>348</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>48</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Cómo deben mantenerse las baterías de servicio a bordo:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a)  Adecuadamente sujetas y ventiladas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>348</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>48</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Cómo deben mantenerse las baterías de servicio a bordo:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b)  Cubiertas con un plástico para evitar la humedad y el salitre.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>348</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>48</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Cómo deben mantenerse las baterías de servicio a bordo:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c)  Cerca del motor para que conserven una temperatura adecuada.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>348</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>48</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Cómo deben mantenerse las baterías de servicio a bordo:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d)  Por debajo de la temperatura ambiente.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>349</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>49</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>La válvula termostática que se monta en los circuitos cerrados de refrigeración sirve para:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a)  Que se caliente antes el motor y no tener que esperar tanto para darle toda avante.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>349</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>49</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>La válvula termostática que se monta en los circuitos cerrados de refrigeración sirve para:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b)  Que se enfríe antes el motor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>349</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>49</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>La válvula termostática que se monta en los circuitos cerrados de refrigeración sirve para:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c)  No llevan nunca este tipo de válvula.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>349</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>49</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>La válvula termostática que se monta en los circuitos cerrados de refrigeración sirve para:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d)  Para mantener constante la temperatura del motor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>350</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>50</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La corriente que reciben las bujías de un motor de explosión de 6 cilindros es de:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a)  Baja tensión.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>350</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>50</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La corriente que reciben las bujías de un motor de explosión de 6 cilindros es de:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b)  Alta tensión.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>350</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>50</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La corriente que reciben las bujías de un motor de explosión de 6 cilindros es de:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c)  Tensión mínima.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>350</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>50</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La corriente que reciben las bujías de un motor de explosión de 6 cilindros es de:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d)  Tensión máxima.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>351</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>51</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  En los motores intraborda la refrigeración es:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a)  Circuito abierto.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>351</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>51</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  En los motores intraborda la refrigeración es:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b)  Circuito cerrado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>351</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>51</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  En los motores intraborda la refrigeración es:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c)  Circuito mixto.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>351</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>51</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  En los motores intraborda la refrigeración es:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d)  Cualquiera de los anteriores.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>352</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>52</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Qué barco repica la campana durante 5 segundos a intervalos que no excedan de un minuto, en tiempo de niebla?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a)  Un buque varado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>352</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>52</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Qué barco repica la campana durante 5 segundos a intervalos que no excedan de un minuto, en tiempo de niebla?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b)  Un remolcador.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>352</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>52</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Qué barco repica la campana durante 5 segundos a intervalos que no excedan de un minuto, en tiempo de niebla?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c)  Un buque fondeado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>352</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>52</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Qué barco repica la campana durante 5 segundos a intervalos que no excedan de un minuto, en tiempo de niebla?</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d)  Un buque navegando a vela.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>353</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>53</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Un buque de propulsión mecánica, navegando de noche, llevará obligatoriamente dos luces de tope cuando:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a)  Su eslora es superior a 50 metros.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>353</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>53</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Un buque de propulsión mecánica, navegando de noche, llevará obligatoriamente dos luces de tope cuando:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b)  Su manga es mayor de 6 metros.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>353</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>53</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Un buque de propulsión mecánica, navegando de noche, llevará obligatoriamente dos luces de tope cuando:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c)  Todos los buques de propulsión mecánica deben llevar dos luces de tope.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>353</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>53</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Un buque de propulsión mecánica, navegando de noche, llevará obligatoriamente dos luces de tope cuando:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d)  Ninguna de las anteriores respuestas es correcta.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>354</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>54</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si vemos tres luces en línea vertical, siendo rojas la superior y la inferior y blanca la central, corresponde:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a)  Buque sin gobierno.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>354</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>54</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si vemos tres luces en línea vertical, siendo rojas la superior y la inferior y blanca la central, corresponde:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b)  Buque varado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>354</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>54</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si vemos tres luces en línea vertical, siendo rojas la superior y la inferior y blanca la central, corresponde:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c)  Buque de maniobra restringida.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>354</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>54</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si vemos tres luces en línea vertical, siendo rojas la superior y la inferior y blanca la central, corresponde:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d)  Buque de pesca no de arrastre.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>355</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>55</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si vemos tres luces en línea vertical, siendo rojas la superior y la inferior y blanca la central, corresponde:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a)  Buque de pesca de cerco.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>355</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>55</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si vemos tres luces en línea vertical, siendo rojas la superior y la inferior y blanca la central, corresponde:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b)  Buque sin gobierno.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>355</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>55</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si vemos tres luces en línea vertical, siendo rojas la superior y la inferior y blanca la central, corresponde:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c)  Buque con capacidad de maniobra restringida.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>355</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>55</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si vemos tres luces en línea vertical, siendo rojas la superior y la inferior y blanca la central, corresponde:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d)  Buque varado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>356</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>56</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Cuál de los siguientes buques tiene alguna luz que sea ``todo horizonte``?</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a)  Remolcado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>356</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>56</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Cuál de los siguientes buques tiene alguna luz que sea ``todo horizonte``?</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b)  Práctico.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>356</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>56</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Cuál de los siguientes buques tiene alguna luz que sea ``todo horizonte``?</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c)  Remolcador.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>356</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>56</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Cuál de los siguientes buques tiene alguna luz que sea ``todo horizonte``?</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d)  Ninguna de las respuestas es correcta.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>357</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>57</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Una embarcación de más de 7 metros de eslora, navegando a vela de noche, debe mostrar obligatoriamente:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a)  Las luces de costado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>357</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>57</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Una embarcación de más de 7 metros de eslora, navegando a vela de noche, debe mostrar obligatoriamente:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b)  Dos luces todo horizonte en vertical, roja la superior y verde la inferior.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>357</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>57</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Una embarcación de más de 7 metros de eslora, navegando a vela de noche, debe mostrar obligatoriamente:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c)  Las luces de costado y la luz de alcance.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>357</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>57</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Una embarcación de más de 7 metros de eslora, navegando a vela de noche, debe mostrar obligatoriamente:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d)  Las luces de costado y la de tope.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>358</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>58</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Una embarcación a motor de menos de 7 metros de eslora y menos de 7 nudos de velocidad, de noche llevará:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a)  Luz de tope, luces de costado y alcance.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>358</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>58</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Una embarcación a motor de menos de 7 metros de eslora y menos de 7 nudos de velocidad, de noche llevará:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b)  Una luz blanca todo horizonte y si puede luces de costado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>358</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>58</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Una embarcación a motor de menos de 7 metros de eslora y menos de 7 nudos de velocidad, de noche llevará:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c)  Una linterna.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>358</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>58</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Una embarcación a motor de menos de 7 metros de eslora y menos de 7 nudos de velocidad, de noche llevará:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d)  Una luz blanca todo horizonte y si puede luces de costado y alcance.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>359</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>59</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si vemos tres luces en línea vertical, siendo roja la superior y la inferior y blanca la central, corresponde:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a)  Buque varado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>359</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>59</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si vemos tres luces en línea vertical, siendo roja la superior y la inferior y blanca la central, corresponde:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b)  Buque sin gobierno.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>359</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>59</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si vemos tres luces en línea vertical, siendo roja la superior y la inferior y blanca la central, corresponde:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c)  Buque de pesca no de arrastre.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>359</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>59</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si vemos tres luces en línea vertical, siendo roja la superior y la inferior y blanca la central, corresponde:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d)  Buque de maniobra restringida.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>360</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>60</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si navegando en una embarcación a motor avistamos por estribor a otra embarcación que nos da la luz verde de costado, cómo actuaremos:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a)   Pararemos máquina.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>360</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>60</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si navegando en una embarcación a motor avistamos por estribor a otra embarcación que nos da la luz verde de costado, cómo actuaremos:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b)  Caeremos a babor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>360</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>60</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si navegando en una embarcación a motor avistamos por estribor a otra embarcación que nos da la luz verde de costado, cómo actuaremos:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c)  Seguiremos a rumbo.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>360</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>60</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si navegando en una embarcación a motor avistamos por estribor a otra embarcación que nos da la luz verde de costado, cómo actuaremos:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d)  Caeremos a estribor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>361</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>61</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Una embarcación que muestra una bola negra en el estay de proa indica:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a)  Que está remolcando.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>361</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>61</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Una embarcación que muestra una bola negra en el estay de proa indica:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b)  Que está fondeada.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>361</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>61</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Una embarcación que muestra una bola negra en el estay de proa indica:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c)  Que está sin gobierno.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>361</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>61</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Una embarcación que muestra una bola negra en el estay de proa indica:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d)  Que está pescando.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>362</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>62</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Un buque varado, de día, izará:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a)  Dos globos negros visibles en todo el horizonte.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>362</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>62</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Un buque varado, de día, izará:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b)  Un cono negro con el vértice hacia abajo.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>362</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>62</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Un buque varado, de día, izará:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c)  Una señal en forma de rombo de color negro.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>362</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>62</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Un buque varado, de día, izará:</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d)  Tres globos negros verticalmente separados 1,5 metros.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>363</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>63</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si observamos un barco que en lugar visible lleva izadas tres bolas negras, sabremos que se trata de:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a)  Un buque en peligro.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>363</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>63</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si observamos un barco que en lugar visible lleva izadas tres bolas negras, sabremos que se trata de:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b)  Un buque sin gobierno.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>363</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>63</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si observamos un barco que en lugar visible lleva izadas tres bolas negras, sabremos que se trata de:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c)  Un buque varado.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>363</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>63</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si observamos un barco que en lugar visible lleva izadas tres bolas negras, sabremos que se trata de:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d)  Un pesquero.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>364</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>64</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Hemos avistado una embarcación que nos muestra una señal rígida con la forma de corneta y media blanca y media azul, se trata de:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a)  Una embarcación en peligro que pide ayuda.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>364</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>64</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Hemos avistado una embarcación que nos muestra una señal rígida con la forma de corneta y media blanca y media azul, se trata de:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b)  Una embarcación dedicada a operaciones submarinas con obstrucción.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>364</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>64</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Hemos avistado una embarcación que nos muestra una señal rígida con la forma de corneta y media blanca y media azul, se trata de:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c)  Una embarcación sin gobierno.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>364</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>64</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Hemos avistado una embarcación que nos muestra una señal rígida con la forma de corneta y media blanca y media azul, se trata de:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d)  Una embarcación dedicada a la limpieza de minas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>365</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>65</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Un velero de eslora superior a 12 metros, fondeado, exhibirá de día:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a)  Un cono con el vértice hacia abajo en la proa.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>365</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>65</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Un velero de eslora superior a 12 metros, fondeado, exhibirá de día:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b)  Dos conos unidos por sus bases en lugar visible.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>365</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>65</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Un velero de eslora superior a 12 metros, fondeado, exhibirá de día:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c)  Una esfera negra en la proa.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>365</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>65</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Un velero de eslora superior a 12 metros, fondeado, exhibirá de día:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d)  No está obligado a mostrar ninguna señal.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>366</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>66</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si de noche observamos por nuestra proa: una luz roja y dos blancas, una a proa y otra a popa, se tratará de:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a)  Buque de propulsión mecánica mayor de 50 metros.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>366</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>66</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si de noche observamos por nuestra proa: una luz roja y dos blancas, una a proa y otra a popa, se tratará de:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b)  Buque de pesca de arrastre.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>366</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>66</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si de noche observamos por nuestra proa: una luz roja y dos blancas, una a proa y otra a popa, se tratará de:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c)  Buque de propulsión mecánica menor de 50 metros.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>366</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>66</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si de noche observamos por nuestra proa: una luz roja y dos blancas, una a proa y otra a popa, se tratará de:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d)  Velero.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>367</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>67</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La marca de tope del cuadrante sur es:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a)  Dos conos negros superpuestos opuestos por las bases.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>367</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>67</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La marca de tope del cuadrante sur es:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b)    Dos conos negros superpuestos con los vértices hacia abajo.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>367</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>67</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La marca de tope del cuadrante sur es:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c)    Dos conos negros opuestos por los vértices.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>367</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>67</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La marca de tope del cuadrante sur es:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d)  Dos conos negros superpuestos con los vértices hacia arriba.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>368</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>68</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La marca de tope de la marca cardinal Este es:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a)  Dos conos superpuestos con los vértices hacia abajo.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>368</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>68</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La marca de tope de la marca cardinal Este es:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b)  Dos conos superpuestos opuestos por su base.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>368</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>68</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La marca de tope de la marca cardinal Este es:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c)  Dos conos superpuestos con los vértices hacia arriba.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>368</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>68</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La marca de tope de la marca cardinal Este es:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d)  Dos conos superpuestos opuestos por sus vértices.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>369</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>69</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Decir si se puede utilizar un bidón de color rojo como marca o boya especial:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a)  Sí, siempre que no se preste a confusión.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>369</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>69</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Decir si se puede utilizar un bidón de color rojo como marca o boya especial:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b)  Nunca.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>369</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>69</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Decir si se puede utilizar un bidón de color rojo como marca o boya especial:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c)  Sólo provisionalmente.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>369</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>69</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Decir si se puede utilizar un bidón de color rojo como marca o boya especial:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d)  En zonas muy próximas a la costa.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>370</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>70</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Una marca cardinal del cuadrante sur, si va dotada de luz, será:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a)    Blanca centelleante rápida que dé 6 centelleos y un destello largo cada diez segundos o 6 centelleos, más un destello largo cada 15 segundos.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>370</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>70</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Una marca cardinal del cuadrante sur, si va dotada de luz, será:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b)  Blanca de centelleos rápidos o centelleante.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>370</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>70</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Una marca cardinal del cuadrante sur, si va dotada de luz, será:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c)  Blanca fija.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>370</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>70</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Una marca cardinal del cuadrante sur, si va dotada de luz, será:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d)  De destellos amarillos.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>371</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>71</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si encontramos una boya con marca de tope dos conos con los vértices hacia abajo, significa:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a)  Que se puede navegar a su alrededor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>371</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>71</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si encontramos una boya con marca de tope dos conos con los vértices hacia abajo, significa:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b)  Que hay que pasarle por el norte.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>371</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>71</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si encontramos una boya con marca de tope dos conos con los vértices hacia abajo, significa:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c)  Que hay que pasarle por el sur.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>371</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>71</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  Si encontramos una boya con marca de tope dos conos con los vértices hacia abajo, significa:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d)  Que hay que dejarla por estribor.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>372</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>72</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La velocidad máxima a la que se puede navegar dentro de puerto es de:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>a)  3 nudos,</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>372</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>72</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La velocidad máxima a la que se puede navegar dentro de puerto es de:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>b)  No existe limitación de velocidad.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>372</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>72</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La velocidad máxima a la que se puede navegar dentro de puerto es de:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>c)  2 nudos.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>372</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>72</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  La velocidad máxima a la que se puede navegar dentro de puerto es de:</pregunta>
+      <punto>1</punto>
+      <respuesta>1</respuesta>
+      <respuestas>d)  4 nudos.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>373</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>73</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  En qué Lista del Registro de Buques debe estar inscrita una embarcación de recreo sin fines lucrativos:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>a)  En la 6a</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>373</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>73</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  En qué Lista del Registro de Buques debe estar inscrita una embarcación de recreo sin fines lucrativos:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>b)  En la 7a</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>373</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>73</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  En qué Lista del Registro de Buques debe estar inscrita una embarcación de recreo sin fines lucrativos:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>c)  En la 8a</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>373</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>73</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  En qué Lista del Registro de Buques debe estar inscrita una embarcación de recreo sin fines lucrativos:</pregunta>
+      <punto>1</punto>
+      <respuesta>2</respuesta>
+      <respuestas>d)  En la 9``</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>374</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>74</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Pueden las Autoridades Marítimas establecer las zonas permitidas para el fondeo?</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>a)  Únicamente en zonas costeras.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>374</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>74</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Pueden las Autoridades Marítimas establecer las zonas permitidas para el fondeo?</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>b)  Sólo en los grandes puertos.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>374</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>74</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Pueden las Autoridades Marítimas establecer las zonas permitidas para el fondeo?</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>c)  No.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>374</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>74</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>  ¿Pueden las Autoridades Marítimas establecer las zonas permitidas para el fondeo?</pregunta>
+      <punto>1</punto>
+      <respuesta>4</respuesta>
+      <respuestas>d)  Sí.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>375</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>75</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>Las embarcaciones de la Lista 7a de 12 metros de eslora con casco de madera deberán inspeccionarse cada:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>a)  Cada 5 años.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>375</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>75</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>Las embarcaciones de la Lista 7a de 12 metros de eslora con casco de madera deberán inspeccionarse cada:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>b)  Intermedio.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>375</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>75</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>Las embarcaciones de la Lista 7a de 12 metros de eslora con casco de madera deberán inspeccionarse cada:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>c)  Las respuestas a) y b) son correctas.</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+   <test>
+      <idPreguntas>375</idPreguntas>
+      <idTestExamen>5</idTestExamen>
+      <nombre>75</nombre>
+      <numDeTest>05</numDeTest>
+      <pregunta>Las embarcaciones de la Lista 7a de 12 metros de eslora con casco de madera deberán inspeccionarse cada:</pregunta>
+      <punto>1</punto>
+      <respuesta>3</respuesta>
+      <respuestas>d)  Cada 3 años</respuestas>
+      <video />
+      <videoTxt />
+   </test>
+</root>

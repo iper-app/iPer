@@ -1,0 +1,100 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>PER - Temas</title>
+        <meta name="HandheldFriendly" content="true"/>
+        <meta name="viewport" content="width = device-width, initial-scale=1, maximum-scale=1"/>
+        <link rel="stylesheet" href="css/reset+clearfix.css" type="text/css"/>
+        <link rel="stylesheet" href="fonts/fonts.css" type="text/css"/>
+        <link rel="stylesheet" href="css/estilos.css" type="text/css"/>
+        <link rel="stylesheet" href="css/responsive.css" type="text/css"/>
+
+
+        <!--[if gte IE 9]>
+          <style type="text/css">
+            .gradient {
+               filter: none;
+            }
+          </style>
+        <![endif]-->
+        <!--<script src="js/cordova-2.4.0.js"></script>-->
+        <script src="cordova-2.7.0.js"></script>
+        <script src="js/iscroll.js"></script>
+        <script src="js/jquery.js"></script>
+        <script src="js/funciones.js"></script>
+        <script src="phonegap.js"></script>
+        <script src="js/contenidos/config.js"></script>
+        <script src="js/contenidos/testpormaterias.js"></script>
+        <script>
+            $(function() {
+                $('#loading').show();
+            });
+
+            $(window).load(function() {
+                $('#loading').fadeOut(2000);
+                iscroll_ini();
+                myScroll.refresh();
+            });
+        </script>
+    </head>
+
+    <body>
+        <div id="loading" class="hider" title="Confirmación" style="display:none;text-align: center;"><div class="popup_box"><img src="img/loading.gif" alt="" /><br>Enviando!</div></div>
+
+        <nav id="superior"  >
+            <div id="title" data-role="listview" data-filter="true">
+                <span class="title">9 balizamiento</span>
+            </div>
+            <img id="cola" src="img/cola_menu_superior.png" alt="Colomer"/>
+            <img id="topFix" src="img/logo_iper.png" alt="Colomer"/>
+        </nav>
+
+        <div id="wrapper">
+            <div id="scrollable">
+                <div id="testList" data-filter="true" data-role="listview">
+                    <div id="89 " class="item">
+                        <a id="89" class="nomPreg" href="test.html?id=89">
+                            Nº 01
+                            <span class="testStatus"></span>
+                        </a>
+                    </div>
+                    <div id="90 " class="item">
+                        <a id="90" class="nomPreg" href="test.html?id=90">
+                            Nº 02
+                            <span class="testStatus"></span>
+                        </a>
+                    </div>
+                    <div id="91 " class="item">
+                        <a id="91" class="nomPreg" href="test.html?id=91">
+                            Nº 03
+                            <span class="testStatus"></span>
+                        </a>
+                    </div>
+                    <div id="92 " class="item">
+                        <a id="92" class="nomPreg" href="test.html?id=92">
+                            Nº 04
+                            <span class="testStatus"></span>
+                        </a>
+                    </div>
+                    <div id="93 " class="item">
+                        <a id="93" class="nomPreg" href="test.html?id=93">
+                            Nº 05
+                            <span class="testStatus"></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <nav id="inferior"  >
+            <div class="boton" id="atras"><a href="#"><img id="cola" src="img/atras.png" alt="atras"/>atras</a></div>
+            <div class="boton" id="menu"><a href="menu_principal.html"><img id="cola" src="img/menu_2.png" alt="menu"/>menu</a></div>
+            <div id="central"></div>
+        </nav>
+
+    </body>
+
+    <script src="js/iscroll_ini.js"></script>
+
+</html>

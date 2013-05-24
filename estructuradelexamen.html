@@ -1,0 +1,177 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>PER - Estructura del examen</title>
+        <meta name="HandheldFriendly" content="true"/>
+        <meta name="viewport" content="width = device-width, initial-scale=1, maximum-scale=1"/>
+        <link rel="stylesheet" href="css/reset+clearfix.css" type="text/css"/>
+        <link rel="stylesheet" href="fonts/fonts.css" type="text/css"/>
+        <link rel="stylesheet" href="css/estilos.css" type="text/css"/>
+        <link rel="stylesheet" href="css/responsive.css" type="text/css"/>
+        <!--[if gte IE 9]>
+          <style type="text/css">
+            .gradient {
+               filter: none;
+            }
+          </style>
+        <![endif]-->
+        <!--<script src="js/cordova-2.4.0.js"></script>-->
+        <script src="cordova-2.7.0.js"></script>
+        <script src="js/iscroll.js"></script>
+        <script src="js/jquery.js"></script>
+        <script src="js/funciones.js"></script>
+        <script src="phonegap.js"></script>
+        <script>
+            $(function() {
+                $('#loading').show();
+            });
+
+            $(window).load(function() {
+                $('#loading').fadeOut(2000);
+                iscroll_ini();
+                myScroll.refresh();
+            });
+        </script>
+    </head>
+
+    <body>
+        <div id="loading" class="hider" title="Confirmación" style="display:none;text-align: center;"><div class="popup_box"><img src="img/loading.gif" alt="" /><br>Enviando!</div></div>
+        <nav id="superior"  >
+            <span class="title">estructura del examen</span>
+            <img id="cola" src="img/cola_menu_superior.png" alt="Colomer"/>
+            <img id="topFix" src="img/logo_iper.png" alt="Colomer"/>
+        </nav>
+
+        <div id="wrapper">
+            <div id="scrollable">
+                <div id="textItem">
+                    <div align="center">                        
+                        <table class="estructuraDelExamen" width="75%" border="0">
+                            <tr>
+                                <td colspan="2" style="font-size: 1em;font-weight: bold"><div align="center"><span class="AZUL18"  style="font-size: 1em;">TEMA</span></div></td>
+                                <td style="font-weight: bold"><div align="center"><span class="" style="font-size:  1em;">Nº de preguntas</span></div></td>
+                                <td style="font-weight: bold"><div align="center"><span class="" style="font-size:  1em;">Nº de fallos permitidos</span></div></td>
+                            </tr>
+                            <tr>
+                                <td class="AZUL18">&nbsp;</td>
+                                <td>&nbsp;</td>
+                                <td class="AZUL18">&nbsp;</td>
+                                <td>&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td width="1%" class="AZUL18"><div align="right">1-&nbsp;</div></td>
+                                <td width="30%"><span class="AZUL18">Tecnología</span></td>
+                                <td width="35%" class="AZUL18"><div align="center">6</div></td>
+                                <td width="33%"><div align="center"></div></td>
+                            </tr>
+                            <tr>
+                                <td class="AZUL18"><div align="right">2-&nbsp;</div></td>
+                                <td><span class="AZUL18">Maniobra</span></td>
+                                <td class="AZUL18"><div align="center">8</div></td>
+                                <td><div align="center"></div></td>
+                            </tr>
+                            <tr>
+                                <td class="AZUL18"><div align="right">3-&nbsp;</div></td>
+                                <td><span class="AZUL18">Seguridad</span></td>
+                                <td class="AZUL18"><div align="center">11</div></td>
+                                <td><div align="center"></div></td>
+                            </tr>
+                            <tr>
+                                <td class="AZUL18"><div align="right">4-&nbsp;</div></td>
+                                <td><span class="AZUL18">Navegación</span></td>
+                                <td class="AZUL18"><div align="center">8</div></td>
+                                <td><div align="center"></div></td>
+                            </tr>
+                            <tr>
+                                <td class="AZUL18"><div align="right">4-&nbsp;</div></td>
+                                <td bgcolor="#E1E1E1"><span class="AZUL18">Carta náutica</span></td>
+                                <td class="AZUL18"><div align="center">4</div></td>
+                                <td bgcolor="#E1E1E1"><div align="center"><span class="AZUL18">2</span></div></td>
+                            </tr>
+                            <tr>
+                                <td class="AZUL18"><div align="right">5-&nbsp;</div></td>
+                                <td><span class="AZUL18">Meteorología</span></td>
+                                <td class="AZUL18"><div align="center">4</div></td>
+                                <td><div align="center"></div></td>
+                            </tr>
+                            <tr>
+                                <td class="AZUL18"><div align="right">6-&nbsp;</div></td>
+                                <td bgcolor="#E1E1E1"><span class="AZUL18">Comunicaciones</span></td>
+                                <td class="AZUL18"><div align="center">5</div></td>
+                                <td bgcolor="#E1E1E1"><div align="center"><span class="AZUL18">2</span></div></td>
+                            </tr>
+                            <tr>
+                                <td class="AZUL18"><div align="right">7-&nbsp;</div></td>
+                                <td><span class="AZUL18">Propulsión mecánica</span></td>
+                                <td class="AZUL18"><div align="center">5</div></td>
+                                <td><div align="center"></div></td>
+                            </tr>
+                            <tr>
+                                <td class="AZUL18"><div align="right">8-&nbsp;</div></td>
+                                <td bgcolor="#E1E1E1"><span class="AZUL18">Reglamento</span></td>
+                                <td class="AZUL18"><div align="center">15</div></td>
+                                <td bgcolor="#E1E1E1"><div align="center"><span class="AZUL18">4</span></div></td>
+                            </tr>
+                            <tr>
+                                <td class="AZUL18"><div align="right">9-&nbsp;</div></td>
+                                <td bgcolor="#E1E1E1"><span class="AZUL18">Balizamiento</span></td>
+                                <td class="AZUL18"><div align="center">5</div></td>
+                                <td bgcolor="#E1E1E1"><div align="center"><span class="AZUL18">2</span></div></td>
+                            </tr>
+                            <tr>
+                                <td><div align="right"><span class="AZUL18">10-&nbsp;</span></div></td>
+                                <td><span class="AZUL18">Legislación</span></td>
+                                <td class="AZUL18"><div align="center">4</div></td>
+                                <td><div align="center"></div></td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" class="AZUL18">&nbsp;</td>
+                                <td>&nbsp;</td>
+                                <td>&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" class="AZUL18" style="font-weight: bold"><div align="center">Total</div></td>
+                                <td style="font-weight: bold"><div align="center"><span class="AZUL18">75</span></div></td>
+                                <td style="font-weight: bold"><div align="center"><span class="AZUL18">22</span></div></td>
+                            </tr>
+                            <tr>
+                                <td class="AZUL18">&nbsp;</td>
+                                <td>&nbsp;</td>
+                                <td>&nbsp;</td>
+                                <td>&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td colspan="4" class="AZUL18">
+                                    <table width="100%" border="0" align="center">
+                                        <tr>
+                                            <td style="color: #990000; font-weight: bold;"><div align="center">Duración del examen: 2h 15m</div></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="color: #990000; font-weight: bold;"><div align="center"></div></td>
+                                        </tr>
+                                    </table></td>
+                            </tr>
+                            <tr>
+                                <td class="AZUL18">&nbsp;</td>
+                                <td>&nbsp;</td>
+                                <td>&nbsp;</td>
+                                <td>&nbsp;</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>    
+            </div>
+        </div>
+
+        <nav id="inferior"  >
+            <div class="boton" id="atras"><a href="#"><img id="cola" src="img/atras.png" alt="atras"/>atras</a></div>
+            <div class="boton" id="menu"><a href="menu_principal.html"><img id="cola" src="img/menu_2.png" alt="menu"/>menu</a></div>
+            <div id="central"></div>
+        </nav>
+
+    </body>
+
+    <script src="js/iscroll_ini.js"></script>
+
+</html>

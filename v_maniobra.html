@@ -1,0 +1,221 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>PER - Video</title>
+        <meta name="HandheldFriendly" content="true"/>
+        <meta name="viewport" content="width = device-width, initial-scale=1, maximum-scale=1"/>
+        <link rel="stylesheet" href="css/reset+clearfix.css" type="text/css"/>
+        <link rel="stylesheet" href="fonts/fonts.css" type="text/css"/>
+        <link rel="stylesheet" href="css/estilos.css" type="text/css"/>
+        <link rel="stylesheet" href="css/responsive.css" type="text/css"/>
+        <!--[if gte IE 9]>
+          <style type="text/css">
+            .gradient {
+               filter: none;
+            }
+          </style>
+        <![endif]-->
+        <!--<script src="js/cordova-2.4.0.js"></script>-->
+        <script src="cordova-2.7.0.js"></script>
+        <script src="js/iscroll.js"></script>
+        <script src="js/jquery.js"></script>
+        <script src="js/funciones.js"></script>
+        <script src="phonegap.js"></script>
+        <script src="js/contenidos/config.js"></script>
+        <script src="js/contenidos/videos.js"></script>
+        <script>
+
+            document.addEventListener("deviceready", function() {
+
+                function resolucion() {
+
+                    var ancho = $(window).width();
+                    var video = $('.video');
+
+                    var rutaVideo = 'http://boldtech.es/per/temas/'; // ruta general del servidor
+                    var rutaTema = '01tecnologia/'; // nombre de la carpeta de ese tema
+                    var nombreVideo = 'a12_1dimensi'; // nombre archivo sin extension
+
+                    var resolucion_1 = [600, 450];
+                    var rutaRes_1 = resolucion_1[0] + "x" + resolucion_1[1] + "/";
+                    var resolucion_2 = [800, 600];
+                    var rutaRes_2 = resolucion_2[0] + "x" + resolucion_2[1] + "/";
+                    var anchoCambio = 600; //ancho a partir del cual cambia a mejor calidad 
+
+                    if (ancho > anchoCambio) {
+
+                        var ruta = rutaVideo + rutaTema + rutaRes_2 + nombreVideo + '.mp4';
+
+                        if (device.platform.match(/Android/)) {
+                            window.plugins.videoPlayer.play(ruta);
+                        }
+                        else {
+                            video.attr('width', resolucion_2[0]);
+                            video.attr('height', resolucion_2[1]);
+                            $('.video source').remove();
+                            video.html("<source src=\"\" type='video/mp4' />");
+                            $('.video source').attr('src', ruta);
+                            $('.video source').load();
+                        }
+
+                    }
+
+                    else {
+
+                        var ruta = rutaVideo + rutaTema + rutaRes_1 + nombreVideo + '.mp4';
+
+                        if (device.platform.match(/Android/)) {
+                            window.plugins.videoPlayer.play(ruta);
+                        }
+                        else {
+                            video.attr('width', resolucion_1[0]);
+                            video.attr('height', resolucion_1[1]);
+                            $('.video source').remove();
+                            video.html("<source src=\"\" type='video/mp4' />");
+                            $('.video source').attr('src', ruta);
+                            $('.video source').load();
+                        }
+
+                    }
+
+                }
+
+                resolucion();
+
+            }, false); //fin phonegap
+        </script>
+        <script>
+            $(function() {
+                $('#loading').show();
+            });
+
+            $(window).load(function() {
+                $('#loading').fadeOut(2000);
+                iscroll_ini();
+                myScroll.refresh();
+            });
+        </script>
+    </head>
+
+    <body>
+        <div id="loading" class="hider" title="Confirmación" style="display:none;text-align: center;"><div class="popup_box"><img src="img/loading.gif" alt="" /><br>Enviando!</div></div>
+        <nav id="superior"  >
+            <div id="title" data-role="listview" data-filter="true">
+                <span class="title"></span>
+            </div>
+            <img id="cola" src="img/cola_menu_superior.png" alt="Colomer"/>
+            <img id="topFix" src="img/logo_iper.png" alt="Colomer"/>
+        </nav>
+
+        <div id="wrapper">
+            <div id="scrollable">
+                <div id="videoList" data-filter="true" data-role="listview">
+                    <div class="item">
+                        <a id="8" href="videos_template.html?id=8">1.1 Amarras</a>
+                    </div>
+                    <div class="item">
+                        <a id="9" href="videos_template.html?id=9">1.2 Amarras II</a>
+                    </div>
+                    <div class="item">
+                        <a id="10" href="videos_template.html?id=10">2.1 Dextrógira y Levógira</a>
+                    </div>
+                    <div class="item">
+                        <a id="11" href="videos_template.html?id=11">3.1 Cambiar el rumbo</a>
+                    </div>
+                    <div class="item">
+                        <a id="12" href="videos_template.html?id=12">4.1 Timón de rueda y caña</a>
+                    </div>
+                    <div class="item">
+                        <a id="13" href="videos_template.html?id=13">5.1 Avante, neutro y atrás</a>
+                    </div>
+                    <div class="item">
+                        <a id="14" href="videos_template.html?id=14">6.1 Efecto de la hélice al darle atrás</a>
+                    </div>
+                    <div class="item">
+                        <a id="15" href="videos_template.html?id=15">7.1 Hacer cabeza</a>
+                    </div>
+                    <div class="item">
+                        <a id="16" href="videos_template.html?id=16">8.1 Atracar con viento de tierra al mar</a>
+                    </div>
+                    <div class="item">
+                        <a id="17" href="videos_template.html?id=17">8.2 Atracar con viento de Proa</a>
+                    </div>
+                    <div class="item">
+                        <a id="18" href="videos_template.html?id=18">8.3 Atracar con viento de Popa</a>
+                    </div>
+                    <div class="item">
+                        <a id="19" href="videos_template.html?id=19">8.4 Atracar con viento de mar a tierra</a>
+                    </div>
+                    <div class="item">
+                        <a id="20" href="videos_template.html?id=20">8.5 Atracar de punta, popa al muelle </a>
+                    </div>
+                    <div class="item">
+                        <a id="21" href="videos_template.html?id=21">9.1 Ciabogar con una hélice</a>
+                    </div>
+                    <div class="item">
+                        <a id="22" href="videos_template.html?id=22">9.2 Ciabogar con dos hélices</a>
+                    </div>
+                    <div class="item">
+                        <a id="23" href="videos_template.html?id=23">10.1 Orzar y arribar</a>
+                    </div>
+                    <div class="item">
+                        <a id="24" href="videos_template.html?id=24">11.1 Viento real, de marcha y aparente</a>
+                    </div>
+                    <div class="item">
+                        <a id="25" href="videos_template.html?id=25">11.2 Viento real por proa</a>
+                    </div>
+                    <div class="item">
+                        <a id="26" href="videos_template.html?id=26">11.3 Viento real por popa</a>
+                    </div>
+                    <div class="item">
+                        <a id="27" href="videos_template.html?id=27">11.4 Viento real por el través</a>
+                    </div>
+                    <div class="item">
+                        <a id="28" href="videos_template.html?id=28">12.1 Abarloarse</a>
+                    </div>
+                    <div class="item">
+                        <a id="29" href="videos_template.html?id=29">12.2 Abarloarse II</a>
+                    </div>
+                    <div class="item">
+                        <a id="30" href="videos_template.html?id=30">13.1 Fondeo </a>
+                    </div>
+                    <div class="item">
+                        <a id="31" href="videos_template.html?id=31">13.2 Fondeo II</a>
+                    </div>
+                    <div class="item">
+                        <a id="32" href="videos_template.html?id=32">13.3 Círculo de borneo</a>
+                    </div>
+                    <div class="item">
+                        <a id="33" href="videos_template.html?id=33">13.4 Amarrarse a un muerto</a>
+                    </div>
+                    <div class="item">
+                        <a id="34" href="videos_template.html?id=34">13.5 Fondear con 2 anclas</a>
+                    </div>
+                    <div class="item">
+                        <a id="35" href="videos_template.html?id=35">13.6 Fondear a barbas de gato</a>
+                    </div>
+                    <div class="item">
+                        <a id="36" href="videos_template.html?id=36">13.7 Fondear en corriente</a>
+                    </div>
+                    <div class="item">
+                        <a id="37" href="videos_template.html?id=37">13.8 Garreo</a>
+                    </div>
+                    <div class="item">
+                        <a id="38" href="videos_template.html?id=38">14.1 Libre a sotavento</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <nav id="inferior"  >
+            <div class="boton" id="atras"><a href="#"><img id="cola" src="img/atras.png" alt="atras"/>atras</a></div>
+            <div class="boton" id="menu"><a href="menu_principal.html"><img id="cola" src="img/menu_2.png" alt="menu"/>menu</a></div>
+            <div id="central"></div>
+        </nav>
+
+    </body>
+
+    <script src="js/iscroll_ini.js"></script>
+
+</html>

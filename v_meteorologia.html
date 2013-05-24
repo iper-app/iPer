@@ -1,0 +1,188 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>PER - Video</title>
+        <meta name="HandheldFriendly" content="true"/>
+        <meta name="viewport" content="width = device-width, initial-scale=1, maximum-scale=1"/>
+        <link rel="stylesheet" href="css/reset+clearfix.css" type="text/css"/>
+        <link rel="stylesheet" href="fonts/fonts.css" type="text/css"/>
+        <link rel="stylesheet" href="css/estilos.css" type="text/css"/>
+        <link rel="stylesheet" href="css/responsive.css" type="text/css"/>
+        <!--[if gte IE 9]>
+          <style type="text/css">
+            .gradient {
+               filter: none;
+            }
+          </style>
+        <![endif]-->
+        <!--<script src="js/cordova-2.4.0.js"></script>-->
+        <script src="cordova-2.7.0.js"></script>
+        <script src="js/iscroll.js"></script>
+        <script src="js/jquery.js"></script>
+        <script src="js/funciones.js"></script>
+        <script src="phonegap.js"></script>
+        <script src="js/contenidos/config.js"></script>
+        <script src="js/contenidos/videos.js"></script>
+        <script>
+
+            document.addEventListener("deviceready", function() {
+
+                function resolucion() {
+
+                    var ancho = $(window).width();
+                    var video = $('.video');
+
+                    var rutaVideo = 'http://boldtech.es/per/temas/'; // ruta general del servidor
+                    var rutaTema = '01tecnologia/'; // nombre de la carpeta de ese tema
+                    var nombreVideo = 'a12_1dimensi'; // nombre archivo sin extension
+
+                    var resolucion_1 = [600, 450];
+                    var rutaRes_1 = resolucion_1[0] + "x" + resolucion_1[1] + "/";
+                    var resolucion_2 = [800, 600];
+                    var rutaRes_2 = resolucion_2[0] + "x" + resolucion_2[1] + "/";
+                    var anchoCambio = 600; //ancho a partir del cual cambia a mejor calidad 
+
+                    if (ancho > anchoCambio) {
+
+                        var ruta = rutaVideo + rutaTema + rutaRes_2 + nombreVideo + '.mp4';
+
+                        if (device.platform.match(/Android/)) {
+                            window.plugins.videoPlayer.play(ruta);
+                        }
+                        else {
+                            video.attr('width', resolucion_2[0]);
+                            video.attr('height', resolucion_2[1]);
+                            $('.video source').remove();
+                            video.html("<source src=\"\" type='video/mp4' />");
+                            $('.video source').attr('src', ruta);
+                            $('.video source').load();
+                        }
+
+                    }
+
+                    else {
+
+                        var ruta = rutaVideo + rutaTema + rutaRes_1 + nombreVideo + '.mp4';
+
+                        if (device.platform.match(/Android/)) {
+                            window.plugins.videoPlayer.play(ruta);
+                        }
+                        else {
+                            video.attr('width', resolucion_1[0]);
+                            video.attr('height', resolucion_1[1]);
+                            $('.video source').remove();
+                            video.html("<source src=\"\" type='video/mp4' />");
+                            $('.video source').attr('src', ruta);
+                            $('.video source').load();
+                        }
+
+                    }
+
+                }
+
+                resolucion();
+
+            }, false); //fin phonegap
+        </script>
+        <script>
+            $(function() {
+                $('#loading').show();
+            });
+
+            $(window).load(function() {
+                $('#loading').fadeOut(2000);
+                iscroll_ini();
+                myScroll.refresh();
+            });
+        </script>
+    </head>
+
+    <body>
+        <div id="loading" class="hider" title="Confirmación" style="display:none;text-align: center;"><div class="popup_box"><img src="img/loading.gif" alt="" /><br>Enviando!</div></div>
+        <nav id="superior"  >
+            <div id="title" data-role="listview" data-filter="true">
+                <span class="title"></span>
+            </div>
+            <img id="cola" src="img/cola_menu_superior.png" alt="Colomer"/>
+            <img id="topFix" src="img/logo_iper.png" alt="Colomer"/>
+        </nav>
+
+        <div id="wrapper">
+            <div id="scrollable">
+                <div id="videoList" data-filter="true" data-role="listview">
+                    <div class="item">
+                        <a id="87" href="videos_template.html?id=87">1.1 Importancia de la meteorología</a>
+                    </div>
+                    <div class="item">
+                        <a id="88" href="videos_template.html?id=88">1.2 Concepto de presión atmosférica</a>
+                    </div>
+                    <div class="item">
+                        <a id="89" href="videos_template.html?id=89">1.3 Barómetro aneroide</a>
+                    </div>
+                    <div class="item">
+                        <a id="90" href="videos_template.html?id=90">1.4 Barómetro de mercurio</a>
+                    </div>
+                    <div class="item">
+                        <a id="91" href="videos_template.html?id=91">1.5 Unidades de presión</a>
+                    </div>
+                    <div class="item">
+                        <a id="92" href="videos_template.html?id=92">2.1 Isobaras, anticiclones y borrascas</a>
+                    </div>
+                    <div class="item">
+                        <a id="93" href="videos_template.html?id=93">3.1 Viento, rolar, caer, refrescar, racha y calmar</a>
+                    </div>
+                    <div class="item">
+                        <a id="94" href="videos_template.html?id=94">4.1 Terral y virazón</a>
+                    </div>
+                    <div class="item">
+                        <a id="95" href="videos_template.html?id=95">5.1 Escala Beaufourt</a>
+                    </div>
+                    <div class="item">
+                        <a id="96" href="videos_template.html?id=96">5.2 Anemómetro</a>
+                    </div>
+                    <div class="item">
+                        <a id="97" href="videos_template.html?id=97">5.3 Veleta náutica</a>
+                    </div>
+                    <div class="item">
+                        <a id="98" href="videos_template.html?id=98">5.4 Catavientos</a>
+                    </div>
+                    <div class="item">
+                        <a id="99" href="videos_template.html?id=99">6.1 Escala Douglas</a>
+                    </div>
+                    <div class="item">
+                        <a id="100" href="videos_template.html?id=100">6.2 Intensidad, persistencia y fetch</a>
+                    </div>
+                    <div class="item">
+                        <a id="101" href="videos_template.html?id=101">7.1 Temperatura</a>
+                    </div>
+                    <div class="item">
+                        <a id="102" href="videos_template.html?id=102">8.1 Previsión meteorológica y avisos de temporal</a>
+                    </div>
+                    <div class="item">
+                        <a id="103" href="videos_template.html?id=103">8.2 Previsión con barómetro</a>
+                    </div>
+                    <div class="item">
+                        <a id="104" href="videos_template.html?id=104">8.3 Previsión con barómetro y termómetro</a>
+                    </div>
+                    <div class="item">
+                        <a id="105" href="videos_template.html?id=105">8.4 Chubascos de lluvia y viento</a>
+                    </div>
+                    <div class="item">
+                        <a id="106" href="videos_template.html?id=106">8.5 Indicios meteorlógicos</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <nav id="inferior"  >
+            <div class="boton" id="atras"><a href="#"><img id="cola" src="img/atras.png" alt="atras"/>atras</a></div>
+            <div class="boton" id="menu"><a href="menu_principal.html"><img id="cola" src="img/menu_2.png" alt="menu"/>menu</a></div>
+            <div id="central"></div>
+        </nav>
+
+    </body>
+
+    <script src="js/iscroll_ini.js"></script>
+
+</html>
